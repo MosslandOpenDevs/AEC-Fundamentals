@@ -108,8 +108,8 @@
 
 메소포타미아와 이집트의 가장 대표적인 건축은 지구라트와 피라미드입니다. 두 건축물은 여러 방면에서 큰 차이점을 가지고 있습니다.
 
-![지구라트](01_img/zigg.png)
-![피라미드](01_img/pyramid.jpg)
+!<img src="01_img/zigg.png" style="width:40%;">
+!<img src="01_img/pyramid.jpg" style="width:40%;">
 
 | 구분 | 지구라트 | 피라미드 |
 | --- | --- | --- |
