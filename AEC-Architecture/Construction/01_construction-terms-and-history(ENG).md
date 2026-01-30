@@ -22,37 +22,37 @@ The design work and construction process are performed in the following order.
 
 ---
 
-# 건축선
+# Building Line
 
 <img src="01_img/line.png" style="width:70%;">
 
-건축선은 건축할 수 있는 도로 경계선을 지칭하는 말입니다.  
-넓은 도로의 경우에는 대지와 도로가 맞닿는 경계선 부분이 그대로 건축선이 되지만 도로의 너비가 좁은 경우에는 그 도로 중심선에서 필요한 소요 너비(보통 4M)의 1/2을 띄운 선이 건축선이 됩니다.
+An building line refers to the road boundaries that can be built.
+In the case of a wide road, the boundary line between the land and the road becomes the building line, but in the case of a narrow width of the road, the line with 1/2 of the required width (usually 4M) from the centerline of the road becomes the building line.
 
 <img src="01_img/line2.png" style="width:70%;">
 
-너비 8m 미만인 도로의 모퉁이에 위치한 대지는 도로 모퉁이 코너 부분에도 건축선을 지정합니다.  
-코너에서는 도로의 너비 별로 규정된 거리에 맞추어 일정 거리를 양쪽으로 후퇴한 뒤, 두 점을 연결한 선을 건축선으로 지정하게 됩니다.
+Land located at the corner of the road less than 8 m wide also designates building lines at the corner of the road.
+In the corner, a certain distance is retreated to both sides according to the prescribed distance for each width of the road, and the line connecting the two points is designated as the building line.
 
 ---
 
-# 면적 관련 용어
+# Area terminology
 
 <img src="01_img/mass.png" style="width:70%;">
 
-## 건축면적
-건축 면적은 대지에 지어진 건물을 위에서 보았을 때 바닥을 가리고 있는 면적을 말합니다.
+## Building area
+Building area refers to the area that covers the floor when you look at a building built on the ground from above.
 
-## 연면적
-대지에 들어선 건축물의 총 바닥 면적이 연면적입니다. 말 그대로 바닥 면적을 모두 연합하여 계산한 것으로, 건물을 매입하였을 경우나 신축하는 경우 이 연면적이 부동산 가치의 척도가 됩니다.  
-다만 연면적에는 공유 부분(계단이나 복도)과 벽의 일부가 함께 계산되기 때문에 보다 자세한 면적을 계산하기 위해서는 건축 도면과 맞추어 봐야 합니다.
+## Gross Floor Area (GFA)
+The total floor area of the building on the site is GFA. Literally, it is calculated by combining all floor areas, and this floor area is a measure of real estate value when a building is purchased or built.
+However, since the GFA is calculated with the shared part (steps or corridors) and part of the wall together, it is necessary to match the plans to calculate the more detailed area.
 
-## 대지면적
-대지면적은 건축할 수 있는 땅을 말합니다. 대지면적은 건축물 대장에 표시된 면적만을 가리키기 때문에 토지면적과 같거나 작을 수도 있습니다.
+## Site Area
+Site area refers to the site that can be built. Site area can be equal to or smaller than the site area because it only refers to the area indicated on the building register.
 
 ---
 
-# 비율 관련 용어
+# Ratio terminology
 
 ## 건폐율
 
