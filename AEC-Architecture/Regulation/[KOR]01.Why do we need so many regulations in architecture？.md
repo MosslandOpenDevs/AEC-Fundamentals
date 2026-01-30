@@ -1,6 +1,6 @@
 ![Regulation Intro Image](assets/images/Regulation%20Intro%20Image.jpg)
 
-# 1-0 건축 법규는 왜 필요한가?
+# 1. 건축 법규는 왜 필요한가?
 
 건축 법규를 처음 접하는 분들은 종종 이렇게 생각합니다.
 
