@@ -122,7 +122,7 @@ Egypt, on the other hand, used simple structures of soil and stone to create hug
 
 The most representative structures of Mesopotamia and Egypt are the Ziggurat and the Pyramids. The two structures have great differences in many ways.
 
-<img src="01_img/zigg-pyr.png" style="width:80%;">
+<img src="01_img/zigg-pyr.png" style="width:100%;">
 
 | Category | Ziggurat | Pyramids |
 | --- | --- | --- |
