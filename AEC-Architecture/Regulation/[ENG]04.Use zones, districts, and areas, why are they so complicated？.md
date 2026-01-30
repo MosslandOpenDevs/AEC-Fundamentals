@@ -4,15 +4,15 @@
 
 When you walk around a city, you often see **very different buildings on land of similar size**.
 
-In some places there are apartments, in others shops, and in others factories.
+In some places there are apartments, in others, shops, and in others, factories.
 
 This difference is not due to chance or personal preference.
 
-👉 It’s because **each piece of land has a pre-defined “use purpose.”**
+👉 It’s because **each piece of land has a predefined “use purpose.”**
 
 Cities do not grow randomly.
 
-If residential, commercial, and industrial facilities were mixed with no standards, the following problems would occur.
+If residential, commercial, and industrial facilities were mixed without standards, the following problems would occur.
 
 - **Noise · safety issues** from factories next to housing
 - **Traffic congestion** from over-concentrated commercial facilities
@@ -67,7 +67,7 @@ Each zone is set with different **allowed building types, scale, and density**.
 
 Here, the concepts of **district** and **area** are added.
 
-These are applied when management with only use zones is insufficient,
+These are applied when use zones alone are insufficient,
 
 👉 as **more detailed control mechanisms**.
 

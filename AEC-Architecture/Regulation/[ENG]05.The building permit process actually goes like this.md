@@ -54,7 +54,7 @@ The building permit process generally follows this order.
 4. **Start of construction**
 5. **Completion of construction**
 6. **Use approval**
-7. **Building can be used**
+7. **Building can be occupied**
 
 👉 Without this flow,
 
@@ -77,7 +77,7 @@ One of the most frequent concepts in the permit process is
 ### Notification
 
 - When **legal standards are clearly satisfied**
-- **Procedures proceed by document submission only**
+- **The process proceeds by document submission only**
 - Applied to relatively simple construction
 
 👉 Depending on the **building’s size, use, and location**,
@@ -96,7 +96,7 @@ This does not mean the design was wrong.
 - Relationship with the surrounding environment
 - Administrative judgment
 
-Through these,
+From these reviews,
 
 👉 **a determination is made that adjustments are needed.**
 
@@ -120,7 +120,7 @@ can lead to **even bigger problems**.
 - **It is the process that confirms whether a building can be legally built.**
 - An individual’s design and plan
     
-	enter **the rules of the city and society** through this process.
+	enter **the rules that govern the city and society** through this process.
     
 
 👉 That’s why understanding the building permit

@@ -1,8 +1,8 @@
 # 2. Why are there so many building regulations?
 
-When you start studying building regulations, the first confusing point is this.
+When you start studying building regulations, the first confusing point is this:
 
-The question, **“Why are there so many laws to refer to?”**
+**“Why are there so many laws to refer to?”**
 
 This is because architecture **is not an activity managed by only one law**.
 
@@ -68,7 +68,7 @@ Depending on the area,
 
 It doesn’t stop there.
 
-Architecture also applies the following **specialized laws and standards**.
+Architecture is also subject to the following **specialized laws and standards**.
 
 - 🔥 **Fire safety**: Can people evacuate safely in a fire?
 - 🚗 **Parking**: Is there enough space to accommodate vehicles?
@@ -98,7 +98,7 @@ If you first understand the **role structure of regulations**,
 
 the various rules that appear later
 
-👉 begin to look like a systematic system, not random rules.
+👉 begin to look systematic rather than random.
 
 **One-line summary**
 

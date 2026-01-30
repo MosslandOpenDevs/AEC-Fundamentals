@@ -79,7 +79,7 @@ These choices would likely be repeated.
 
 In the end, the damage would be borne by
 
-👉 **the people who use the buildings and the entire city together.**
+👉 **the people who use the buildings and the city as a whole.**
 
 ---
 

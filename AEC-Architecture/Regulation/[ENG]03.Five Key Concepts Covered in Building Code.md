@@ -15,7 +15,7 @@ But these concepts are not **rules to memorize**;
 - Building regulations **always start from the “site.”**
 - No matter how well a building is designed,
     
-	**if the site conditions don’t match, building itself becomes impossible**.
+	**if the site conditions don’t match, construction itself becomes impossible**.
 
 
 ### Why is it important?
@@ -66,7 +66,7 @@ But these concepts are not **rules to memorize**;
 ## Key concept 4️⃣ Height limit · Floor count limit
 
 
-- If the height limit is in **meters (m)**, the floor count limit literally decides **how many floors can be stacked**.
+- If the height limit is in **meters (m)**, the floor limit decides **how many floors can be stacked**.
 - If all buildings could rise without limits,
     
 	the urban environment would quickly deteriorate.
@@ -92,7 +92,7 @@ but **a mechanism to preserve the overall quality of the city**.
 ## Key concept 5️⃣ Setbacks · Daylighting · Sunlight
 
 - **Setback distance:** keeping the building a certain distance away from the site boundary or neighboring buildings.
-- **Daylighting:** literally letting sunlight into interiors; the Building Act requires a minimum window area for spaces where people stay long, like living rooms or bedrooms.
+- **Daylighting:** letting sunlight into interiors; the Building Act requires a minimum window area for spaces where people stay long, like living rooms or bedrooms.
 - **Sunlight access:** the fundamental reason for the “height limit” described above. It is the right to receive sunlight without harming others.
 - These standards strongly aim to **protect neighbors rather than the building owner**.
 - Setback distance, daylighting, and sunlight rights are specified in the Building Act and its subordinate decree (the Enforcement Decree of the Building Act).
