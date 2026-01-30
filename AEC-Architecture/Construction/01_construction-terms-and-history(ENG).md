@@ -54,108 +54,109 @@ Site area refers to the site that can be built. Site area can be equal to or sma
 
 # Ratio terminology
 
-## 건폐율
+## Building Coverage Ratio (BCR)
 
 <img src="01_img/BCR.png" style="width:70%;">
 
-건축면적이 대지에 대해 차지하는 비율입니다.  
-- (건축면적 / 대지면적 × 100)
+This is the percentage of the building area relative to the site area.
+- (building area / site area × 100)
 
-건폐율은 지역에 따라 건축법규로 미리 정해져 있으며, 건물을 지을 때 전체 면적을 결정 짓는 매우 중요한 요소입니다. 같은 면적의 토지이더라도 건축 면적이 달라지는 이유가 바로 이 건폐율 때문입니다.
+BCR is determined in advance by building regulations according to the region, and it is a very important factor in determining the total area when building a building. BCR is the reason why the building area varies even with the same area of land.
 
-## 용적률
+## Floor Area Ratio (FAR)
 
 <img src="01_img/FAR.png" style="width:70%;">
 
-건축물이 들어선 대지의 면적에 대한 연면적의 비율입니다.  
-- (연면적 / 대지면적 × 100)
+It is the ratio of GFA to the area of the site where the building was built.
+- (GFA / site area × 100)
 
-대지에 들어선 건축물의 부피 개념으로 볼 수 있습니다. 도심지 같이 고층 건물이 들어선 곳은 용적률이 높은 곳이며, 임야나 농어촌 지역에서는 용적률이 낮습니다.
+It can be seen as the volume of buildings on the ground. High-rise buildings, such as urban areas, have a high floor area ratio, and in forests and rural areas, the floor area ratio is low.
 
-건폐율, 용적률 둘 다 지역의 용도에 따라 정해진 기준이 달라지며, 대지의 용도는 건축 법규로 정해져 있습니다. 건축법은 건폐율과 용적률의 상한선을 그 지역적인 특성을 고려하여 반영함으로 건축물의 과밀화를 제한하기도 하고 환경적인 배려를 꾀하기도 합니다.
-
----
-
-# 구조 및 문서 용어
-
-## 내력벽
-건물의 지붕이나 위층의 하중을 지탱하여 아래층으로 전달하는 구조적으로 중요한 벽으로, 건물의 뼈대를 이루는 핵심 요소입니다. 보통 콘크리트나 블록으로 만들어지며, 기둥과 함께 건물의 안정성을 확보하는 역할을 하므로 임의로 철거해서는 안 되며, 건축법상 주요 구조부에 해당합니다.
-
-## 설계도서
-건축물의 건축 등에 관한 공사용 도면과 구조계산서 및 시방서 기타 관계서류 등을 말합니다.  
-설계도면과 헷갈릴 수 있으나 **설계도서는 도면을 포괄하는 큰 개념**, **설계도면은 설계도서의 종류 중 하나**로 각각 다른 개념입니다.
-
-## 공사시방서
-설계도면에 구체적으로 표기할 수 없는 재료의 성능 및 재질 등에 관한 사항이 표기되어 있습니다.  
-뿐만 아니라 시공 방법, 자재의 성능규격 및 공법, 품질시험 및 검사 등 품질관리, 안전관리, 환경관리 등에 대한 내용을 기술합니다.
-
-## 설계도서 작성 우선순위
-각 설계도서의 내용이나 법령해석, 감리자의 지시 등이 일치하지 않을 경우 보통 다음의 순서를 우선시해서 공사를 진행하게 됩니다.
-
-1. 공사시방서  
-2. 설계도면  
-3. 전문시방서  
-4. 표준시방서  
-5. 산출내역서  
-6. 승인된 상세시공도면  
-7. 관계법령의 해석  
-8. 감리자의 지시사항  
+Both the BCR and the FAR vary depending on the purpose of the area, and the purpose of the site is determined by building laws. The building law restricts the overcrowding of buildings and environmental considerations by reflecting the upper limit of the BCR and the FAR in consideration of regional characteristics.
 
 ---
 
-# 건축의 역사
+# Structure and Document terminology
 
-건축은 선사 시대부터 인류가 삶의 공간을 만들고자 움집 등의 구조물에서부터 시작해 오랜 세대에 걸쳐 많은 변화를 보였습니다. 이런 시대들을 겪으며 건축은 그 사회의 기술과 문화, 사회 변화를 반영하며 함께 성장해왔습니다.
+## Load-bearing wall
+It is a structurally significant wall that supports the load on the roof of a building or the upper floor and transmits it downstairs, which is a key component of the building's skeleton. It is usually made of concrete or blocks, and it serves to ensure the stability of the building along with the pillars, so it should not be demolished arbitrarily, and it is a main structural parts under construction law.
 
-건축의 역사는 각 시대의 기술, 예술, 사회, 문화, 종교, 정치를 담고 있는 거울로, 인류 문명의 발달 과정을 이해하는 중요한 열쇠입니다.
+## Design Documents
+It refers to the construction drawings for building works, structural calculation reports, specifications, and other related documents concerning the construction of a building.
+Although it can be confused with design drawings, **design documents are a broader concept that encompasses drawings**, while **design drawings are just one type of design document**—so they are different concepts.
 
-건축에 대해 알기 위해서는 이러한 건축의 흐름을 간단하게 알아보며 무엇이, 어떻게, 왜 바뀌었는지에 대한 사전 지식이 필요합니다.
+
+## Specification
+In the design drawing, matters regarding the performance and material of materials that cannot be specifically indicated are indicated.  
+In addition, it describes quality control, safety management, and environmental management, such as construction methods, performance standards and construction methods of materials, and quality tests and inspections.
+
+## Order of precedence for design documents
+When the contents of the design documents, interpretations of applicable laws/regulations, or the supervisor’s/inspector’s instructions do not match, construction is typically carried out by giving priority in the following order:
+
+1. Construction Specifications 
+2. Design Drawings
+3. Special Specifications 
+4. Standard Specifications
+5. Bill of Quantities (BOQ)
+6. Approved Detail Drawing
+7. Interpretation of Relevant Laws and Regulations  
+8. Supervisor’s/Inspector’s Instructions
 
 ---
 
-## 고대: 메소포타미아, 이집트
+# History of Architecture
 
-메소포타미아와 이집트는 세계 5대 고대 건축 문화로 꼽히는 지역들 중 일부입니다.  
-메소포타미아는 흙을 사용한 중정(집 안 건물과 건물 사이에 위치한 외부 노출 공간) 중심의 건축이 주로, 신전 등의 종교 건축물이 발달했습니다.
-반면 이집트는 분묘 건축으로, 흙과 석재를 사용한 간단한 구조로 거대한 건축물을 만들어냈습니다. 특히 피라미드처럼 아래쪽의 변이 크고 올라갈수록 좁아지는 경사 형식이 일반적인 형태로 꼽힙니다.
+Architecture has changed a lot over a long period of time, starting with structures such as huts to make space for human life since the prehistoric era. Through these times, architecture has grown together reflecting the technological, cultural, and social changes of society.
 
-메소포타미아와 이집트의 가장 대표적인 건축은 지구라트와 피라미드입니다. 두 건축물은 여러 방면에서 큰 차이점을 가지고 있습니다.
+The history of architecture is a mirror that contains the technology, art, society, culture, religion, and politics of each period, and is an important key to understanding the development process of human civilization.
+
+Knowing about architecture requires a simple understanding of the flow of architecture and prior knowledge of what, how, and why it has changed.
+
+---
+
+## Ancient: Mesopotamia, Egypt
+
+Mesopotamia and Egypt are some of the world's top five ancient architectural cultures.
+Mesopotamia was mainly built around a middle pavilion (an external exposure space located between buildings in the house) using soil, and religious structures such as temples were developed.
+Egypt, on the other hand, used simple structures of soil and stone to create huge structures with tomb construction. In particular, the general form is the slope in which the sides of the lower side are large and narrow as they go up like pyramids.
+
+The most representative structures of Mesopotamia and Egypt are the Ziggurat and the Pyramids. The two structures have great differences in many ways.
 
 <img src="01_img/zigg-pyr.png" style="width:40%;">
 
-| 구분 | 지구라트 | 피라미드 |
+| Category | Ziggurat | Pyramids |
 | --- | --- | --- |
-| 내부 | 밀적체 | 묘실 |
-| 기능 | 관측소, 제단 | 분묘 |
-| 방향 | 모서리가 동서남북 | 면이 동서남북 |
-| 재료 | 흙 벽돌 | 돌 |
+| Interior | Solid mass (filled) | Burial chamber |
+| Function | Observatory, altar | Tomb |
+| Orientation | Corners aligned with the cardinal directions (E/W/S/N) | Faces aligned with the cardinal directions (E/W/S/N) |
+| Material | Mud bricks | Stone |
 
 ---
 
-## 고전: 그리스
+## Classical: Greece
 
-그리스 건축은 서양 건축의 근본이 되는 건축입니다. 이들은 완벽한 비례에 집착하며 조화와 균형, 이상적인 미의 추구에 힘썼습니다. 신전은 기둥과 보로 이루어진 가구식 구조 형태로, 개방적인 시민 생활의 일부로 설계되었습니다. 가장 대표적인 건축물로는 파르테논 신전을 들 수 있습니다.
+Greek architecture is the foundation of Western architecture. They were obsessed with perfect proportion and worked hard to achieve harmony, balance, and pursuit of ideal beauty. The temple, in the form of furniture composed of columns and beams, was designed as part of an open civic life. One of the most representative structures is the Parthenon.
 
 <img src="01_img/greece.jpg" style="width:40%;">
 
-그리스에서는 고전 건축의 핵심 구성원리인 주범(order, 현재의 기둥과 비슷한 개념) 양식이 사용되었습니다. 이 주범이 본질적으로 구조적인 역할을 담당했기 때문에 그리스에서는 아치의 사용이 굉장히 드물었음을 확인할 수 있습니다.
+In Greece, the order style, a key constituent principle of classical architecture, was used. As this main character played a structural role, the use of arches was extremely rare in Greece.
 
 <img src="01_img/order.png" style="width:40%;">
 
 ---
 
-## 고전: 로마
+## Classical: Rome
 
-로마 건축은 그리스 건축의 의장과, 아치를 사용하는 에트루리아 건축의 구조를 흡수한 것이 특징입니다. 건물은 규모가 크고 화려하며, 도시를 이루는 시설들이 다양해졌습니다. 또한 화산재, 석회와 자갈을 혼합해 콘크리트를 만들어 사용하기도 했습니다. 
-로마의 대표적 건축물에는 판테온 신전이 있습니다.
+The architecture of Rome was characterized by its Greek architecture design and the absorption of Etruria architecture using arches. The buildings are large and colorful, and the facilities that make up the city have diversified. They also mixed volcanic ash, lime, and gravel to make concrete and use it. 
+The Pantheon is the representative structure of Rome.
 
 <img src="01_img/pantheon.jpg" style="width:40%;">
 
-로마에서는 그리스의 3주범을 변화시키고 2주범을 추가하여 5주범을 사용했습니다. 또한 아치와 볼트가 실질적인 구조 요소로 작용하고 있어 주범은 장식적인 요소로 이용되었습니다.  
+Rome used five orders by changing three Greek orders and adding two. Also, the order was used as a decorative element, with arches and bolts acting as real structural elements. 
 
 ---
 
-## 중세: 초기기독교
+## Medieval: Early Christianity
 
 중세부터는 건축이 교회 중심으로 돌아가기 시작합니다. 
 건축 활동은 로마 건축의 계속으로, 교회 건축은 왕성하였으나 일반 건축은 부진하였고 구조와 양식에 새 수법은 없었습니다.
