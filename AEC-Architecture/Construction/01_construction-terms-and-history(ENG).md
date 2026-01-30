@@ -5,7 +5,7 @@ Simply put, it refers to the process of planning, designing, and constructing a 
 
 Architecture is intertwined with many other issues such as culture, engineering, art, industry, technology, environment, economy, life, leisure, traditions, communities, laws and institutions, and publicity. To see the world wider and understand our lives, we need to get to know architecture.
 
-Before we get into a full-scale story, I'd like to look at the terms that are basically used in architecture and the general flow of architecture to modern times.
+Before we get into a full-scale story, I'd like to look at the terms that are basically used in architecture and the general flow of architecture to contemporary.
 
 ---
 
@@ -122,7 +122,7 @@ Egypt, on the other hand, used simple structures of soil and stone to create hug
 
 The most representative structures of Mesopotamia and Egypt are the Ziggurat and the Pyramids. The two structures have great differences in many ways.
 
-<img src="01_img/zigg-pyr.png" style="width:40%;">
+<img src="01_img/zigg-pyr.png" style="width:70%;">
 
 | Category | Ziggurat | Pyramids |
 | --- | --- | --- |
@@ -158,143 +158,143 @@ Rome used five orders by changing three Greek orders and adding two. Also, the o
 
 ## Medieval: Early Christianity
 
-중세부터는 건축이 교회 중심으로 돌아가기 시작합니다. 
-건축 활동은 로마 건축의 계속으로, 교회 건축은 왕성하였으나 일반 건축은 부진하였고 구조와 양식에 새 수법은 없었습니다.
+From the Medieval, architecture starts to revolve around the church. 
+The construction activity was a continuation of Roman architecture, with church architecture being vigorous, but general architecture was sluggish, and there were no new techniques in structure and style.
 
 <img src="01_img/basilica.png" style="width:40%;">
 
-초기기독교의 대표적인 양식은 바실리카식 교회입니다. 이는 로마의 재판소였던 바실리카의 형식에 따라 건축된 교회당으로, 그리스도교의 이념에 따라 계속 발전되어 추후 고딕양식을 형성하는 기초가 되었습니다.  
-구 성 베드로 성당, 성 로렌조 성당, 산타마리아 마지오레 성당 등이 대표적인 예시입니다.
+The typical style of early Christianity is the basilica church, which is a church that was built in accordance with the format of the basilica, which was the Roman court. This continued to develop in accordance with the Christian ideology and became the basis for the Gothic style.
+Representative examples include Old St. Peter’s Basilica, the Basilica of San Lorenzo, and the Basilica of Santa Maria Maggiore.
 
 ---
 
-## 중세: 비잔틴
+## Medieval: Byzantine
 
-비잔틴 건축은 그리스 문화를 흡수한 로마 건축을 바탕으로, 페르시아 건축과 동양적 요소가 가미되어 통합되었습니다. 대표적인 건축물로는 성 소피아 성당이 있습니다.
+Byzantine architecture was based on Roman architecture that absorbed Greek culture, incorporating Persian architecture and oriental elements. One of the most prominent structures is the Hagia Sophia.
 
 <img src="01_img/PENDENTIVE.png" style="width:40%;">
 
-비잔틴에서는 펜던티브(4각 평면 위에 인접기둥과 반원아치 구성 후 생긴 아치 사이의 삼각 곡면)를 사용해 중앙에 돔을 축조하는 구조법을 발전시켰습니다.  
-기둥은 구조적으로 아치를 지지하며, 이때 지지하는 받침으로 부주두(2중 주두 중 상부의 것, 아치를 지지하는 베이스 역할)를 사용했습니다.
+In Byzantine architecture, builders developed a structural method for constructing a central dome by using pendentives—triangular curved surfaces formed between adjacent piers and semicircular arches over a square plan.
+Structurally, the piers support the arches, and impost blocks were used as the supporting element at the top: the upper part of a double capital, serving as a base that carries the arch.
 
 ---
 
-## 중세: 로마네스크
+## Medieval: Romanesque
 
-로마네스크란 로마 건축기법에 게르만적 요소가 반영된 건축입니다. 고딕 양식이 정착하기 전 과도기적 모습을 보이고 있습니다.
+Romanesque is an architecture that reflects Germanic elements in Roman architectural techniques. It's in transition before the Gothic was settled.
 
 <img src="01_img/ratincross.png" style="width:40%;">
 
-로마네스크에선 바실리카식 평면의 발전으로 라틴 크로스 평면이 나타났습니다. 구조는 반원 아치를, 그리고 아치의 발달로 교차 볼트를 사용했습니다. 성당 하면 가장 대표적으로 떠오르는 스테인드 글라스가 이 시대에 창안되었으며 벽화가 많이 사용되었습니다.
+In Romanesque architecture, the development of the basilica plan led to the emergence of the Latin-cross plan. Structurally, round (semicircular) arches were used, and as arch construction advanced, groin vaults came into use. The stained glass that most people associate with cathedrals originated in this period, and wall paintings (frescoes) were widely used.
 
 ---
 
-## 중세: 고딕
+## Medieval: Gothic
 
-고딕 건축은 로마네스크 양식을 더욱 엄격히 다뤄 건축적 완벽성을 지향함으로서 종교적 신념과 사상을 건축에 옮겼습니다. 고딕은 구조가 합리적으로 구축되도록 발달된 석공 기술을 이용해 석재를 자유로이 사용했다는 장점이 있습니다. 우리나라의 명동 성당 역시 고딕 양식의 성당입니다.
+Gothic architecture transferred religious beliefs and ideas to architecture with a view to architectural perfection as it handled the Romanesque more strictly. Gothic has the advantage of being able to freely use stone by utilizing advanced stonemasoning techniques so that its structure can be constructed reasonably. Myeongdong Cathedral in Korea is also a Gothic cathedral.
 
 <img src="01_img/gothic.png" style="width:40%;">
 
-고딕 건축에서는 첨두아치와 리브볼트, 첨탑과 블라잉 버트레스가 특징입니다. 수직선을 의장의 주 요소로 하늘을 지향하는 종교적 신념과 그 사상을 합리적으로 반영했습니다. (수평적 분절 억제, 수직적 분절 강조) 이런 수직선이 고딕시대의 교회 건축과 일반 건축의 의장을 결정짓는 중요한 요소입니다. 또한 이런 건축적 특징으로 주벽의 개구부가 확장되면서 화려한 장미창이 사용되었습니다.
+Gothic architecture is characterized by pointed arches, rib vaults, spires, and flying buttresses. It rationally reflects the religious belief and ideology of aspiring toward the heavens by making vertical lines the main design element (suppressing horizontal articulation and emphasizing vertical articulation). These vertical lines are an important factor that distinguishes between church architectural design and general architecture in Gothic period. In addition, as these structural features allowed the openings in the main walls to expand, ornate rose windows came into widespread use.
 
 ---
 
-## 근세: 르네상스
+## Modern: Renaissance
 
-르네상스는 플로렌스 성당 돔 증축에서 시작되었습니다. 르네상스의 의미는 ‘부활’로, 고대 그리스·로마의 고전 형식미를 다시 추구했습니다. 이들은 로마 양식을 기초로 하여 돔, 주범 등 고전적 요소를 창의적으로 자유롭게 구사한 새로운 양식을 형성했습니다. 게다가 비례, 조화의 개념과 법칙을 추구하며, 고딕과 달리 인간의 사회성과 세속적 성격을 강조하는 수평선을 강조합니다.
+The Renaissance began with the construction of the dome addition to Florence Cathedral. The term Renaissance means “rebirth,” and it involved a renewed pursuit of the classical formal beauty of ancient Greece and Rome. Building on Roman, architects developed a new style that freely and creatively employed classical elements such as domes and orders. They also pursued the concepts and principles of proportion and harmony, and—unlike Gothic architecture—emphasized horizontal lines, highlighting humanity’s social nature and a more secular character.
 
 <img src="01_img/florence-cathedral.jpg" style="width:40%;">
 
-르네상스의 돔 구조법은 비잔틴 양식에서 이어진 것으로, 드럼을 높게 하여 창을 추어 채광 효과를 주는 것이 특징입니다. 외벽이 중층일 때는 매 층마다 돌림띠로 수평을 강조했고, 평면 계획과 외관 구성에 있어서 비례, 대칭성 등을 중시했습니다.
+Renaissance dome construction methods were inherited from the Byzantine style, and a key feature was the use of a tall drum and windows to bring in more daylight. When the exterior wall was designed with multiple stories, horizontal string courses were used at each level to emphasize horizontality. In both plan layout and façade composition, Renaissance architecture placed great importance on proportion and symmetry.
 
 ---
 
-## 근세: 바로크
+## Modern: Baroque
 
-바로크는 변질 또는 기이란 뜻으로, 르네상스 양식이 쇠퇴하고 변화하며 나타난 양식입니다. 바로크는 종교, 권력 등 공공적 생활 위주의 건축으로, 규모가 장대하고 굉장히 장식적이며 감각적이라는 특징을 가지고 있습니다.
+Baroque means deterioration or eccentricity, a style that emerged as the Renaissance style declined and changed. Baroque is an architecture focused on public life, such as religion and power, and is characterized by its grand scale, great decorations, and sensibility.
 
 <img src="01_img/baroque.jpg" style="width:40%;">
 
-바로크는 회화, 조각, 공예 등이 건축과 결합하여 종합 예술적 효과를 도모했습니다. 이 때문에 곡선의 도입, 파동치는 벽, 타원 벽면의 선호, 현란한 장식요소 등이 사용되었고 공간과 매스, 움직임과 정지, 빛과 음영, 돌출과 후퇴, 큰 것과 작은 것 등의 대조성이 종합되었습니다. 또한 과장된 투시도적 효과가 나타났고 수평 수직적 요소 간 상호 영향이 있었습니다.
+Baroque architecture sought a total artistic effect by combining painting, sculpture, and the decorative arts with architecture. As a result, curves, undulating walls, a preference for oval wall surfaces, and flamboyant ornamental elements were widely used, synthesizing contrasts such as space and mass, movement and stillness, light and shadow, projection and recession, and large and small. It also produced exaggerated perspectival effects, and there was a strong interplay between horizontal and vertical elements.
 
 ---
 
-## 근세: 로코코
+## Modern: Rococo
 
-로코코란 조개껍질에서 볼 수 있는 곡면, 곡선을 노출시킨 것으로 프랑스 장식에서 유래됐습니다. 로코코는 개인이 차지하는 내부공간을 아담하고 아름답게 꾸민 실내공간 위주의 양식입니다. 구조적 특징 없이 장식적 측면이 발달했고, 개인의 프라이버시를 중요시한다는 특징이 있습니다.
+Rococo originated in French decoration, taking its name from the shell-like curves and exposed sinuous forms often seen in ornamental motifs. It is a style focused mainly on interior design, creating intimate and beautifully decorated private spaces. Rather than developing distinctive structural features, Rococo advanced primarily in its decorative aspects, and it is characterized by an emphasis on individual privacy.
 
 <img src="01_img/rococo.jpg" style="width:40%;">
 
 ---
 
-## 과도기: 신고전주의
+## Transition: Neoclassicism
 
-18세기 전반 고전(그리스, 로마) 건축을 정확하게 재현하려는 움직임으로 생긴 건축양식입니다. 화려한 로코코에 대한 반발로 신고전주의에서는 장식이 최소화되고, 기둥이 높아졌다는 특징이 있습니다.
+It is an architectural style that emerged in the first half of the 18th century from a movement to accurately reproduce classical (Greek and Roman) architecture. As a reaction against the ornate Rococo style, Neoclassicism is characterized by minimized decoration and taller columns.
 
 <img src="01_img/the-white-house.jpg" style="width:40%;">
 
 ---
 
-## 과도기: 낭만주의
+## Transition: Romanticism
 
-낭만주의는 신고전주의에 반발해 영국에서 출발한 건축 양식입니다. 향토주의, 평민주의, 중세주의를 내포하고 있으며, 고딕 양식에 의해 새로운 시대의 과제를 해결하고자 하는 건축 양식입니다.
+Romanticism is an architectural movement that began in England as a reaction against Neoclassicism. It embodies vernacularism (regionalism), populism, and medievalism, and it sought to address the challenges of a new era by drawing on Gothic architecture.
 
 <img src="01_img/big-ben.jpg" style="width:40%;">
 
 ---
 
-## 과도기: 절충주의
+## Transition: Eclecticism
 
-신고전주의와 낭만주의를 절충한 방식이라 절충주의라고 불립니다. 이들은 일정한 양식에 매이지 않고 자유롭게 예술가의 창조성을 우선시했습니다. 이러한 절충주의에서는 르네상스, 바로크, 로코코 등 자유로운 양식 선택으로 여러 종류의 건축 양식이 발생하였습니다.
+Because it blended Neoclassicism and Romanticism, it came to be called Eclecticism. Rather than adhering to a single style, eclectic architects prioritized artistic freedom and creativity. As a result, freely drawing from styles such as the Renaissance, Baroque, and Rococo, Eclecticism gave rise to a wide variety of architectural expressions.
 
 <img src="01_img/brighton.jpg" style="width:40%;">
 
 ---
 
-# 근현대: 건축운동
+# Modern & Contemporary: Architectural Movements
 
-19세기 말에서 20세기 초에는 산업혁명과 시민사회 발전에 따라 전통적 형식주의를 비판하고, 기술(철근 콘크리트 등), 기능주의, 합리성을 중시한 건축 사조가 보이며 많은 건축운동이 일어났습니다. 다음은 그 중 대표적인 건축운동 몇 가지입니다.
+From the late 19th century to the early 20th century, the Industrial Revolution and the growth of civil society led to criticism of traditional formalism. New architectural trends emerged that emphasized technology (such as reinforced concrete), functionalism, and rationality, and many architectural movements arose. Below are some representative examples:
 
-1. **수공예 운동**: 기계 생산을 거부하고 수공업으로의 복귀를 주장한 운동입니다. 간결한 형태와 꾸밈 없는 선형의 사용으로 모더니즘의 전조를 보였습니다. 수공예 운동의 창시자인 윌리엄 모리스의 레드하우스가 가장 대표적인 수공예 운동 건축물의 예시입니다.  
-2. **아르누보**: 19세기 말에 등장한 아르누보는 ‘새로운 예술’이라는 뜻을 가진 건축 양식입니다. 가장 큰 특징은 자연에서 영감을 받은 유기적 곡선의 사용입니다. 아르누보 건축가들은 철과 유리 같은 새로운 재료를 적극적으로 활용해 기존의 딱딱하고 직선적인 건축에서 벗어나 부드럽고 유연한 형태를 만들어냈습니다. 가우디의 카사 밀라가 대표적인 건축물입니다.  
-3. **시카고파**: 기존의 석조와 목조건축들이 불타버린 1871년 시카고 대화재 후 도시재건을 보다 신속하게 건설하기 위해 철골, 고층빌딩, 엘리베이터를 이용한 오피스사무소의 전형적인 건축형식을 완성하였습니다. 프랭크 로이드 라이트의 구겐하임 미술관이 시카고파 건축물의 대표적인 예시입니다.  
-4. **바우하우스**: 1919년 월터 그로피우스가 바이마르에 만든 미술학교와 공예학교를 합병하여 국립 바우하우스라고 명명, 근대건축 확산에 이바지하였습니다.  
-5. **CIAM**: 현대건축운동의 핵심적인 추진단체로 각국 건축가의 자유롭고 활발한 교류를 자극하여 국제적인 성격이 강한 기능주의, 합리주의 건축을 보급했으나 제 10차 회의가 끝날 무렵 급진론자에 의해 해체되었습니다.  
-
----
-
-# 현대
-
-현대의 건축에는 여러 가지 경향이 나타나고 있습니다. 여기에서는 그 중 주요하게 나타나는 몇 가지 경향만 소개합니다.
-
-1. **모더니즘 건축**: ‘형태는 기능을 따른다’는 원칙을 가지고 있습니다. 건물의 모양은 그 건물의 용도에 맞게 설계되어야 한다는 뜻으로, 모더니즘 건축가들은 불필요한 장식을 모두 제거하고 단순하고 기하학적인 형태를 추구했습니다. 특히 철근 콘크리트와 유리를 적극적으로 사용해 더 높고, 더 넓은 공간을 만들 수 있게 되었습니다. 한국의 63빌딩이나 코엑스몰도 모더니즘의 영향을 받은 건축물입니다.  
-2. **포스트모더니즘 건축**: 포스트모더니즘은 모더니즘에 대한 반발로 등장했습니다. 이 양식의 특징은 역사적 요소와 현대적 요소를 절충한다는 점입니다.  
-3. **레이트모더니즘 건축**: 포스트모더니즘과 반대로 근대적인 건축개념은 종료되지 아니하고, 계속 이어지고 발전된다는 개념입니다.  
-4. **지역주의**: 지역별로 변화하는 지역의 특정한 풍토, 기후, 기술, 문화, 자원 등에 대응하려 그 지역환경에 적합한 건축을 지향하는 건축사조입니다.  
-5. **하이테크 건축**: 하이테크 건축은 첨단 기술과 공학적 요소를 드러냅니다. 주로 금속과 유리를 사용하며, 건물의 구조와 설비 시스템을 그대로 노출시킵니다.  
-6. **해체주의**: 포스트모던 건축의 한 흐름으로, 기존 건축의 조화, 대칭, 균형, 기능성 등 전통적 질서를 거부하고 의도적으로 파편화, 비정형, 비대칭적인 형태를 통해 긴장감과 역동성을 표현하는 양식입니다.  
+1. **Arts and Crafts Movement**: A movement that rejected machine production and advocated a return to craftsmanship. Through simple forms and the use of unadorned linear designs, it foreshadowed Modernism. A representive example is the Red House by William Morris, the founder of the Arts and Crafts Movement.
+2. **Art Nouveau**: Emerging in the late 19th century, Art Nouveau literally means “new art.” Its most distinctive feature is the use of organic curves inspired by nature. Art Nouveau architects actively adopted new materials such as iron and glass, moving away from rigid, straight-lined architecture to create softer, more fluid forms. A representive work is Casa Milà by Antoni Gaudí.
+3. **Chicago School**: After the Great Chicago Fire of 1871, which destroyed many stone and timber buildings, the city’s rapid reconstruction led to the development of a typical office-building model using steel frames, high-rise construction, and elevators. A well-known example of Chicago School architecture is the Guggenheim Museum by Frank Lloyd Wright.
+4. **Bauhaus**: In 1919, Walter Gropius merged an art school and a crafts school in Weimar and named it the State Bauhaus, contributing to the spread of modern architecture.
+5. **CIAM**: A key driving organization of the modern architectural movement, CIAM encouraged free and active exchange among architects from different countries and helped disseminate functionalist and rationalist architecture with a strong international character. However, it was dissolved by radical members around the end of the 10th congress.
 
 ---
 
-# 현대: 친환경 건축
+# Contemporary
 
-최근에는 환경 문제가 중요한 이슈로 떠오르면서 친환경 건축이 주목받고 있습니다. 이 사조는 에너지 효율성과 지속 가능성을 가장 중요하게 여깁니다.
+Contemporary architecture shows a wide range of tendencies. Here, only a few of the major trends are introduced.
 
-친환경 건축에서 보이는 경향은 다음과 같습니다.
-
-- 자연 채광과 자연 환기 시스템 활용  
-- 재생 가능한 재료 사용  
-- 옥상 정원이나 벽면 녹화 등 녹색 공간 조성  
-- 태양광 패널, 지열 시스템 등 신재생 에너지 활용  
-
-이런 친환경 건축이 주로 떠오르며 점차 녹색 건축 인증제도도 만들어지는 추세입니다.
-
-- **LEED**: US GBC 주도하에 개발된 신축 및 기존 빌딩의 등급평가입니다.  
-- **G-SEED**: 한국의 녹색건축 인증등급으로, 국토교통부장관과 환경부잔관이 공동으로 정하여 고시하는 인증기준에 따라 4등급으로 구분합니다.  
+1. **Modernist Architecture**: It is based on the principle that “form follows function.” In other words, a building’s shape should be designed to suit its purpose. Modernist architects removed unnecessary ornament and pursued simple, geometric forms. In particular, the active use of reinforced concrete and glass made it possible to create taller buildings and wider open spaces. In Korea, buildings such as the 63 Building and COEX Mall were influenced by Modernism. 
+2. **Postmodernism**: Postmodernism emerged as a reaction against Modernism. A key characteristic of this style is the eclectic mixing of historical elements with contemporary ones.
+3. **Late Modernism**: Unlike Postmodernism, this approach holds that modern architectural ideas did not end but have continued and evolved.
+4. **Regionalism**: An architectural tendency that aims for designs suited to the local environment, responding to region-specific conditions such as climate, technology, culture, and available resources.
+5. **High-Tech Architecture**: High-tech architecture emphasizes advanced technology and engineering, typically using metal and glass and openly exposing the building’s structure and service systems.
+6. **Deconstructivism**: A branch of Postmodern architecture that rejects traditional order—such as harmony, symmetry, balance, and conventional functionality—and instead expresses tension and dynamism through fragmentation, irregular forms, and asymmetry.
 
 ---
 
-# 참고 자료 출처
+# Contemporary: Eco-Friendly Architecture
+
+In recent years, as environmental issues have become a major concern, sustainable (eco-friendly) architecture has gained increasing attention. This approach places the highest priority on energy efficiency and sustainability.
+
+Common trends in sustainable architecture include:
+
+- Making use of daylighting and natural ventilation systems 
+- Using renewable and environmentally friendly materials
+- Creating green spaces such as rooftop gardens and green walls
+- Utilizing renewable energy technologies such as solar panels and geothermal systems
+
+As sustainable architecture becomes more prominent, green building certification systems are also becoming more widespread.
+
+- **LEED**: A rating system for new and existing buildings developed under the leadership of the U.S. Green Building Council (USGBC).
+- **G-SEED**: Korea’s green building certification system. Under certification criteria jointly established and announced by the Ministry of Land, Infrastructure and Transport (MOLIT) and the Ministry of Environment (MOE), buildings are classified into four rating levels.
+
+---
+
+# Reference
 
 - 김형돈, 2026 킴아카 건축계획(학), 킴아카출판사
 - Winand W. Klassen(심우갑, 조우철 옮김), 서양건축사, 대우출판사
