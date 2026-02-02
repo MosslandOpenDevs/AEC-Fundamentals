@@ -41,13 +41,13 @@
 
 <h3 align="center">✔️ 방 설계 시 기준 감각</h3>
 <p align="center">- <strong>법적 기준</strong></p>
-<p align="center">· 방 크기 자체보다 채광·환기 확보가 가능한지 여부가 중요</p>
-<p align="center">· 창 면적, 창 위치가 기준이 되는 경우가 많음</p>
+<p align="center">● 방 크기 자체보다 채광·환기 확보가 가능한지 여부가 중요</p>
+<p align="center">● 창 면적, 창 위치가 기준이 되는 경우가 많음</p>
 <p align="center">- <strong>실무에서 많이 쓰이는 치수 감각</strong></p>
-<p align="center">· 침대 옆 최소 이동 여유 확보</p>
-<p align="center">· 문 여닫힘 반경 + 통로 폭 확보</p>
-<p align="center">· 결과적으로 <strong>최소 2.7~3.0m 내외의 폭</strong>이 있어야</p>
-<p align="center">· ‘답답하지 않은 방’으로 인식됨</p>
+<p align="center">● 침대 옆 최소 이동 여유 확보</p>
+<p align="center">● 문 여닫힘 반경 + 통로 폭 확보</p>
+<p align="center">● 결과적으로 <strong>최소 2.7~3.0m 내외의 폭</strong>이 있어야</p>
+<p align="center">● ‘답답하지 않은 방’으로 인식됨</p>
 
 <p align="center">👉 방은</p>
 <p align="center">“법적으로 만들 수 있느냐”보다</p>
@@ -61,11 +61,11 @@
 
 <h3 align="center">✔️ 복도 설계 시 기준</h3>
 <p align="center">- <strong>법적으로 허용되는 최소 폭</strong></p>
-<p align="center">· 공동주택·업무시설 기준 → 보통 <strong>약 1.2m 전후</strong></p>
-<p align="center">· ‘한 사람이 통과할 수 있는 최소 기준’</p>
+<p align="center">● 공동주택·업무시설 기준 → 보통 <strong>약 1.2m 전후</strong></p>
+<p align="center">● ‘한 사람이 통과할 수 있는 최소 기준’</p>
 <p align="center">- <strong>실무에서 많이 사용하는 폭</strong></p>
-<p align="center">· <strong>1.5m 내외</strong> → 두 사람이 마주 보고 무리 없이 통과</p>
-<p align="center">· <strong>1.8m 이상</strong> → 공용부에서 쾌적하다고 느껴지는 폭</p>
+<p align="center">● <strong>1.5m 내외</strong> → 두 사람이 마주 보고 무리 없이 통과</p>
+<p align="center">● <strong>1.8m 이상</strong> → 공용부에서 쾌적하다고 느껴지는 폭</p>
 
 <p align="center">👉 그래서 설계에서는</p>
 <p align="center">“법적으로 가능”과 “사람이 편함”을 <strong>의도적으로 구분</strong>합니다.</p>
@@ -78,15 +78,14 @@
 
 <h3 align="center">✔️ 로비 설계 시 기준 감각</h3>
 <p align="center">- <strong>법적 관점</strong></p>
-<p align="center">· 피난, 출입구 폭, 장애인 동선 기준이 중심</p>
-<p align="center">· ‘정체 없이 이동 가능한가’를 우선 검토</p>
+<p align="center">● 피난, 출입구 폭, 장애인 동선 기준이 중심</p>
+<p align="center">● ‘정체 없이 이동 가능한가’를 우선 검토</p>
 <p align="center">- <strong>실무 감각</strong></p>
-<p align="center">· 출입구 앞 최소 <strong>2.5~3.0m 이상</strong> 여유 확보</p>
-<p align="center">· 대기 인원 발생 시에도 동선이 막히지 않도록 계획</p>
-<p align="center">· 단순 면적보다 <strong>폭과 깊이의 비율</strong>을 중요하게 봄</p>
+<p align="center">● 출입구 앞 최소 <strong>2.5~3.0m 이상</strong> 여유 확보</p>
+<p align="center">● 대기 인원 발생 시에도 동선이 막히지 않도록 계획</p>
+<p align="center">● 단순 면적보다 <strong>폭과 깊이의 비율</strong>을 중요하게 봄</p>
 
-<p align="center">👉 로비는</p>
-<p align="center">“넓어 보이는 공간”이 아니라</p>
+<p align="center">👉 로비는 “넓어 보이는 공간”이 아니라</p>
 <p align="center"><strong>사람이 엉키지 않는 공간</strong>입니다.</p>
 
 <hr />
@@ -108,11 +107,11 @@
 
 <h3 align="center">✔️ 층고 설계 시 기준</h3>
 <p align="center">- <strong>법적 기준</strong></p>
-<p align="center">· 주거·업무 공간 → 보통 <strong>유효층고 약 2.3~2.4m 이상</strong></p>
-<p align="center">· 구조체, 설비를 제외한 실제 사용 높이가 기준</p>
+<p align="center">● 주거·업무 공간 → 보통 <strong>유효층고 약 2.3~2.4m 이상</strong></p>
+<p align="center">● 구조체, 설비를 제외한 실제 사용 높이가 기준</p>
 <p align="center">- <strong>실무에서 많이 쓰이는 층고</strong></p>
-<p align="center">· 주거 공간 → 체감상 편안한 층고는 <strong>2.4~2.5m 내외</strong></p>
-<p align="center">· 로비·공용부 → <strong>3.0m 이상</strong>에서 개방감 형성</p>
+<p align="center">● 주거 공간 → 체감상 편안한 층고는 <strong>2.4~2.5m 내외</strong></p>
+<p align="center">● 로비·공용부 → <strong>3.0m 이상</strong>에서 개방감 형성</p>
 
 <p align="center">👉 층고는</p>
 <p align="center">조금만 달라져도 공간의 인상이 완전히 바뀝니다.</p>
