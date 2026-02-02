@@ -25,10 +25,10 @@
 <h2 align="center">1. 공간은 ‘면적’이 아니라 ‘사람의 행동’으로 나뉩니다</h2>
 <p align="center">설계에서 가장 먼저 나오는 질문은 이것입니다.</p>
 <p align="center">&gt; “이 공간에서 사람은 무엇을 하나?”</p>
-<p align="center">- 잠을 잔다</p>
-<p align="center">- 걷는다</p>
-<p align="center">- 멈춰서 기다린다</p>
-<p align="center">- 여러 사람이 동시에 지나간다</p>
+<p align="center"><strong>-</strong> 잠을 잔다</p>
+<p align="center"><strong>-</strong> 걷는다</p>
+<p align="center"><strong>-</strong> 멈춰서 기다린다</p>
+<p align="center"><strong>-</strong> 여러 사람이 동시에 지나간다</p>
 <p align="center">이 행동에 따라</p>
 <p align="center">공간마다 <strong>최소한 필요한 크기</strong>와 <strong>실제로 쓰기 편한 크기</strong>가 달라집니다.</p>
 
@@ -40,10 +40,10 @@
 <p align="center"><img src="asset/image.svg" alt="방 이미지" width="50%" /></p>
 
 <h3 align="center">✔️ 방 설계 시 기준 감각</h3>
-<p align="center">- <strong>법적 기준</strong></p>
+<p align="center"><strong>-</strong> <strong>법적 기준</strong></p>
 <p align="center">● 방 크기 자체보다 채광·환기 확보가 가능한지 여부가 중요</p>
 <p align="center">● 창 면적, 창 위치가 기준이 되는 경우가 많음</p>
-<p align="center">- <strong>실무에서 많이 쓰이는 치수 감각</strong></p>
+<p align="center"><strong>-</strong> <strong>실무에서 많이 쓰이는 치수 감각</strong></p>
 <p align="center">● 침대 옆 최소 이동 여유 확보</p>
 <p align="center">● 문 여닫힘 반경 + 통로 폭 확보</p>
 <p align="center">● 결과적으로 <strong>최소 2.7~3.0m 내외의 폭</strong>이 있어야</p>
@@ -60,10 +60,10 @@
 <p align="center"><img src="asset/2.jpg" alt="복도 이미지" width="50%" /></p>
 
 <h3 align="center">✔️ 복도 설계 시 기준</h3>
-<p align="center">- <strong>법적으로 허용되는 최소 폭</strong></p>
+<p align="center"><strong>-</strong> <strong>법적으로 허용되는 최소 폭</strong></p>
 <p align="center">● 공동주택·업무시설 기준 → 보통 <strong>약 1.2m 전후</strong></p>
 <p align="center">● ‘한 사람이 통과할 수 있는 최소 기준’</p>
-<p align="center">- <strong>실무에서 많이 사용하는 폭</strong></p>
+<p align="center"><strong>-</strong> <strong>실무에서 많이 사용하는 폭</strong></p>
 <p align="center">● <strong>1.5m 내외</strong> → 두 사람이 마주 보고 무리 없이 통과</p>
 <p align="center">● <strong>1.8m 이상</strong> → 공용부에서 쾌적하다고 느껴지는 폭</p>
 
@@ -77,10 +77,10 @@
 <p align="center">대신 <strong>동시에 몇 명이 사용하는가</strong>가 핵심입니다.</p>
 
 <h3 align="center">✔️ 로비 설계 시 기준 감각</h3>
-<p align="center">- <strong>법적 관점</strong></p>
+<p align="center"><strong>-</strong> <strong>법적 관점</strong></p>
 <p align="center">● 피난, 출입구 폭, 장애인 동선 기준이 중심</p>
 <p align="center">● ‘정체 없이 이동 가능한가’를 우선 검토</p>
-<p align="center">- <strong>실무 감각</strong></p>
+<p align="center"><strong>-</strong> <strong>실무 감각</strong></p>
 <p align="center">● 출입구 앞 최소 <strong>2.5~3.0m 이상</strong> 여유 확보</p>
 <p align="center">● 대기 인원 발생 시에도 동선이 막히지 않도록 계획</p>
 <p align="center">● 단순 면적보다 <strong>폭과 깊이의 비율</strong>을 중요하게 봄</p>
@@ -106,10 +106,10 @@
 </table>
 
 <h3 align="center">✔️ 층고 설계 시 기준</h3>
-<p align="center">- <strong>법적 기준</strong></p>
+<p align="center"><strong>-</strong> <strong>법적 기준</strong></p>
 <p align="center">● 주거·업무 공간 → 보통 <strong>유효층고 약 2.3~2.4m 이상</strong></p>
 <p align="center">● 구조체, 설비를 제외한 실제 사용 높이가 기준</p>
-<p align="center">- <strong>실무에서 많이 쓰이는 층고</strong></p>
+<p align="center"><strong>-</strong> <strong>실무에서 많이 쓰이는 층고</strong></p>
 <p align="center">● 주거 공간 → 체감상 편안한 층고는 <strong>2.4~2.5m 내외</strong></p>
 <p align="center">● 로비·공용부 → <strong>3.0m 이상</strong>에서 개방감 형성</p>
 
@@ -134,9 +134,9 @@
 </table>
 
 <h3 align="center">✔️ 설계에서 실제로 보는 관점</h3>
-<p align="center">- 좁고 높은 공간 → 압박감, 불안정</p>
-<p align="center">- 넓고 낮은 공간 → 안정감, 경우에 따라 답답함</p>
-<p align="center">- 같은 면적이라도 비율에 따라 전혀 다른 공간으로 인식됨</p>
+<p align="center"><strong>-</strong> 좁고 높은 공간 → 압박감, 불안정</p>
+<p align="center"><strong>-</strong> 넓고 낮은 공간 → 안정감, 경우에 따라 답답함</p>
+<p align="center"><strong>-</strong> 같은 면적이라도 비율에 따라 전혀 다른 공간으로 인식됨</p>
 
 <p align="center">👉 그래서 설계에서는</p>
 <p align="center">법적 최소 치수를 맞춘 뒤,</p>
@@ -191,8 +191,8 @@
 </p>
 
 <p align="center">건축 설계는 법규를 맞추는 일로 끝나지 않습니다.</p>
-<p align="center">- 법적으로는 가능하지만</p>
-<p align="center">- 실제로는 불편한 공간</p>
+<p align="center"><strong>-</strong> 법적으로는 가능하지만</p>
+<p align="center"><strong>-</strong> 실제로는 불편한 공간</p>
 <p align="center">이런 공간은 좋은 설계라고 보기 어렵습니다.</p>
 <p align="center">공간의 기본 단위를 이해한다는 것은</p>
 <p align="center"><strong>법이 요구하는 최소 기준 위에서, 사람을 얼마나 배려했는지를 읽어내는 일</strong>입니다.</p>
