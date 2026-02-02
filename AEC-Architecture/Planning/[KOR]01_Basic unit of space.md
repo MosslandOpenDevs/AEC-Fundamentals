@@ -4,14 +4,20 @@
     }
     .markdown-body ul,
     .markdown-body ol {
-        list-style-position: inside;
-        padding-left: 0;
-        margin-left: 0;
+        list-style-position: inside !important;
+        padding-left: 0 !important;
+        margin-left: 0 !important;
+        text-align: center !important;
+    }
+    .markdown-body li {
+        text-align: center !important;
     }
     .markdown-body blockquote {
-        margin: 0 auto;
+        margin: 0 auto !important;
+        padding: 0 !important;
+        border-left: none !important;
         display: inline-block;
-        text-align: center;
+        text-align: center !important;
     }
     .markdown-body table {
         margin: 0 auto;
