@@ -1,3 +1,5 @@
+<div align="center">
+
 # 공간의 기본 단위
 <p align="center">
     <img src="asset/Basic%20unit%20of%20space.jpg" alt="시작이미지" width="600" height="600" />
@@ -229,3 +231,5 @@
 공간의 기본 단위를 이해한다는 것은
 
 **법이 요구하는 최소 기준 위에서, 사람을 얼마나 배려했는지를 읽어내는 일**입니다.
+
+</div>
