@@ -97,7 +97,7 @@
 <table align="center" width="100%">
     <tr>
         <td align="center" width="50%">
-            <img src="asset/3.png" alt="낮은 층고 이미지" width="90%" />
+            <img src="asset/3.jpg" alt="낮은 층고 이미지" width="90%" />
         </td>
         <td align="center" width="50%">
             <img src="asset/4.png" alt="높은 층고 이미지" width="90%" />
