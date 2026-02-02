@@ -1,3 +1,27 @@
+<style>
+    .markdown-body {
+        text-align: center;
+    }
+    .markdown-body ul,
+    .markdown-body ol {
+        list-style-position: inside;
+        padding-left: 0;
+        margin-left: 0;
+    }
+    .markdown-body blockquote {
+        margin: 0 auto;
+        display: inline-block;
+        text-align: center;
+    }
+    .markdown-body table {
+        margin: 0 auto;
+    }
+    .markdown-body th,
+    .markdown-body td {
+        text-align: center;
+    }
+</style>
+
 <h1 align="center">공간의 기본 단위</h1>
 <p align="center">
     <img src="asset/Basic%20unit%20of%20space.jpg" alt="시작이미지" width="600" height="600" />
@@ -17,7 +41,7 @@
 
 집의 방, 복도, 건물의 로비, 층고가 높은 공간과 낮은 공간까지.
 
-하지만 이 공간들이 **“왜 이 정도 크기일까?”**에 대해서는
+하지만 이 공간들이 **왜 이 정도 크기일까?**에 대해서는
 
 막연하게 느끼는 경우가 많습니다.
 
@@ -139,7 +163,7 @@
 
 하지만 체감은 전혀 다른 문제입니다.
 
-<div style="display:flex; gap:12px;">
+<div style="display:flex; gap:12px; justify-content:center;">
     <img src="asset/3.png" alt="낮은 층고 이미지" style="width:50%;" />
     <img src="asset/4.png" alt="높은 층고 이미지" style="width:50%;" />
 </div>
@@ -174,7 +198,7 @@
 
 **폭과 높이의 비율**로 느낍니다.
 
-<div style="display:flex; gap:12px;">
+<div style="display:flex; gap:12px; justify-content:center;">
     <img src="asset/5.jpg" alt="비율 낮은 이미지" style="width:50%;" />
     <img src="asset/6.png" alt="비율 높은 이미지" style="width:50%;" />
 </div>
