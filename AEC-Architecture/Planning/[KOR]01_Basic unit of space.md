@@ -2,6 +2,7 @@
 <p align="center">
     <img src="asset/Basic%20unit%20of%20space.jpg" alt="시작이미지" width="600" height="600" />
 </p>
+
 ### ⚠️ 주의
 
 > 아래 수치는 **국내 일반적인 공동주택·업무시설 기준을 단순화한 설명용 수치**입니다.
@@ -114,10 +115,6 @@
 
 대신 **동시에 몇 명이 사용하는가**가 핵심입니다.
 
-!https://res.cloudinary.com/trends-publishing/image/upload/dpr_2.0%2Cg_center%2Cw_640/f_auto%2Cq_auto%3Agood/NZ352CCMECenterKrueckSexton%E2%80%93374147110-01-HERO.jpg
-
-!https://www.kone.com/en/Images/Office%20best%20in%20block%201440x670_tcm17-68165.jpg
-
 ### ✔️ 로비 설계 시 기준 감각
 
 - **법적 관점**
@@ -142,11 +139,10 @@
 
 하지만 체감은 전혀 다른 문제입니다.
 
-!https://d36vnx92dgl2c5.cloudfront.net/prod/Zenia/1112/media/e82e1ccc17cbb8ecc18847e023c3bacf.jpeg
-
-!https://media.angi.com/s3fs-public/average-ceiling-height-by-room.png
-
-!https://st.hzcdn.com/simgs/16e247d40e38c0a9_9-7646/_.jpg
+<div style="display:flex; gap:12px;">
+    <img src="asset/3.jpg" alt="낮은 층고 이미지" style="width:50%;" />
+    <img src="asset/4.jpg" alt="높은 층고 이미지" style="width:50%;" />
+</div>
 
 ### ✔️ 층고 설계 시 기준
 
