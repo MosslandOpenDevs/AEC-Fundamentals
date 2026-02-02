@@ -34,7 +34,7 @@
 
 <hr />
 
-<h2 align="center">2. 방: 법적으로는 자유롭지만, 설계는 그렇지 않습니다</h2>
+<h2 align="center">2. 방</h2>
 <p align="center">방은 의외로 <strong>‘최소 면적’을 직접 규정하는 법 조항이 많지 않은 공간</strong>입니다.</p>
 <p align="center">대신 채광, 환기, 창 설치 기준이 중심이 됩니다.</p>
 <p align="center"><img src="asset/image.svg" alt="방 이미지" width="50%" /></p>
@@ -55,7 +55,7 @@
 
 <hr />
 
-<h2 align="center">3. 복도: 법적 기준과 체감 기준의 차이가 가장 큰 공간</h2>
+<h2 align="center">3. 복도</h2>
 <p align="center">복도는 설계에서 <strong>법과 현실의 차이가 가장 극명하게 드러나는 공간</strong>입니다.</p>
 <p align="center"><img src="asset/2.jpg" alt="복도 이미지" width="50%" /></p>
 
@@ -72,7 +72,7 @@
 
 <hr />
 
-<h2 align="center">4. 로비: 기준 치수보다 ‘사람 수’를 먼저 봅니다</h2>
+<h2 align="center">4. 로비</h2>
 <p align="center">로비는 복도처럼 딱 잘라진 최소 폭 규정이 있는 경우가 드뭅니다.</p>
 <p align="center">대신 <strong>동시에 몇 명이 사용하는가</strong>가 핵심입니다.</p>
 
@@ -90,7 +90,7 @@
 
 <hr />
 
-<h2 align="center">5. 층고: 최소 기준은 있지만, 체감은 완전히 다릅니다</h2>
+<h2 align="center">5. 층고</h2>
 <p align="center">층고는 법에서도 명확한 <strong>최소 기준</strong>이 존재합니다.</p>
 <p align="center">하지만 체감은 전혀 다른 문제입니다.</p>
 
@@ -118,7 +118,7 @@
 
 <hr />
 
-<h2 align="center">6. 폭과 비율: 숫자는 같아도 느낌은 다릅니다</h2>
+<h2 align="center">6. 폭과 비율</h2>
 <p align="center">사람은 공간을 “몇 미터”로 느끼지 않습니다.</p>
 <p align="center"><strong>폭과 높이의 비율</strong>로 느낍니다.</p>
 
@@ -144,7 +144,7 @@
 
 <hr />
 
-<h2 align="center">7. 정리하며: 좋은 설계는 ‘법 + 사람’을 동시에 만족시킵니다</h2>
+<h2 align="center">7. 정리하며</h2>
 
 <table align="center">
     <tr>
