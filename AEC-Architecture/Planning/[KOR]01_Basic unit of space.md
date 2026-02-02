@@ -80,7 +80,7 @@
 
 복도는 설계에서 **법과 현실의 차이가 가장 극명하게 드러나는 공간**입니다.
 
-!https://dropinblog.net/34241141/files/featured/what-is-the-difference-between-a-corridor-and-a.jpg
+![복도 이미지](asset/2.jpg)
 
 ### ✔️ 복도 설계 시 기준
 
