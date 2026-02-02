@@ -1,5 +1,5 @@
 # 공간의 기본 단위
-![시작이미지](asset/Basic%20unit%20of%20space.jpg)
+<img src="asset/Basic%20unit%20of%20space.jpg" alt="시작이미지" width="400" height="400" />
 ### ⚠️ 주의
 
 > 아래 수치는 **국내 일반적인 공동주택·업무시설 기준을 단순화한 설명용 수치**입니다.
@@ -49,7 +49,7 @@
 
 대신 채광, 환기, 창 설치 기준이 중심이 됩니다.
 
-![방 이미지](asset/image.svg)
+<img src="asset/image.svg" alt="방 이미지" width="50%" />
 
 
 ### ✔️ 방 설계 시 기준 감각
