@@ -140,8 +140,8 @@
 하지만 체감은 전혀 다른 문제입니다.
 
 <div style="display:flex; gap:12px;">
-    <img src="asset/3.jpg" alt="낮은 층고 이미지" style="width:50%;" />
-    <img src="asset/4.jpg" alt="높은 층고 이미지" style="width:50%;" />
+    <img src="asset/3.png" alt="낮은 층고 이미지" style="width:50%;" />
+    <img src="asset/4.png" alt="높은 층고 이미지" style="width:50%;" />
 </div>
 
 ### ✔️ 층고 설계 시 기준
@@ -174,9 +174,11 @@
 
 **폭과 높이의 비율**로 느낍니다.
 
-!https://cdn.shopify.com/s/files/1/0691/8363/5772/files/e162afeb7d65abd0cfd6b6a6a57d3fbd_480x480.jpg?v=1733079495
+<div style="display:flex; gap:12px;">
+    <img src="asset/5.jpg" alt="비율 낮은 이미지" style="width:50%;" />
+    <img src="asset/6.png" alt="비율 높은 이미지" style="width:50%;" />
+</div>
 
-!https://www.sisalrugs.com/sites/default/files/styles/meta/public/images/concept-home-small-room-big-things.jpg?itok=KkipiK4i
 
 ### ✔️ 설계에서 실제로 보는 관점
 
