@@ -49,11 +49,7 @@
 
 대신 채광, 환기, 창 설치 기준이 중심이 됩니다.
 
-!https://cdn.sanity.io/images/rhvb8nfd/production/da325723da201c51979c07af5bb2763c25bd0c24-2320x1104.png?auto=format&fit=max
-
-!https://cdn.shopify.com/s/files/1/0433/5396/4703/files/image2_cropped_480x480.jpg?v=1667499211
-
-!https://cdn.prod.website-files.com/5b44edefca321a1e2d0c2aa6/5bf0553811bde2e0ba53e25a_Dimensions-Guide-Layouts-Bedrooms-Flexible-Individual-Dimensions.svg
+![시작이미지](asset\image.svg.jpg)
 
 ### ✔️ 방 설계 시 기준 감각
 
