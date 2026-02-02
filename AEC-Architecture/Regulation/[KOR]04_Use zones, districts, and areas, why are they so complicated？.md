@@ -1,6 +1,6 @@
 <h1 align="center">4. 용도지역,지구,구역, 왜 이렇게 복잡할까?</h1>
 
-<p align="center"><img src="assets/images/04-1.jpg" alt="04-01" /></p>
+<p align="center"><img src="assets/images/04-1.jpg" alt="04-01" width="600" height="600" /></p>
 
 <p align="center">도시를 걷다 보면 <strong>비슷한 크기의 땅인데도 전혀 다른 건물</strong>이 들어서 있는 모습을 자주 보게 됩니다.</p>
 <p align="center">어떤 곳에는 아파트가, 어떤 곳에는 상가가, 또 어떤 곳에는 공장이 자리 잡고 있습니다.</p>
@@ -17,7 +17,7 @@
 
 <hr />
 
-<p align="center"><img src="assets/images/04-2.jpg" alt="04-02" /></p>
+<p align="center"><img src="assets/images/04-2.jpg" alt="04-02" width="600" height="600" /></p>
 
 <h2 align="center">4-1 용도지역이란 무엇인가?</h2>
 <p align="center"><strong>-</strong> <strong>용도지역</strong>은</p>

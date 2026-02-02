@@ -1,6 +1,6 @@
 <h1 align="center">4. Use zones, districts, and areas—why so complicated?</h1>
 
-<p align="center"><img src="assets/images/04-1_ENG.jpg" alt="04-01" /></p>
+<p align="center"><img src="assets/images/04-1_ENG.jpg" alt="04-01" width="600" height="600" /></p>
 
 <p align="center">When you walk around a city, you often see <strong>very different buildings on land of similar size</strong>.</p>
 <p align="center">In some places there are apartments, in others, shops, and in others, factories.</p>
@@ -17,7 +17,7 @@
 
 <hr />
 
-<p align="center"><img src="assets/images/04-2_ENG.jpg" alt="04-02" /></p>
+<p align="center"><img src="assets/images/04-2_ENG.jpg" alt="04-02" width="600" height="600" /></p>
 
 <h2 align="center">4-1 What is a use zone?</h2>
 <p align="center"><strong>-</strong> A <strong>use zone</strong> is</p>

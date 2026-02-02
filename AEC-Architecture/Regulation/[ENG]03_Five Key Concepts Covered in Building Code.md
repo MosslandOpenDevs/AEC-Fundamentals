@@ -21,7 +21,7 @@
 <hr />
 
 <h2 align="center">Key concept 2️⃣ Building coverage ratio</h2>
-<p align="center"><img src="assets/images/03-2_ENG.jpg" alt="Building coverage ratio" /></p>
+<p align="center"><img src="assets/images/03-2_ENG.jpg" alt="Building coverage ratio" width="600" height="600" /></p>
 <p align="center"><strong>-</strong> <strong>Building coverage ratio</strong> means</p>
 <p align="center">👉 the <strong>percentage of the site area occupied by the building footprint</strong>.</p>
 
@@ -31,7 +31,7 @@
 <hr />
 
 <h2 align="center">Key concept 3️⃣ Floor area ratio</h2>
-<p align="center"><img src="assets/images/03-3_ENG.jpg" alt="Floor area ratio" /></p>
+<p align="center"><img src="assets/images/03-3_ENG.jpg" alt="Floor area ratio" width="600" height="600" /></p>
 <p align="center"><strong>-</strong> <strong>Floor area ratio</strong> means</p>
 <p align="center">👉 the ratio of the building’s <strong>total gross floor area</strong> to the site area.</p>
 
@@ -73,7 +73,3 @@
 <p align="center"><strong>-</strong> Securing <strong>distance between buildings</strong></p>
 <p align="center"><strong>-</strong> Managing so that <strong>sunlight and wind are not blocked</strong></p>
 <p align="center"><strong>-</strong> Guaranteeing <strong>minimum comfort</strong> in residential spaces</p>
-
-<h3 align="center">Key point</h3>
-<p align="center"><strong>-</strong> Architecture is private property, but</p>
-<p align="center">👉 <strong>the urban environment belongs to everyone</strong>.</p>

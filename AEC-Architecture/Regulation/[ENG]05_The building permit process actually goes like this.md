@@ -1,6 +1,6 @@
 <h1 align="center">5. The building permit process actually goes like this.</h1>
 
-<p align="center"><img src="assets/images/5-0_ENG.jpg" alt="5-0" /></p>
+<p align="center"><img src="assets/images/5-0_ENG.jpg" alt="5-0" width="600" height="600" /></p>
 
 <h2 align="center">5-1 Why can’t we start construction right after design?</h2>
 <p align="center">It may seem that once drawings are complete, construction can start immediately.</p>
@@ -27,7 +27,7 @@
 
 <hr />
 
-<p align="center"><img src="assets/images/5-2_ENG.jpg" alt="5-2" /></p>
+<p align="center"><img src="assets/images/5-2_ENG.jpg" alt="5-2" width="600" height="600" /></p>
 
 <h2 align="center">5-3 Basic flow of the permit process</h2>
 <p align="center">The building permit process generally follows this order.</p>

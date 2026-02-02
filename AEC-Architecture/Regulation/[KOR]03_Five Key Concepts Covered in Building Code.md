@@ -20,7 +20,7 @@
 <hr />
 
 <h2 align="center">핵심 개념 2️⃣ 건폐율</h2>
-<p align="center"><img src="assets/images/03-2.jpg" alt="건폐율" /></p>
+<p align="center"><img src="assets/images/03-2.jpg" alt="건폐율" width="600" height="600" /></p>
 <p align="center"><strong>-</strong> <strong>건폐율</strong>이란</p>
 <p align="center">👉 대지 면적 중 <strong>건물이 바닥에서 차지하는 비율</strong>입니다.</p>
 
@@ -30,7 +30,7 @@
 <hr />
 
 <h2 align="center">핵심 개념 3️⃣ 용적률</h2>
-<p align="center"><img src="assets/images/03-3.jpg" alt="용적률" /></p>
+<p align="center"><img src="assets/images/03-3.jpg" alt="용적률" width="600" height="600" /></p>
 <p align="center"><strong>-</strong> <strong>용적률</strong>이란</p>
 <p align="center">👉 건물의 <strong>전체 연면적</strong>이 대지 면적에 대해 가지는 비율입니다.</p>
 
@@ -72,7 +72,3 @@
 <p align="center"><strong>-</strong> 건물 간 <strong>거리 확보</strong></p>
 <p align="center"><strong>-</strong> 햇빛과 바람이 <strong>차단되지 않도록 관리</strong></p>
 <p align="center"><strong>-</strong> 주거 공간의 <strong>최소한의 쾌적성 보장</strong></p>
-
-<h3 align="center">핵심 포인트</h3>
-<p align="center"><strong>-</strong> 건축은 개인의 재산이지만</p>
-<p align="center">👉 <strong>도시 환경은 모두의 것이기 때문</strong>입니다.</p>

@@ -1,6 +1,6 @@
 <h1 align="center">5. 건축 허가 절차는 실제로 다음과 같습니다.</h1>
 
-<p align="center"><img src="assets/images/5-0.jpg" alt="5-0" /></p>
+<p align="center"><img src="assets/images/5-0.jpg" alt="5-0" width="600" height="600" /></p>
 
 <h2 align="center">5-1 왜 설계가 끝나도 바로 공사를 못 할까?</h2>
 <p align="center">건축은 설계도면만 완성되면 곧바로 공사를 시작할 수 있을 것처럼 보입니다.</p>
@@ -27,7 +27,7 @@
 
 <hr />
 
-<p align="center"><img src="assets/images/5-2.jpg" alt="5-2" /></p>
+<p align="center"><img src="assets/images/5-2.jpg" alt="5-2" width="600" height="600" /></p>
 
 <h2 align="center">5-3 건축 허가 과정의 기본 흐름</h2>
 <p align="center">건축 허가 과정은 대체로 다음과 같은 순서를 따릅니다.</p>

@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="assets/images/Regulation%20Intro%20Image_ENG.jpg" alt="Regulation Intro Image" />
+	<img src="assets/images/Regulation%20Intro%20Image_ENG.jpg" alt="Regulation Intro Image" width="600" height="600" />
 </p>
 
 <h1 align="center">1. Why do we need building regulations?</h1>
