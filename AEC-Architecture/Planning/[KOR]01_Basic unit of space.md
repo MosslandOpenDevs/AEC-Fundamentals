@@ -125,10 +125,10 @@
 <table align="center" width="100%">
     <tr>
         <td align="center" width="50%">
-            <img src="asset/5.jpg" alt="비율 낮은 이미지" width="90%" />
+            <img src="asset/5.jpg" alt="비율 낮은 이미지" height="300" style="width:auto; max-width:90%;" />
         </td>
         <td align="center" width="50%">
-            <img src="asset/6.png" alt="비율 높은 이미지" width="90%" />
+            <img src="asset/6.png" alt="비율 높은 이미지" height="300" style="width:auto; max-width:90%;" />
         </td>
     </tr>
 </table>
