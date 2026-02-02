@@ -1,5 +1,5 @@
 # 공간의 기본 단위
-![시작이미지](C:\Users\samki\AEC-Fundamentals-1\AEC-Architecture\Planning\asset\Basic unit of space.jpg)
+![시작이미지](asset/Basic%20unit%20of%20space.jpg)
 ### ⚠️ 주의
 
 > 아래 수치는 **국내 일반적인 공동주택·업무시설 기준을 단순화한 설명용 수치**입니다.
