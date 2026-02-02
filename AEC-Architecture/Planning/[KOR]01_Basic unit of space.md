@@ -1,5 +1,7 @@
 # 공간의 기본 단위
-<img src="asset/Basic%20unit%20of%20space.jpg" alt="시작이미지" width="400" height="400" />
+<p align="center">
+    <img src="asset/Basic%20unit%20of%20space.jpg" alt="시작이미지" width="600" height="600" />
+</p>
 ### ⚠️ 주의
 
 > 아래 수치는 **국내 일반적인 공동주택·업무시설 기준을 단순화한 설명용 수치**입니다.
