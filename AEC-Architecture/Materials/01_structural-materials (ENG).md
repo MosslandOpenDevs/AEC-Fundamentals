@@ -1,11 +1,3 @@
----
-title: "Digital Twin Material Guide: 01. Structural Core"
-date: 2026-02-02
-category: Architecture / Structure
-tags: [Concrete, Data Integrity, Hierarchy, Object Class]
-description: "Data hierarchy and simulation parameter definitions of structural materials for Digital Twin construction"
----
-
 # 🏗️ Structural Materials
 
 > **Document Info**

@@ -1,3 +1,13 @@
+# 🏗️ Structural System & Data Topology
+
+> **Document Info**
+> * **분류 (Category):** 건축 / 구조 시스템 (Architecture / Structural System)
+> * **타겟 시스템 (Target System):** 에너지 해석, 기류 해석 (CFD), BIM 데이터 관리
+> * **최종 업데이트 (Last Updated):** 2026-02-02
+> * **핵심 키워드 (Keywords):** `벽식 vs 라멘`, `물리적 제약 조건(Physical Constraint)`, `열교(Thermal Bridge)`, `데이터 위계(Data Hierarchy)`
+
+---
+
 <div align="center">
 
 # 02 Structural System & Data Topology
