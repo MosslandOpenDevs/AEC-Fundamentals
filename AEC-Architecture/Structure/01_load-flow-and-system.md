@@ -1,11 +1,3 @@
----
-title: "Digital Twin Material Guide: 03. Structural System & Data Topology"
-date: 2026-02-02
-category: Architecture / Structure
-tags: [Structure, Load, Slab, Beam, Column, Digital Twin]
-description: "시뮬레이션 정합성을 위한 구조 요소와 하중 흐름의 데이터 정의"
----
-
 # 🏗️ Structural System & Data Topology
 
 > **Document Info**
