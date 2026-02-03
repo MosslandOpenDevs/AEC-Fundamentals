@@ -96,10 +96,7 @@
 
 <p align="center"><strong>●</strong> 두드렸을 때 울림이 없는 벽은 하중을 받는 벽인 내력벽!</p>
 <p align="center"><strong>●</strong> 두드렸을 때 퉁퉁 소리가 나는 벽은 하중을 받지 않는 비내력벽!</p>
-<p align="center"><strong>●</strong> 위 이미지를 보시면 벽 내부에 까맣게 색을 칠해놓은 벽이 있습니다.</p>
-<p align="center"><strong>●</strong> 그 벽이 바로 하중을 받는 내력벽입니다!</p>
-<p align="center"><strong>●</strong> 건물을 짓는 과정에서 내력벽과 비내력벽을 정확히 구분해주어야 하기 때문에</p>
-<p align="center"><strong>●</strong> 색을 칠해 보기 쉽게 표시해주는 겁니다.</p>
+<p align="center"><strong>●</strong> 위 이미지를 보시면 벽 내부에 까맣게 색을 칠해놓은 벽이 있습니다. 그 벽이 바로 하중을 받는 내력벽입니다! 건물을 짓는 과정에서 내력벽과 비내력벽을 정확히 구분해주어야 하기 때문에 색을 칠해 보기 쉽게 표시해주는 겁니다.</p>
 
 <p align="center"><strong>하중을 받는 벽</strong></p>
 <p align="center"><strong>●</strong> 위층과 구조를 지탱하는 역할</p>
@@ -111,6 +108,4 @@
 <p align="center"><strong>●</strong> 구조에는 영향이 없음</p>
 <p align="center"><strong>●</strong> 비교적 자유롭게 변경 가능</p>
 
-<p align="center">👉 평면이 바뀌지 않는 이유는</p>
-<p align="center">설계가 고집스러워서가 아니라,</p>
-<p align="center"><strong>구조적으로 바꿀 수 없기 때문인 경우가 많습니다.
+<p align="center">👉 평면이 바뀌지 않는 이유는 설계가 고집스러워서가 아니라,<strong>구조적으로 바꿀 수 없기 때문인 경우가 많습니다.
