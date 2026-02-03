@@ -21,7 +21,7 @@
 <p align="center">이 모든 흐름이 출입구 위치에서 결정됩니다.</p>
 
 <p align="center">
-    <img src="asset/plan image.jpg" alt="출입구 동선 이미지" width="70%" />
+    <img src="asset/plan image.png" alt="출입구 동선 이미지" width="70%" />
 </p>
 
 <p align="center">이미지를 보면</p>
@@ -55,7 +55,7 @@
 <p align="center">&gt; 건물의 척추이자 혈관입니다.</p>
 
 <p align="center">
-    <img src="asset/core image.jpg" alt="코어 이미지" width="70%" />
+    <img src="asset/core image.png" alt="코어 이미지" width="70%" />
 </p>
 
 <p align="center">광화문 근처에 있는 큰 빌딩과 같은 건물들은</p>
@@ -91,7 +91,7 @@
 <p align="center"><strong>-</strong> 하중을 받지 않는 벽 = 비내력벽</p>
 
 <p align="center">
-    <img src="asset/plan image.jpg" alt="내력벽 이미지" width="70%" />
+    <img src="asset/plan image.png" alt="내력벽 이미지" width="70%" />
 </p>
 
 <h3 align="center">✔️ 두 벽의 차이, 이렇게 이해하면 쉽습니다</h3>
