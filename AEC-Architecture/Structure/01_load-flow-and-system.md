@@ -1,3 +1,13 @@
+# 🏗️ Structural System & Data Topology
+
+> **Document Info**
+> * **분류 (Category):** 건축 / 구조 시스템 (Architecture / Structural System)
+> * **타겟 시스템 (Target System):** 구조 해석, HVAC 용량 산정, MEP 라우팅, CFD
+> * **최종 업데이트 (Last Updated):** 2026-02-02
+> * **핵심 키워드 (Keywords):** `고정하중(Dead Load)`, `열관성(Thermal Inertia)`, `물리적 한계선(Hard Constraint)`, `공간 기준점(Anchor Points)`
+
+---
+
 <div align="center">
 
 # 하중의 종류와 흐름

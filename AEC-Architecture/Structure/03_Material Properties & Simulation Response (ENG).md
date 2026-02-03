@@ -1,8 +1,24 @@
+# 🏗️ Material Properties & Simulation Response
+
+> **Document Info**
+> * **Category:** Architecture / Structural System
+> * **Target System:** Energy Simulation, HVAC Control, MEP Routing, CFD
+> * **Last Updated:** 2026-02-02
+> * **Keywords:** `RC vs Steel`, `Thermal Mass`, `Time Lag`, `MEP Integration`
+
+---
+
+<div align="center">
+
 # 03 Material Properties & Simulation Response
 
 ### RC vs. Steel: Differences in Thermal Behavior and MEP Integration
 
+</div>
+
 ---
+
+<br>
 
 The choice of structural material goes beyond simple construction methods; it determines the **Bio-rhythm of the building**.
 
@@ -14,7 +30,7 @@ This chapter defines the **physical characteristics** of the two most representa
 **Monolithic Wet Construction vs. Prefabricated Dry Construction**
 
 <div align="center">
-  <img src="./assets/images/material_concept_compare.png" width="60%">
+  <img src="./assets/images/material_concept_compare.png" width="60%" alt="Material Concept Comparison">
 </div>
 <br><br>
 
@@ -44,7 +60,7 @@ This chapter defines the **physical characteristics** of the two most representa
 **Time Lag vs. Quick Response**
 
 <div align="center">
-  <img src="./assets/images/material_thermal_response.png" width="60%">
+  <img src="./assets/images/material_thermal_response.png" width="60%" alt="Thermal Response Diagram">
 </div>
 <br>
 
@@ -73,7 +89,7 @@ The building's 'Mass' makes a decisive difference in how it handles heat.
 **Embedded Constraints vs. Open Flexibility**
 
 <div align="center">
-  <img src="./assets/images/material_mep_integration.png" width="60%">
+  <img src="./assets/images/material_mep_integration.png" width="60%" alt="MEP Integration Diagram">
 </div>
 <br>
 

@@ -1,3 +1,13 @@
+# 🏗️ Structural System & Data Topology
+
+> **Document Info**
+> * **Category:** Architecture / Structural System
+> * **Target System:** Structural Analysis, HVAC Sizing, MEP Routing, CFD
+> * **Last Updated:** 2026-02-02
+> * **Keywords:** `Dead Load`, `Thermal Inertia`, `Hard Constraint`, `Anchor Points`
+
+---
+
 <div align="center">
 
 # Types of Loads and Flow
