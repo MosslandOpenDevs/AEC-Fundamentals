@@ -1,11 +1,3 @@
----
-title: "Digital Twin Material Guide: 03. Structure Types & Data Topology"
-date: 2026-02-02
-category: Architecture / Structure
-tags: [Wall Structure, Rahmen, Simulation, Data Hierarchy, Thermal Bridge]
-description: "Comparison of simulation boundary conditions and data hierarchy between Wall and Rahmen structures"
----
-
 # 🏗️ Structural System & Data Topology
 
 > **Document Info**

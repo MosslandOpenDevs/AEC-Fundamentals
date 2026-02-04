@@ -1,11 +1,3 @@
----
-title: "Digital Twin Material Guide: 03. Material Properties & Simulation Response"
-date: 2026-02-02
-category: Architecture / Structure
-tags: [RC, Steel, Thermal Mass, MEP, Energy Simulation]
-description: "철근콘크리트(RC)와 철골(Steel) 구조의 열적 거동 및 설비 통합 차이 분석"
----
-
 # 🏗️ Material Properties & Simulation Response
 
 > **Document Info**

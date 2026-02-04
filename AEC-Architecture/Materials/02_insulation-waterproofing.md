@@ -1,11 +1,3 @@
----
-title: "Digital Twin Material Guide: 02. Performance Layer"
-date: 2026-02-02
-category: Architecture / Performance
-tags: [Insulation, Waterproofing, Energy Simulation, Maintenance, IoT]
-description: "에너지 효율(단열)과 유지보수(방수)를 위한 비가시성 성능 재료 데이터 가이드"
----
-
 # 🛡️ Performance Materials (성능 재료)
 
 > **Document Info**

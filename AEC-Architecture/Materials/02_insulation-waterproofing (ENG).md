@@ -1,11 +1,3 @@
----
-title: "Digital Twin Material Guide: 02. Performance Layer"
-date: 2026-02-02
-category: Architecture / Performance
-tags: [Insulation, Waterproofing, Energy Simulation, Maintenance, IoT]
-description: "Data guide on invisible performance materials for energy efficiency (insulation) and maintenance (waterproofing)"
----
-
 # 🛡️ Performance Materials
 
 > **Document Info**

@@ -1,11 +1,3 @@
----
-title: "Digital Twin Material Guide: 03. Material Properties & Simulation Response"
-date: 2026-02-02
-category: Architecture / Structure
-tags: [RC, Steel, Thermal Mass, MEP, Energy Simulation]
-description: "Comparative analysis of RC and Steel structures regarding thermal behavior and MEP integration"
----
-
 # 🏗️ Material Properties & Simulation Response
 
 > **Document Info**
