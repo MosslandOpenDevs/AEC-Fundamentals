@@ -73,7 +73,7 @@
 <p align="center">사용자 동선과 가능한 한 겹치지 않는 것이 좋습니다.</p>
 
 <p align="center">
-	<img src="asset/route plan2.png" alt="서비스 동선 이미지" width="70%" />
+	<img src="asset/route plan2.jpg" alt="서비스 동선 이미지" width="70%" />
 </p>
 
 <h3 align="center">✔️ 서비스 동선이 중요한 이유</h3>
