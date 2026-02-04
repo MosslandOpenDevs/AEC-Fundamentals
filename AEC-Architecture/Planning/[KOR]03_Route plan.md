@@ -73,7 +73,7 @@
 <p align="center">사용자 동선과 가능한 한 겹치지 않는 것이 좋습니다.</p>
 
 <p align="center">
-	<img src="route plan2.png" alt="서비스 동선 이미지" width="70%" />
+	<img src="asset/route plan2.png" alt="서비스 동선 이미지" width="70%" />
 </p>
 
 <h3 align="center">✔️ 서비스 동선이 중요한 이유</h3>
@@ -96,11 +96,11 @@
 <p align="center">이 동선은 편의성보다 <strong>명확성과 직관성</strong>이 가장 중요합니다.</p>
 
 <p align="center">
-	<img src="route plan3.png" alt="피난 동선 이미지 1" width="70%" />
+	<img src="asset/route plan3.png" alt="피난 동선 이미지 1" width="70%" />
 </p>
 
 <p align="center">
-	<img src="route plan4.png" alt="피난 동선 이미지 2" width="70%" />
+	<img src="asset/route plan4.png" alt="피난 동선 이미지 2" width="70%" />
 </p>
 
 <h3 align="center">✔️ 피난 동선의 핵심</h3>
