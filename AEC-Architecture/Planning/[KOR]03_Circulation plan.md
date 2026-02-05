@@ -35,10 +35,6 @@
 
 <p align="center">이 모든 것이 동선입니다.</p>
 
-<p align="center">
-	<img src="asset/Circulation plan0.png" alt="동선 흐름 이미지" width="70%" />
-</p>
-
 <p align="center">즉, 동선은 선이 아니라</p>
 <p align="center"><strong>사람의 행동을 따라 그려진 흐름</strong>이라고 이해하면 됩니다.</p>
 
@@ -50,7 +46,7 @@
 <p align="center">이 동선은 공간의 편의성과 첫인상을 거의 결정합니다.</p>
 
 <p align="center">
-	<img src="asset/Circulation plan1.png" alt="사용자 동선 이미지" width="70%" />
+	<img src="asset/03_image1.png" alt="사용자 동선 이미지" width="70%" />
 </p>
 
 <h3 align="center">✔️ 사용자 동선에서 중요한 점</h3>
