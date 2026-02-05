@@ -210,7 +210,7 @@
 
 배광
 
-<img src="101-103_img/light1.png" style="width:10%;"> <img src="101-103_img/light2.png" style="width:10%;"> <img src="101-103_img/light3.png" style="width:10%;"> <img src="101-103_img/light4.png" style="width:10%;"> <img src="101-103_img/light5.png" style="width:10%;">
+<img src="101-103_img/light1.png" style="width:20%;"> <img src="101-103_img/light2.png" style="width:20%;"> <img src="101-103_img/ligh3.png" style="width:20%;"> <img src="101-103_img/ligh4.png" style="width:20%;"> <img src="101-103_img/ligh5.png" style="width:20%;">
 
 | 조명 | 직접 | 반직접 | 전반확산 | 반간접 | 간접 |
 | ------ | :----: | :--: | :--: | :-----: | :---: |
