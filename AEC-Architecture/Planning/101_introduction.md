@@ -53,7 +53,8 @@
 모듈의 개념 창시자는 르 꼬르뷔지에로, 그가 만든 모듈러(Le Modulor)라는 인간이 다리를 뻗거나 팔을 벌렸을 때 불편함이 없는 기초 치수들을 규정해 건축물을 설계하는 방법론에서 현재의 모듈러 건축이 파생되었습니다. 르 꼬르뷔지에는 인간의 신체 척도와 비율을 기초로 황금분할을 찾아내 건축적으로 수치화시켰고, 실제로 그가 아파트 등 대형 집합주거공간을 설계할 때 적용시켰습니다.
 
 <img src="101-103_img/Corbusier Modulor color..jpg" style="width:60%;">
-- Flickr user eager licensed under CC BY-ND 2.0
+
+(Flickr user eager licensed under CC BY-ND 2.0)
 
 아래는 르 꼬르뷔지에가 기준으로 삼은 모듈러의 4가지 치수입니다.
 - A: 기본치수 113cm(배꼽 높이)
