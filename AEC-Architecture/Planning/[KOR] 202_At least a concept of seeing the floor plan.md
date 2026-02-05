@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="asset/plan.jpg" alt="시작이미지" width="600" height="600" />
+    <img src="201-203_img/plan.jpg" alt="시작이미지" width="600" height="600" />
 </p>
 
 <h1 align="center">평면을 보는 최소한의 감각</h1>
@@ -21,13 +21,12 @@
 <p align="center">이 모든 흐름이 출입구 위치에서 결정됩니다.</p>
 
 <p align="center">
-    <img src="asset/plan image.png" alt="출입구 동선 이미지" width="70%" />
+    <img src="201-203_img/02_plan.png" alt="출입구 동선 이미지" width="70%" />
 </p>
 
-<p align="center">이미지를 보면</p>
-<p align="center">주차장에서 낮은 단을 지나 출입구로 들어오는 것을 확인할 수 있습니다.</p>
-<p align="center">출입구에서 들어온 뒤, 거실이 한 번에 다 보이는 장면을 짐작할 수 있으며,</p>
-<p align="center">복도를 거쳐 점진적으로 주택 내부로 이어지는 것을 알 수 있습니다.</p>
+<p align="center">이미지를 보시면</p>
+<p align="center">ENTRANCE라고 적혀있는 곳이 출입구라는 것을 인식할 수 있습니다.</p>
+<p align="center">출입구에서 들어오면 건물 내의 작은 정원과 수공간이 한 번에 보이는 장면을 짐작할 수 있습니다.</p>
 
 <h3 align="center">✔️ 설계에서 출입구를 볼 때의 관점</h3>
 
@@ -55,7 +54,7 @@
 <p align="center">&gt; 건물의 척추이자 혈관입니다.</p>
 
 <p align="center">
-    <img src="asset/core image.png" alt="코어 이미지" width="70%" />
+    <img src="201-203_img/core_image.jpg" alt="코어 이미지" width="60%" />
 </p>
 
 <p align="center">광화문 근처에 있는 큰 빌딩과 같은 건물들은</p>
@@ -89,14 +88,14 @@
 <p align="center"><strong>●</strong> 하중을 받지 않는 벽 = 비내력벽</p>
 
 <p align="center">
-    <img src="asset/plan image.png" alt="내력벽 이미지" width="70%" />
+    <img src="201-203_img/02_plan.png" alt="내력벽 이미지" width="70%" />
 </p>
 
 <h3 align="center">✔️ 두 벽의 차이, 이렇게 이해하면 쉽습니다</h3>
 
 <p align="center"><strong>●</strong> 두드렸을 때 울림이 없는 벽은 하중을 받는 벽인 내력벽!</p>
 <p align="center"><strong>●</strong> 두드렸을 때 퉁퉁 소리가 나는 벽은 하중을 받지 않는 비내력벽!</p>
-<p align="center"><strong>●</strong> 위 이미지를 보시면 벽 내부에 까맣게 색을 칠해놓은 벽이 있습니다. 그 벽이 바로 하중을 받는 내력벽입니다! 건물을 짓는 과정에서 내력벽과 비내력벽을 정확히 구분해주어야 하기 때문에 색을 칠해 보기 쉽게 표시해주는 겁니다.</p>
+<p align="center"><strong>●</strong> 위 이미지를 보시면 벽 내부에 까맣게 색을 칠해놓은 벽이 있습니다. 그 벽이 바로 하중을 받는 내력벽입니다! 건물을 짓는 과정에서 내력벽과 비내력벽을 정확히 구분해주어야 하기 때문에 색을 칠해줍니다.</p>
 
 <p align="center"><strong>하중을 받는 벽</strong></p>
 <p align="center"><strong>●</strong> 위층과 구조를 지탱하는 역할</p>
