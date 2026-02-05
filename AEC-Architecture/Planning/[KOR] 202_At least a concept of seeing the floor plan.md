@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="asset/plan.jpg" alt="시작이미지" width="600" height="600" />
+    <img src="201-203_img/plan.jpg" alt="시작이미지" width="600" height="600" />
 </p>
 
 <h1 align="center">평면을 보는 최소한의 감각</h1>
@@ -21,7 +21,7 @@
 <p align="center">이 모든 흐름이 출입구 위치에서 결정됩니다.</p>
 
 <p align="center">
-    <img src="asset/02_plan.png" alt="출입구 동선 이미지" width="70%" />
+    <img src="201-203_img/02_plan.png" alt="출입구 동선 이미지" width="70%" />
 </p>
 
 <p align="center">이미지를 보시면</p>
@@ -54,7 +54,7 @@
 <p align="center">&gt; 건물의 척추이자 혈관입니다.</p>
 
 <p align="center">
-    <img src="asset/core_image.jpg" alt="코어 이미지" width="60%" />
+    <img src="201-203_img/core_image.jpg" alt="코어 이미지" width="60%" />
 </p>
 
 <p align="center">광화문 근처에 있는 큰 빌딩과 같은 건물들은</p>
@@ -88,7 +88,7 @@
 <p align="center"><strong>●</strong> 하중을 받지 않는 벽 = 비내력벽</p>
 
 <p align="center">
-    <img src="asset/02_plan.png" alt="내력벽 이미지" width="70%" />
+    <img src="201-203_img/02_plan.png" alt="내력벽 이미지" width="70%" />
 </p>
 
 <h3 align="center">✔️ 두 벽의 차이, 이렇게 이해하면 쉽습니다</h3>

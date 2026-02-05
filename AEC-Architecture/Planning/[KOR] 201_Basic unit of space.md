@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="asset/Basic%20unit%20of%20space.jpg" alt="시작이미지" width="600" height="600" />
+    <img src="201-203_img/Basic%20unit%20of%20space.jpg" alt="시작이미지" width="600" height="600" />
 </p>
 
 <h3 align="center">⚠️ 주의</h3>
@@ -36,7 +36,7 @@
 <h2 align="center">2. 방</h2>
 <p align="center">방은 의외로 <strong>‘최소 면적’을 직접 규정하는 법 조항이 많지 않은 공간</strong>입니다.</p>
 <p align="center">대신 채광, 환기, 창 설치 기준이 중심이 됩니다.</p>
-<p align="center"><img src="asset/Room_image.jpg" alt="방 이미지" width="50%" /></p>
+<p align="center"><img src="201-203_img/Room_image.jpg" alt="방 이미지" width="50%" /></p>
 
 <h3 align="center">✔️ 방 설계 시 기준 감각</h3>
 <p align="center"><strong>-</strong> <strong>법적 기준</strong></p>
@@ -56,7 +56,7 @@
 
 <h2 align="center">3. 복도</h2>
 <p align="center">복도는 설계에서 <strong>법과 현실의 차이가 가장 극명하게 드러나는 공간</strong>입니다.</p>
-<p align="center"><img src="asset/Corridor_image.jpg" alt="복도 이미지" width="50%" /></p>
+<p align="center"><img src="201-203_img/Corridor_image.jpg" alt="복도 이미지" width="50%" /></p>
 
 <h3 align="center">✔️ 복도 설계 시 기준</h3>
 <p align="center"><strong>-</strong> <strong>법적으로 허용되는 최소 폭</strong></p>
@@ -96,10 +96,10 @@
 <table align="center" width="100%">
     <tr>
         <td align="center" width="50%">
-            <img src="asset/Highlevel.jpg" alt="낮은 층고 이미지" width="90%" />
+            <img src="201-203_img/Highlevel.jpg" alt="낮은 층고 이미지" width="90%" />
         </td>
         <td align="center" width="50%">
-            <img src="asset/Lowlevel.jpg" alt="높은 층고 이미지" width="90%" />
+            <img src="201-203_img/Lowlevel.jpg" alt="높은 층고 이미지" width="90%" />
         </td>
     </tr>
 </table>
@@ -124,10 +124,10 @@
 <table align="center" width="100%">
     <tr>
         <td align="center" width="50%">
-            <img src="asset/01_image1.jpg" alt="비율 낮은 이미지" height="300" style="width:auto; max-width:90%;" />
+            <img src="201-203_img/01_image1.jpg" alt="비율 낮은 이미지" height="300" style="width:auto; max-width:90%;" />
         </td>
         <td align="center" width="50%">
-            <img src="asset/01_image2.jpg" alt="비율 높은 이미지" height="300" style="width:auto; max-width:90%;" />
+            <img src="201-203_img/01_image2.jpg" alt="비율 높은 이미지" height="300" style="width:auto; max-width:90%;" />
         </td>
     </tr>
 </table>
