@@ -49,81 +49,90 @@ Energy performance is largely determined by planning-stage decisions—such as s
 
 ---
 
-# 모듈러
+# Modulor / Modular
 
 ## 모듈이란?
 
-모듈(Module)이란 인간의 생활과 동작을 토대로, 건물의 설계·구조 계획·시공에서 기준이 되는 일반적인 기준 단위를 말합니다. 모듈을 도입하면 치수 체계가 정리되어 도면의 일관성이 높아지고, 자재 규격과 시공 방식까지 연결되기 때문에 계획의 안정성과 효율을 동시에 확보할 수 있습니다.
-모듈의 개념 창시자는 르 꼬르뷔지에로, 그가 만든 모듈러(Le Modulor)라는 인간이 다리를 뻗거나 팔을 벌렸을 때 불편함이 없는 기초 치수들을 규정해 건축물을 설계하는 방법론에서 현재의 모듈러 건축이 파생되었습니다. 르 꼬르뷔지에는 인간의 신체 척도와 비율을 기초로 황금분할을 찾아내 건축적으로 수치화시켰고, 실제로 그가 아파트 등 대형 집합주거공간을 설계할 때 적용시켰습니다.
+A module refers to a general standard unit that serves as a reference in building design, structural planning, and construction, based on human life and movement. Introducing modules organizes the dimensional system, improves drawing consistency, and links directly to material standards and construction methods—helping secure both stability and efficiency in planning.
+
+The originator of the module concept is Le Corbusier, and today’s idea of Modulor architecture derives from his methodology called Le Modulor, which defines a set of fundamental dimensions that feel comfortable when a person stretches their legs or spreads their arms. Le Corbusier identified the golden ratio based on human body scales and proportions, quantified it architecturally, and applied it in practice—such as when designing large-scale collective housing like apartment buildings.
 
 <img src="101-103_img/Corbusier Modulor color..jpg" style="width:60%;">
 
 (Flickr user eager licensed under CC BY-ND 2.0)
 
-아래는 르 꼬르뷔지에가 기준으로 삼은 모듈러의 4가지 치수입니다.
-- A: 기본치수 113cm(배꼽 높이)
-- B: A의 2배 226cm(팔 올린 높이)
-- C: 183cm(키)
-- D: 86cm(손 짚은 높이)
+Below are four Modulor dimensions used by Le Corbusier as reference values:
 
-## 모듈러 공법
+- A: Base dimension 113 cm (navel height)
+- B: Twice A, 226 cm (height with arm raised)
+- C: 183 cm (overall height)
+= D: 86 cm (height when leaning on the hand)
 
-오늘날 '모듈러'는 르 꼬르뷔지에의 인체 치수 이론보다는, 실무에서 주로 건축 공법의 하나로 더 많이 사용됩니다. 모듈러 공법은 박스 형태의 모듈 유닛을 기본으로, 골조 등 주요 구조부의 전부 또는 일부를 공장에서 제작·조립한 뒤 현장에서 설치해 건축물을 완성하는 방식으로, 프리패브(pre-fab) 공법의 한 형태입니다.
+## Modular Construction
+
+Today, the term “modular” is used more often in practice as a construction method rather than as Le Corbusier’s body-dimension theory. Modular construction is a type of prefabrication (pre-fab) in which box-shaped module units are manufactured and assembled in a factory—fully or partially including key structural components such as the frame—and then transported and installed on site to complete the building.
 
 <img src="101-103_img/modulor.png" style="width:60%;">
 
-공장 제작 비중이 높기 때문에 외부 환경(날씨 등)의 영향을 덜 받고, 현장 작업량과 투입 인력을 줄일 수 있다는 장점이 있습니다. 또한 공장에서 모듈을 제작하는 동안 현장에서는 기초·인프라 등 다른 공정을 병행할 수 있어, 전체 공사 기간을 단축하는 효과도 기대할 수 있습니다. 이처럼 모듈러 건축은 생산성과 품질 관리 측면에서 강점이 있어 스마트 건설 흐름과 맞물려 다양한 분야에서 연구와 적용이 확대되고 있습니다.
+Because a large portion of the work is completed in a factory, modular construction is less affected by external conditions (such as weather) and can reduce on-site workload and labor input. In addition, while modules are being produced in the factory, site work such as foundations and infrastructure can proceed in parallel, which can shorten the overall construction period. With strengths in productivity and quality control, modular construction is being researched and adopted across a growing range of fields in line with the broader trend toward smart construction.
 
-모듈은 설계에서 사용하는 치수의 기준 체계이고, 모듈러 공법은 공장 제작과 현장 조립을 기반으로 한 시공 방식(생산 시스템)을 뜻합니다. 두 개념은 서로 연결될 수 있지만 반드시 같은 의미는 아니므로, 실무에서는 치수 기준을 모듈화했는지, 모듈러 공법을 적용하는지를 구분해 설명하는 것이 혼선을 줄이는 데 도움이 됩니다.
+In summary, a module is a dimensional reference system used in design, while modular construction refers to a construction method (production system) based on factory fabrication and on-site assembly. The two concepts can be related, but they are not necessarily the same. In practice, clearly distinguishing whether a project has modularized its dimensional standards or is applying modular construction helps reduce confusion.
 
 ---
 
-# 코어
+# Core
 
-## 코어란?
+## What Is a Core?
 
 <img src="101-103_img/core.png" style="width:80%;">
 
-코어(core)는 건물의 가운데(또는 한쪽)에 모여 있는 수직 동선 + 설비 수직계통 + 공용 서비스 공간의 묶음을 말합니다.
-보통 다음과 같은 공간들이 코어에 포함됩니다.
+A core is a cluster—typically located at the center (or to one side) of a building—combining vertical circulation, vertical building-services systems, and shared service spaces.
 
-- 수직 동선: 계단, 승강기(엘리베이터), 에스컬레이터
-- 설비 수직 샤프트: EPS(전기 파이프), PD(파이프 덕트), AD(에어 덕트), TPS(통신배관실), AV(스프링클러 배관통로)
-- 공용 서비스: 화장실, 청소도구실, 전기실/기계실 일부, 방재 관련 공간 등(건물/용도에 따라)
+A core typically includes the following:
 
-승강기 + 계단실 + 화장실은 가능한 근접시키며, 승강기 홀은 가급적 중앙에, 코어 내 공간은 각층마다 같은 위치에 둘 수 있도록 합니다.
+- Vertical circulation: stairs, elevators (lifts), escalators
+- Vertical service shafts:
+    EPS (electrical pipe shaft), PD (pipe duct), AD (air duct), TPS (telecommunications pipe room), AV (sprinkler piping passage)
+- Shared services: restrooms, janitor’s closet, parts of electrical/mechanical rooms, fire-safety-related spaces, etc. (depending on building type/use)
 
-## 코어의 역할
+As a rule, elevators, stairwells, and restrooms should be placed as close to one another as possible. Elevator lobbies should preferably be centralized, and spaces within the core should be aligned so they can remain in the same location on each floor.
 
-- 평면적: 유효 면적 증대(통로공간 감소)
-- 구조적: 안전성 증진(내진벽의 합리적 배치)
-- 설비적: 설비 배관 집중(경제성)
+## Roles of the Core
+
+- Plan/layout: increases net usable area (reduces corridor space)
+- Structural: improves safety (rational placement of seismic walls)
+- MEP/services: concentrates building services (cost efficiency)
 
 
-## 코어의 유형
+## Types of Cores
 
 <img src="101-103_img/core2.png" style="width:80%;">
 
-- 중앙 코어형: 코어가 중심에 위치한 유형입니다. 바닥면적이 클 경우 적합하며, 특히 고층, 초고층에 적합합니다. 유효율이 높고 분할임대 빌딩으로서 가장 경제적인 계획이 가능합니다.
-- 편심 코어형: 코어를 한쪽으로 밀어 조망/채광/가변 평면 확보에 유리하게 만든 유형입니다. 기준층 바닥 면적이 적은 경우에 적합하며, 바닥 면적이 커진다면 코어 이외에도 피난시설, 설비 샤프트 등이 필요합니다.
-- 독립 코어형: 코어가 건물과 분리되어 있는 유형입니다. 공간을 코어와 관계없이 제공 가능하지만 각종 덕트, 배관 등의 길이가 길어지며 방재상 불리해진다는 단점이 있습니다. 바닥 면적이 커지면 피난 시설을 포함한 서브 코어가 필요합니다.
-- 양단 코어형: 코어가 건물 양쪽으로 분리되어 있는 유형입니다. 한 개의 대공간을 필요로 하는 전용 사무실에 적합하며, 2방향 피난에 이상적입니다.
+- Central core: The core is located at the center. Suitable for large floor plates, and especially appropriate for high-rise and supertall buildings. Offers high efficiency and enables the most economical planning for subdivided leasing buildings.
+
+- Offset core: The core is shifted to one side to improve views, daylighting, and flexibility in floor plan layouts. Suitable for smaller typical floor areas; if the floor plate becomes large, additional egress facilities and service shafts beyond the main core may be required.
+
+- Detached core: The core is separated from the main building. Spaces can be planned independently of the core, but ducts and piping become longer and fire-safety performance can be less favorable. If the floor area increases, a sub-core including egress facilities may be needed.
+
+- Dual-end cores: The cores are split to both ends of the building. Suitable for dedicated offices requiring a single large space, and ideal for two-direction egress.
 
 ---
 
-# 승강기 배치
+# Elevator Arrangement
 
-승강기는 이용자의 이동 경험과 대기시간, 코어 면적, 층별 운영 방식에 직접 영향을 주기 때문에, 코어 계획을 구체화하는 단계에서 가장 먼저 검토해야 하는 요소 중 하나입니다. 따라서 다음에서는 코어 구성 요소 중 승강기 배치계획에 관해 간단히 알아보도록 하겠습니다.
+Because elevators directly affect user travel experience, waiting time, core area, and floor-by-floor operational strategies, elevator planning is one of the first items to review when detailing the core plan. The following section briefly outlines elevator layout planning as a component of core design.
 
-승강기 배치의 경우 직선 배치는 4대 이하로 합니다. 5~8대는 알코브 배치를 하고, 그 이상으로 넘어갈 경우 군별로 분할합니다. 
-다음 표는 승강기의 배치 유형입니다.
+For elevator arrangement, a straight-line layout is typically used for up to four cars. For five to eight cars, an alcove layout is used, and beyond that, elevators are divided into separate groups (banks).
 
-| 유형구분     | 뱅크당 개수 | 대면거리 | 특징 |
-| ------ | :----: | :--: | :--: |
-| 일렬형 |    4대   |  -  |  일렬배치  |
-| 알코브형  |   4~6대  |  3.5~4.5m |  통과동선 없음  |
-| 대면형     |  4~8대  |  3.5~4.5m  |  통과동선  | 
-| 대면복합형  |  4~8대  |  6m 이상 |  저층용, 고층용 대면배치 |
+The table below summarizes elevator layout types:
+
+
+| Type             | Cars per bank | Facing distance | Characteristics                                        |
+| ---------------- | :-----------: | :-------------: | ------------------------------------------------------ |
+| Linear (in-line) |    up to 4    |        –        | Arranged in a single line                              |
+| Alcove           |      4–6      |    3.5–4.5 m    | No through-traffic circulation                         |
+| Facing           |      4–8      |    3.5–4.5 m    | Through-traffic circulation                            |
+| Mixed facing     |      4–8      |   6 m or more   | Facing layout split for low-rise and high-rise service |
 
 
 
