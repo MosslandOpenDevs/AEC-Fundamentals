@@ -1,4 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+  <defs>
+    <filter id="nbSketch" x="-6%" y="-6%" width="112%" height="112%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.012" numOctaves="2" seed="2" result="warp"/>
+      <feDisplacementMap in="SourceGraphic" in2="warp" scale="2.0" xChannelSelector="R" yChannelSelector="G" result="displaced"/>
+      <feTurbulence type="fractalNoise" baseFrequency="0.65" numOctaves="1" seed="7" result="grain"/>
+      <feColorMatrix in="grain" type="matrix" values="0 0 0 0 0.55  0 0 0 0 0.55  0 0 0 0 0.55  0 0 0 0.20 0" result="grainTint"/>
+      <feBlend in="displaced" in2="grainTint" mode="multiply"/>
+    </filter>
+  </defs>
+  <g filter="url(#nbSketch)">
   <g stroke="#6f6f6f" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round">
     <line x1="60" y1="180" x2="250" y2="180"/>
     <line x1="390" y1="180" x2="580" y2="180"/>
@@ -20,5 +30,6 @@
     <line x1="58" y1="183" x2="248" y2="183"/>
     <line x1="392" y1="183" x2="582" y2="183"/>
     <rect x="252" y="152" width="136" height="56" rx="7"/>
+  </g>
   </g>
 </svg>
