@@ -24,6 +24,11 @@
     <img src="201-203_img/02_plan.png" alt="출입구 동선 이미지" width="70%" />
 </p>
 
+<p align="center">
+    <img src="201-203_img/02_plan1.png" alt="출입구 동선 이미지" width="70%" />
+</p>
+
+
 <p align="center">이미지를 보시면</p>
 <p align="center">ENTRANCE라고 적혀있는 곳이 출입구라는 것을 인식할 수 있습니다.</p>
 <p align="center">출입구에서 들어오면 건물 내의 작은 정원과 수공간이 한 번에 보이는 장면을 짐작할 수 있습니다.</p>
