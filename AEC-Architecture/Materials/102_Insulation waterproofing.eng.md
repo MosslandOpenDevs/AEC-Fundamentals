@@ -1,10 +1,10 @@
 # 🛡️ Performance Materials
 
-> **Document Info**
-> * **Category:** Architecture / Performance Layer
-> * **Target System:** Energy Simulation (EnergyPlus), Facility Management (FM)
-> * **Last Updated:** 2026-02-02
-> * **Keywords:** `Thermal Conductivity`, `Insulation`, `Waterproofing`, `Risk Management`
+> <strong>Document Info</strong>
+> * <strong>Category:</strong> Architecture / Performance Layer
+> * <strong>Target System:</strong> Energy Simulation (EnergyPlus), Facility Management (FM)
+> * <strong>Last Updated:</strong> 2026-02-02
+> * <strong>Keywords:</strong> `Thermal Conductivity`, `Insulation`, `Waterproofing`, `Risk Management`
 
 ---
 
@@ -24,8 +24,8 @@
 
 This document serves as a data definition guide for the "Invisible" core layer hidden behind finishing materials, which determines the <strong>Physics Performance</strong> of the Digital Twin.
 
-* **Insulation:** Resistance variable ($R$-Value) for energy analysis algorithms.
-* **Waterproofing:** Target points for maintenance simulation and IoT sensor deployment.
+* <strong>Insulation:</strong> Resistance variable ($R$-Value) for energy analysis algorithms.
+* <strong>Waterproofing:</strong> Target points for maintenance simulation and IoT sensor deployment.
 
 <br>
 
@@ -40,49 +40,49 @@ For Energy Simulation (e.g., EnergyPlus), the following formula applies:
 
 $$\huge U = \frac{1}{\sum (d_i / k_i) + R_s}$$
 
-* **$k$ (Thermal Conductivity, W/mK):** The material's inherent heat transfer coefficient. (<strong>Lower is Better.</strong> 📉)
-* **$d$ (Thickness, m):** Modeled thickness.
-* **$U$ (U-Value):** The resulting thermal transmittance of the assembly.
+* <strong>$k$ (Thermal Conductivity, W/mK):</strong> The material's inherent heat transfer coefficient. (<strong>Lower is Better.</strong> 📉)
+* <strong>$d$ (Thickness, m):</strong> Modeled thickness.
+* <strong>$U$ (U-Value):</strong> The resulting thermal transmittance of the assembly.
 
 ### 2.2 Material Database (LOD 300 Specification)
 
 #### Type A: PF Board (Phenolic Foam)
 <div align="center">
-  <img src="./asstes/images/insulation_pf_board.png" width="70%" alt="PF Board">
+  <img src="./assets/images/insulation_pf_board.png" width="70%" alt="PF Board">
 </div>
 
-* **Property ($k$):** <strong>0.020 W/mK</strong> (<strong>Highest Performance.</strong>)
-* **Features:**
+* <strong>Property ($k$):</strong> <strong>0.020 W/mK</strong> (<strong>Highest Performance.</strong>)
+* <strong>Features:</strong>
     * Can meet legal insulation standards with a thin profile.
     * <strong>Sim Note:</strong> Vulnerable to moisture; consider applying a 'Performance Decay' coefficient if set in areas directly exposed to external air.
 
 #### Type B: Rigid Polyurethane
 <div align="center">
-  <img src="./asstes/images/insulation_rigid_polyurethane.png" width="70%" alt="Rigid Polyurethane">
+  <img src="./assets/images/insulation_rigid_polyurethane.png" width="70%" alt="Rigid Polyurethane">
 </div>
 
-* **Property ($k$):** <strong>0.023 W/mK</strong> (<strong>High Performance.</strong>)
-* **Features:**
+* <strong>Property ($k$):</strong> <strong>0.023 W/mK</strong> (<strong>High Performance.</strong>)
+* <strong>Features:</strong>
     * Excellent <strong>Airtightness</strong> when spray-applied.
     * <strong>Sim Note:</strong> Lowest probability of <strong>Thermal Bridge</strong> occurrence due to gap-free application.
 
 #### Type C: EPS (Expanded Polystyrene)
 <div align="center">
-  <img src="./asstes/images/insulation_eps.png" width="70%" alt="EPS">
+  <img src="./assets/images/insulation_eps.png" width="70%" alt="EPS">
 </div>
 
-* **Property ($k$):** <strong>0.034 W/mK</strong> (<strong>Standard Performance</strong>)
-* **Features:**
+* <strong>Property ($k$):</strong> <strong>0.034 W/mK</strong> (<strong>Standard Performance</strong>)
+* <strong>Features:</strong>
     * Graphite-enhanced (Type 2, Grey) offers better thermal performance than standard White (Type 1).
     * <strong>Sim Note:</strong> Requires application of an <strong>Aging</strong> variable for long-term usage analysis.
 
 #### Type D: Glass Wool
 <div align="center">
-  <img src="./asstes/images/insulation_glass_wool.png" width="70%" alt="Glass Wool">
+  <img src="./assets/images/insulation_glass_wool.png" width="70%" alt="Glass Wool">
 </div>
 
-* **Property ($k$):** <strong>0.038 W/mK</strong> (<strong>Fire Resistant/Acoustic</strong>)
-* **Features:**
+* <strong>Property ($k$):</strong> <strong>0.038 W/mK</strong> (<strong>Fire Resistant/Acoustic</strong>)
+* <strong>Features:</strong>
     * Made of fiberglass; <strong>Non-combustible (Fire Safety).</strong>
     * <strong>Sim Note:</strong> Can be used for acoustic simulation by mapping <strong>NRC (Noise Reduction Coefficient)</strong> data in addition to thermal properties.
 
@@ -116,6 +116,6 @@ Priority <strong>Coordinates</strong> for placing <strong>Leakage Sensors</stron
 
 ---
 
-> **Engineer's Note**
+> <strong>Engineer's Note</strong>
 > * <strong>Insulation</strong> is a continuous <strong>Float</strong> value. ($k \downarrow = Efficiency \uparrow$)
 > * <strong>Waterproofing</strong> functions as a <strong>Boolean</strong> state (Leak: True/False), but the failure probability correlates with <strong>Joint Complexity</strong>.

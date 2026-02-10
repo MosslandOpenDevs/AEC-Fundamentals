@@ -1,10 +1,10 @@
 # 🎨 Finishing Materials
 
 > <strong>Document Info</strong>
-> * **Category:** Architecture / Finishing Layer
-> * **Target System:** Rendering, Facility Management (FM), BIM/DT Material Library
-> * **Last Updated:** 2026-02-02
-> * **Keywords:** `Sensory Quality`, `Maintenance`, `Durability`, `Detailing`
+> * <strong>Category:</strong> Architecture / Finishing Layer
+> * <strong>Target System:</strong> Rendering, Facility Management (FM), BIM/DT Material Library
+> * <strong>Last Updated:</strong> 2026-02-02
+> * <strong>Keywords:</strong> `Sensory Quality`, `Maintenance`, `Durability`, `Detailing`
 
 ---
 
@@ -36,7 +36,7 @@ In a Digital Twin, they are modeled along three axes:
 ## 2. Internal Finishes
 
 <div align="center">
-  <img src="./asstes/images/finish_iso.png" width="80%" alt="Interior Finish Iso View">
+  <img src="./assets/images/finish_iso.png" width="80%" alt="Interior Finish Iso View">
 </div>
 
 > <strong>Concept Note:</strong> The core is visualizing the “sense of space by material.”  
@@ -87,24 +87,24 @@ In a Digital Twin, they are modeled along three axes:
 <table width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="./asstes/images/facade_iso_stone.png" alt="Stone Facade" width="100%">
+      <img src="./assets/images/facade_iso_stone.png" alt="Stone Facade" width="100%">
       <br>
       <b>① Stone Facade</b>
     </td>
     <td align="center" width="50%">
-      <img src="./asstes/images/facade_iso_metal.png" alt="Metal Facade" width="100%">
+      <img src="./assets/images/facade_iso_metal.png" alt="Metal Facade" width="100%">
       <br>
       <b>② Metal Facade</b>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="./asstes/images/facade_iso_glass.png" alt="Glass Facade" width="100%">
+      <img src="./assets/images/facade_iso_glass.png" alt="Glass Facade" width="100%">
       <br>
       <b>③ Glass Facade</b>
     </td>
     <td align="center" width="50%">
-      <img src="./asstes/images/facade_iso_brick.png" alt="Brick Facade" width="100%">
+      <img src="./assets/images/facade_iso_brick.png" alt="Brick Facade" width="100%">
       <br>
       <b>④ Brick Facade</b>
     </td>

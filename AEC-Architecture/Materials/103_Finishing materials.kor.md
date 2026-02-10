@@ -1,10 +1,10 @@
 # 🎨 Finishing Materials (마감 재료)
 
 > <strong>Document Info</strong>
-> * **분류 (Category):** 건축 / 마감 레이어 (Architecture / Finishing Layer)
-> * **타겟 시스템 (Target System):** 시각화 (Rendering), 유지관리 (FM), 자재 라이브러리 (BIM/DT)
-> * **최종 업데이트 (Last Updated):** 2026-02-02
-> * **핵심 키워드 (Keywords):** `감성 품질(Sensory Quality)`, `유지관리(Maintenance)`, `내구성(Durability)`, `마감 디테일(Detailing)`
+> * <strong>분류 (Category):</strong> 건축 / 마감 레이어 (Architecture / Finishing Layer)
+> * <strong>타겟 시스템 (Target System):</strong> 시각화 (Rendering), 유지관리 (FM), 자재 라이브러리 (BIM/DT)
+> * <strong>최종 업데이트 (Last Updated):</strong> 2026-02-02
+> * <strong>핵심 키워드 (Keywords):</strong> `감성 품질(Sensory Quality)`, `유지관리(Maintenance)`, `내구성(Durability)`, `마감 디테일(Detailing)`
 
 ---
 
@@ -36,7 +36,7 @@
 ## 2. Internal Finishes (내부 마감 재료)
 
 <div align="center">
-  <img src="./asstes/images/finish_iso.png" width="80%" alt="Interior Finish Iso View">
+  <img src="./assets/images/finish_iso.png" width="80%" alt="Interior Finish Iso View">
 </div>
 
 > <strong>컨셉 노트:</strong> 내부 마감은 “재료별 공간의 느낌”을 시각화하는 것이 핵심입니다.  
@@ -87,24 +87,24 @@
 <table width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="./asstes/images/facade_iso_stone.png" alt="Stone Facade" width="100%">
+      <img src="./assets/images/facade_iso_stone.png" alt="Stone Facade" width="100%">
       <br>
       <b>① 석재 파사드 (Stone)</b>
     </td>
     <td align="center" width="50%">
-      <img src="./asstes/images/facade_iso_metal.png" alt="Metal Facade" width="100%">
+      <img src="./assets/images/facade_iso_metal.png" alt="Metal Facade" width="100%">
       <br>
       <b>② 금속 파사드 (Metal)</b>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="./asstes/images/facade_iso_glass.png" alt="Glass Facade" width="100%">
+      <img src="./assets/images/facade_iso_glass.png" alt="Glass Facade" width="100%">
       <br>
       <b>③ 유리 파사드 (Glass)</b>
     </td>
     <td align="center" width="50%">
-      <img src="./asstes/images/facade_iso_brick.png" alt="Brick Facade" width="100%">
+      <img src="./assets/images/facade_iso_brick.png" alt="Brick Facade" width="100%">
       <br>
       <b>④ 벽돌 파사드 (Brick)</b>
     </td>
