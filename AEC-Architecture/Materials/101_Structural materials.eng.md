@@ -1,10 +1,10 @@
 # 🏗️ Structural Materials
 
-> **Document Info**
-> * **Category:** Architecture / Structural Core
-> * **Target System:** Structural Analysis (FEM), Quantity Take-off (QTO), Physics Engine
-> * **Last Updated:** 2026-02-02
-> * **Keywords:** `Concrete Hierarchy`, `Data Integrity`, `Thermal Mass`, `LCA`
+> <strong>Document Info</strong>
+> * <strong>Category:</strong> Architecture / Structural Core
+> * <strong>Target System:</strong> Structural Analysis (FEM), Quantity Take-off (QTO), Physics Engine
+> * <strong>Last Updated:</strong> 2026-02-02
+> * <strong>Keywords:</strong> `Concrete Hierarchy`, `Data Integrity`, `Thermal Mass`, `LCA`
 
 ---
 
@@ -22,7 +22,7 @@
 
 In Digital Twins, architectural materials are not merely 3D textures.
 
-They serve as **Boundary Conditions** for energy simulation and **Data Entities** that determine the reliability of carbon emission algorithms.
+They serve as <strong>Boundary Conditions</strong> for energy simulation and <strong>Data Entities</strong> that determine the reliability of carbon emission algorithms.
 
 <br>
 
@@ -47,7 +47,7 @@ When designing a data schema, one must understand the inclusion relationship bel
 
 #### 2. Material Properties & Data Points
 
-**① Cement Paste**
+<strong>① Cement Paste</strong>
 * <strong>Physics:</strong> High fluidity. No aggregates.
 * <strong>Data Point:</strong>
     * `Hydration Heat`:
@@ -60,7 +60,7 @@ When designing a data schema, one must understand the inclusion relationship bel
 
 <br>
 
-**② Mortar**
+<strong>② Mortar</strong>
 * <strong>Physics:</strong> Smooth surface. Used for brick bonding or floor leveling.
 * <strong>Data Point:</strong>
     * `Layer Depth`:
@@ -73,7 +73,7 @@ When designing a data schema, one must understand the inclusion relationship bel
 
 <br>
 
-**③ Concrete**
+<strong>③ Concrete</strong>
 * <strong>Physics:</strong> Coarse aggregates interlock to withstand compressive forces.
 * <strong>Data Point:</strong>
     * `Mass` (Density):
@@ -90,7 +90,7 @@ When designing a data schema, one must understand the inclusion relationship bel
 
 #### 3. Critical Reasons for Data Distinction
 
-**① Energy Simulation: "Different Entities of Heat Capacity"**
+<strong>① Energy Simulation: "Different Entities of Heat Capacity"</strong>
 
 Depending on the material properties, the simulation <strong>Time Step</strong> and <strong>Space</strong> settings must be adjusted.
 
@@ -102,7 +102,7 @@ Depending on the material properties, the simulation <strong>Time Step</strong> 
 
 <br>
 
-**② Digital Twin & LCA: "Carbon Data Algorithm Errors"**
+<strong>② Digital Twin & LCA: "Carbon Data Algorithm Errors"</strong>
 
 * <strong>Logic:</strong> 
   $\text{Total Carbon} = \text{Volume}(\text{m}^3) \times \text{Carbon Factor}(\text{kgCO}_2\text{e/m}^3)$
