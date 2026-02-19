@@ -3,7 +3,7 @@
 > **Document Info**
 > * **분류 (Category):** 건축 / 시공 공정 (Architecture / Construction Process)
 > * **타겟 시스템 (Target System):** 시공 계획, 품질 관리(QA/QC), 공정 시뮬레이션
-> * **최종 업데이트 (Last Updated):** 2026-02-03
+> * **최종 업데이트 (Last Updated):** 2026-02-19
 > * **핵심 키워드 (Keywords):** `Construction Sequence`, `Layering`, `Thickness`, `Tolerance`
 
 ---
@@ -36,11 +36,11 @@
 * <strong>[순서]</strong> 골조 공사 직후, 설비 배관이 자리를 잡은 뒤 가장 먼저 수행.
 * <strong>[특징]</strong> 틈새 없는 연속성(Continuity)이 생명입니다. 미세한 크랙(Crack) 하나가 전체 시스템의 실패(Leakage)로 이어집니다.
 
-> <strong>액체 방수(Liquid Waterproofing):</strong> 시멘트와 방수액을 섞어 바르는 방식. 복잡한 형상에도 시공이 용이하여 실내 화장실 등에 주로 사용됨. <br> <strong>도막 방수(Membrane Waterproofing):</strong> 우레탄이나 아크릴 등을 도포하여 고무판 같은 막을 형성하는 방식. 탄성이 좋아 균열에 강함.
-
 <div align="center">
   <img src="./401_img/finishing_waterproofing_03.png" width="50%" alt="Waterproofing application example">
 </div>
+
+> <strong>액체 방수(Liquid Waterproofing):</strong> 시멘트와 방수액을 섞어 바르는 방식. 복잡한 형상에도 시공이 용이하여 실내 화장실 등에 주로 사용됨. <br> <strong>도막 방수(Membrane Waterproofing):</strong> 우레탄이나 아크릴 등을 도포하여 고무판 같은 막을 형성하는 방식. 탄성이 좋아 균열에 강함.
 
 ### Phase 2. 조적 (Masonry): The Partition
 텅 빈 공간에 물리적인 <strong>구획(Boundary)</strong>을 설정하는 단계입니다. 벽돌이나 블록을 쌓아 공간을 나누고, 소리와 열을 차단하는 1차적인 물리적 장벽을 세웁니다.
@@ -54,33 +54,34 @@
 ### Phase 3. 창호 (Fenestration): The Envelope Interface
 내부와 외부를 연결하는 <strong>개구부(Opening)</strong>를 정의합니다. 단순한 구멍이 아니라, 열 관류율(Heat Transmission)과 기밀성(Airtightness) 같은 환경 성능 값이 결정되는 단계입니다.
 
-<div style="text-align: left; margin-bottom: 8px;">
+<div style="text-align: center; margin-bottom: 8px;">
+  <img src="./401_img/finishing_window_detail_04.png" style="width: 70%; height: auto;" alt="Window opening detail variants">
+</div>
+
+<div style="text-align: center; margin-bottom: 8px;">
   <strong>[위치]</strong> 외벽의 개구부, 발코니 출입구 등 내/외부의 경계면
 </div>
 <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: nowrap;">
   <div style="width: 48%; text-align: center;">
-    <img src="./401_img/finishing_window_detail_01.png" style="width: 75%; height: auto;" alt="Window frame interface detail">
+    <img src="./401_img/finishing_window_detail_01.png" style="width: 78%; height: auto;" alt="Window frame interface detail">
   </div>
   <div style="width: 48%; text-align: center;">
-    <img src="./401_img/finishing_window_detail_04.png" style="width: 75%; height: auto;" alt="Window opening detail variants">
+    <img src="./401_img/finishing_window_steps_02.png" style="width: 65%;" alt="Window installation sequence">
   </div>
 </div>
 
 <div style="height: 4px;"></div>
 
-<div style="text-align: left; margin: 10px 0 8px;">
+<div style="text-align: center; margin: 10px 0 8px;">
   <strong>[순서]</strong> 조적 벽체가 선 후 개구부에 맞춰 프레임을 끼움 (또는 창호 프레임 선행 후 조적)
 </div>
-<div style="display: flex; justify-content: center; gap: 12px; flex-wrap: nowrap;">
-  <div style="width: 48%; text-align: center;">
-    <img src="./401_img/finishing_window_steps_02.png" style="width: 75%;" alt="Window installation sequence">
-  </div>
-  <div style="width: 48%; text-align: center;">
-    <img src="./401_img/finishing_uvalue_05.png" style="width: 75%;" alt="U-value comparison by glass configuration">
-  </div>
+<div style="text-align: center;">
+  <img src="./401_img/finishing_uvalue_05.png" style="width: 65%;" alt="U-value comparison by glass configuration">
 </div>
 
-* <strong>[특징]</strong> 벽체와 창틀 사이의 틈새(Gap)를 얼마나 밀실하게 채우느냐가 건물의 단열 성능을 좌우합니다.
+<div style="text-align: center; margin: 10px 0 8px;">
+  <strong>[특징]</strong> 벽체와 창틀 사이의 틈새(Gap)를 얼마나 밀실하게 채우느냐가 건물의 단열 성능을 좌우합니다.
+</div>
 
 > <strong>열관류율(U-value):</strong> 열이 물체를 통과하는 정도를 나타내는 수치. 값이 낮을수록 단열 성능이 우수함을 의미함. <br> <strong>사춤(Grouting):</strong> 창호 틀과 벽체 사이의 빈 공간을 모르타르나 단열재로 꼼꼼하게 메워 넣는 작업.
 

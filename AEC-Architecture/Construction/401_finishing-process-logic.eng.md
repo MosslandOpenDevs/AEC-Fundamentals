@@ -3,7 +3,7 @@
 > <strong>Document Info</strong>
 > * <strong>Category:</strong> Architecture / Construction Process
 > * <strong>Target System:</strong> Construction planning, QA/QC, process simulation
-> * <strong>Last Updated:</strong> 2026-02-03
+> * <strong>Last Updated:</strong> 2026-02-19
 > * <strong>Keywords:</strong> `Construction Sequence`, `Layering`, `Thickness`, `Tolerance`
 
 ---
