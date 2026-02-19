@@ -56,33 +56,36 @@ Defines physical <strong>boundaries</strong> in empty space. Blocks/bricks divid
 Defines the <strong>opening</strong> between inside and outside.  
 Not just a hole—this is where thermal transmission and airtightness performance are determined.
 
-<div style="text-align: left; margin-bottom: 8px;">
+<div align="center">
+  <img src="./401_img/finishing_window_detail_04.png" width="70%" alt="Window opening detail variants">
+</div>
+
+<div align="center">
   <strong>[Location]</strong> Exterior openings, balcony doors, and other inside/outside boundaries
 </div>
-<div style="display: flex; justify-content: center; gap: 12px; flex-wrap: nowrap;">
-  <div style="width: 48%; text-align: center;">
-    <img src="./401_img/finishing_window_detail_01.png" style="width: 75%; height: auto;" alt="Window frame interface detail">
-  </div>
-  <div style="width: 48%; text-align: center;">
-    <img src="./401_img/finishing_window_detail_04.png" style="width: 75%; height: auto;" alt="Window opening detail variants">
-  </div>
-</div>
 
-<div style="height: 4px;"></div>
+<table cellspacing="0" cellpadding="4" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="./401_img/finishing_window_detail_01.png" width="90%" alt="Window frame interface detail">
+    </td>
+    <td align="center" width="50%">
+      <img src="./401_img/finishing_window_steps_02.png" width="80%" alt="Window installation sequence">
+    </td>
+  </tr>
+</table>
 
-<div style="text-align: left; margin: 10px 0 8px;">
+<div align="center">
   <strong>[Sequence]</strong> After masonry stands, insert frame to fit the opening (or set frame first, then complete masonry)
 </div>
-<div style="display: flex; justify-content: center; gap: 12px; flex-wrap: nowrap;">
-  <div style="width: 48%; text-align: center;">
-    <img src="./401_img/finishing_window_steps_02.png" style="width: 75%;" alt="Window installation sequence">
-  </div>
-  <div style="width: 48%; text-align: center;">
-    <img src="./401_img/finishing_uvalue_05.png" style="width: 75%;" alt="U-value comparison by glass configuration">
-  </div>
+
+<div align="center">
+  <img src="./401_img/finishing_uvalue_05.png" width="65%" alt="U-value comparison by glass configuration">
 </div>
 
-* <strong>[Key Point]</strong> Filling the gap between wall and frame determines overall thermal performance.
+<div align="center">
+  <strong>[Key Point]</strong> Filling the gap between wall and frame determines overall thermal performance.
+</div>
 
 > <strong>U-value:</strong> Heat transmission through a material; lower values mean better insulation. <br> <strong>Grouting:</strong> Filling the gap between frame and wall with mortar or insulation for airtight sealing.
 

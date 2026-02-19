@@ -54,32 +54,34 @@
 ### Phase 3. 창호 (Fenestration): The Envelope Interface
 내부와 외부를 연결하는 <strong>개구부(Opening)</strong>를 정의합니다. 단순한 구멍이 아니라, 열 관류율(Heat Transmission)과 기밀성(Airtightness) 같은 환경 성능 값이 결정되는 단계입니다.
 
-<div style="text-align: center; margin-bottom: 8px;">
-  <img src="./401_img/finishing_window_detail_04.png" style="width: 70%; height: auto;" alt="Window opening detail variants">
+<div align="center">
+  <img src="./401_img/finishing_window_detail_04.png" width="70%" alt="Window opening detail variants">
 </div>
 
-<div style="text-align: center; margin-bottom: 8px;">
+<div align="center">
   <strong>[위치]</strong> 외벽의 개구부, 발코니 출입구 등 내/외부의 경계면
 </div>
-<div style="display: flex; justify-content: center; gap: 12px; flex-wrap: nowrap;">
-  <div style="width: 48%; text-align: center;">
-    <img src="./401_img/finishing_window_detail_01.png" style="width: 78%; height: auto;" alt="Window frame interface detail">
-  </div>
-  <div style="width: 48%; text-align: center;">
-    <img src="./401_img/finishing_window_steps_02.png" style="width: 65%;" alt="Window installation sequence">
-  </div>
-</div>
 
-<div style="height: 4px;"></div>
+<table cellspacing="0" cellpadding="4" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="./401_img/finishing_window_detail_01.png" width="90%" alt="Window frame interface detail">
+    </td>
+    <td align="center" width="50%">
+      <img src="./401_img/finishing_window_steps_02.png" width="80%" alt="Window installation sequence">
+    </td>
+  </tr>
+</table>
 
-<div style="text-align: center; margin: 10px 0 8px;">
+<div align="center">
   <strong>[순서]</strong> 조적 벽체가 선 후 개구부에 맞춰 프레임을 끼움 (또는 창호 프레임 선행 후 조적)
 </div>
-<div style="text-align: center;">
-  <img src="./401_img/finishing_uvalue_05.png" style="width: 65%;" alt="U-value comparison by glass configuration">
+
+<div align="center">
+  <img src="./401_img/finishing_uvalue_05.png" width="65%" alt="U-value comparison by glass configuration">
 </div>
 
-<div style="text-align: center; margin: 10px 0 8px;">
+<div align="center">
   <strong>[특징]</strong> 벽체와 창틀 사이의 틈새(Gap)를 얼마나 밀실하게 채우느냐가 건물의 단열 성능을 좌우합니다.
 </div>
 
