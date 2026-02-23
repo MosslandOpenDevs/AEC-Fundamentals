@@ -1,4 +1,4 @@
-﻿## 1. What Is a Duct System? - The Building's Air Lifeline
+﻿## 1. What Is a Duct System? - A Building's Air Lifeline
 
 **A duct** is a pathway that moves air.
 It is a core part of HVAC (heating, ventilation, and air conditioning) systems. Ducts are usually hidden above ceilings or inside walls, but they play a critical role in controlling airflow throughout a building.
@@ -35,9 +35,9 @@ To move air through ducts, you first need **equipment that conditions the air**.
 
 ---
 
-**AHU Variants by Purpose - Smaller or Specialized Air Units**
+**AHU Variants by Purpose - Compact or Specialized Air Units**
 
-If a standard AHU is a large plant serving the whole building, there are also smaller or specialized units depending on function and scale.
+If a standard AHU is a large central unit serving the whole building, there are also smaller or specialized units based on function and scale.
 
 - **PAU (Pre-cooling Air Handling Unit)**: Pre-treats outdoor air (cooling/heating/dehumidification) before supplying it indoors.
   - Often used with FCU systems. Since FCUs mainly recirculate indoor air, PAUs separately provide pre-treated fresh air.
@@ -132,7 +132,7 @@ A **total heat exchanger** is designed to solve this problem.
 
 > Many new apartments use ceiling-mounted ventilation units in bathrooms and kitchens that include total heat exchange. This allows fresh-air ventilation while maintaining HVAC efficiency even with windows closed.
 
-> On heavy fine-dust days, these units can also provide cleaner outdoor air through high-performance filters such as **HEPA** filters. Filter replacement must be done regularly to maintain performance.
+> On days with high fine-dust levels, these units can also provide cleaner outdoor air through high-performance filters such as **HEPA** filters. Filters must be replaced regularly to maintain performance.
 
 ---
 
@@ -148,6 +148,7 @@ If you are unsure which method fits your building, use the table below.
 | Hotels, hospitals, officetels | FCU | Full independent control required per room |
 | New apartments, small offices | Total heat exchanger + single-duct | Meets ventilation requirements while saving energy |
 
-> Key idea: You do not need to stick to one method only. In real projects, hybrid designs are common (for example, VAV + FCU, or single-duct + total heat exchanger). Matching the combination to use case and budget is the core of good design.
+> Key idea: You do not need to rely on just one method. In real projects, hybrid designs are common (for example, VAV + FCU, or single-duct + total heat exchanger). Matching the system combination to the use case and budget is the core of good design.
 
 ---
+
