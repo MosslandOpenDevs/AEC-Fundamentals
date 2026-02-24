@@ -304,209 +304,212 @@ Special venting refers to approaches that achieve vent performance through pipe 
 
 ---
 
-## 특수통기 방식
+## Special Venting Methods
 
-1) 섹스티아 접속
-    배수수직관에서 섹스티아 이음쇠에 섹스티아 벤드관을 설치하여 선회력을 발생시키고, 이를 통해 가운데 쪽으로 공기 코어를 형성해 배수와 통기를 겸하는 방식입니다. 별도 통기관이 불필요합니다.
+1) Sextia connection
+    A method in which a Sextia bend is installed on a Sextia fitting at the drainage stack to create swirling flow. This forms an air core in the center, allowing combined drainage and venting without a separate vent pipe.
 
-2) 소벤트(Sovent) 방식
-    배수 수직관에 층별로 기포 주입 장치를 설치하여 배수에 공기를 주입하고, 이를 통해 유속을 감소시키는 방식입니다. 역시 별도 통기관이 불필요합니다.
-
----
-
-# 공조설비
-
-공조설비(HVAC 중 Air Conditioning)는 실내의 온도·습도·기류·청정도를 목표 수준으로 유지하기 위해, 공기와 열원을 이용해 열(현열)과 수분(잠열)을 동시에 제어하는 시스템입니다. 따라서 공조 방식의 선택은 단순 냉난방 가능 여부가 아니라 다음과 같은 요소에 직접적인 영향을 미치게 됩니다.
-
-- 쾌적성: 온도 균일성, 기류 분포, 습도 안정성
-- 위생·공기질: 외기 도입, 필터링, 오염실 적용 가능 여부
-- 건축 계획: 덕트 샤프트/천장 공간, 기계실 면적, 실 유효면적
-- 에너지/운영비: 부분부하 대응, 열회수 가능성, 외기냉방 적용성
-- 유지관리성: 장치 분산/집중, 접근성, 내구성
+2) Sovent system
+    A method that installs air-injection devices at each floor on the drainage stack to inject air into the discharge flow and reduce flow velocity. This also eliminates the need for separate vent piping.
 
 ---
 
-## 열수송에 따른 대표 공조 방식
+# HVAC Systems
+
+Air-conditioning systems (HVAC, specifically air conditioning) control both heat (sensible load) and moisture (latent load) by using air distribution and a heat source to maintain indoor temperature, humidity, airflow, and cleanliness at target levels. Therefore, selecting an HVAC approach affects not only whether heating/cooling is possible, but also the following factors:
+
+- Comfort: temperature uniformity, airflow distribution, humidity stability
+- Hygiene / indoor air quality: outdoor air intake, filtration, ability to serve contaminated/clean rooms
+- Architectural planning impacts: duct shafts/ceiling plenum space, mechanical room area, net usable area
+- Energy / operating cost: part-load performance, heat recovery potential, economizer (free cooling) applicability
+- Maintainability: distributed vs. centralized equipment, access, durability
+
+---
+
+## Representative HVAC System Types by Heat Transport
 
 <img src="201_img/air system.png" style="width:80%;">
 
-### 전공기 방식(All-Air System)
+### All-Air System
 
-냉난방 및 습도 제어를 공기로 수행하며, 공조기(AHU)에서 처리된 공기를 덕트로 각 실에 공급하는 방식입니다. 온·습도 제어가 상대적으로 용이하고 실내 기류 분포가 양호하며, 실내에 기기가 없어 실 유효면적 확보에 유리합니다. 외기냉방 및 열회수(Heat Recovery) 적용이 비교적 쉽다는 장점도 있습니다. 하지만 덕트 공간이 커지고, 천장 내 샤프트/플리넘 요구가 증가하며 공조기계실 등 설비 공간이 크게 필요하다는 것이 단점입니다.
+An all-air system performs heating/cooling and humidity control using air. Conditioned air is treated in an AHU (Air Handling Unit) and supplied to each space through ducts. It generally allows relatively easy temperature/humidity control and good indoor air distribution, and because there is little to no terminal equipment inside the room, it can help preserve net usable area. It is also comparatively easy to apply economizer (free cooling) and heat recovery.
+However, it requires larger duct space and increased needs for shafts/plenums above ceilings, and it typically requires larger mechanical spaces such as AHU rooms.
 
-전공기 방식에는 CAV, VAV, 이중덕트, 멀티존 유닛, 각 층 유닛 방식이 있습니다.
+All-air systems include CAV, VAV, double-duct, multi-zone units, and floor-by-floor unit systems.
 
-1) 단일덕트 정풍량 방식(CAV: Constant Air Volume)
+1) Single-Duct Constant Air Volume (CAV)
 
 <img src="201_img/CAV.png" style="width:80%;">
 
-덕트에서 풍량을 일정하게 공급하며, 실 부하 변화에 따라 온도와 습도를 조절하는 방식입니다. 시스템이 단순하여 설비비가 비교적 낮습니다. 일정 풍량 또는 대풍량이 필요한 경우 적합하며, 부하 조절이 어려워 부하가 작은 공간에서 불쾌감을(과냉/과열 등) 유발할 수 있습니다.
+Airflow rate is supplied at a constant volume through the duct system, and temperature/humidity are adjusted as space loads change. Because the system is relatively simple, initial cost can be lower. It is suitable when a constant (or large) airflow is required, but load control is limited—so it may cause discomfort (overcooling/overheating) in low-load spaces.
 
-2) 단일덕트 변풍량 방식(VAV: Variable Air Volume)
+2) Single-Duct Variable Air Volume (VAV)
 
 <img src="201_img/VAV.png" style="width:80%;">
 
-실 부하 변화에 따라 공급하는 풍량을 변화시켜 제어하는 방식으로, 부분부하 대응에 유리합니다. 정풍량 대비 기기 용량의 축소가 가능하고 에너지 절약에 유리하나, 설비비가 증가하며 대풍량·정풍량이 필요한 청정도 중심 요구에는 부적합할 수 있습니다.
+This method controls conditions by varying the supply airflow rate in response to load changes, making it advantageous under part-load operation. Compared to CAV, equipment capacity can often be reduced and energy savings can be achieved. However, initial cost increases, and it may be unsuitable for applications that require large or constant airflow primarily for cleanliness/IAQ purposes.
 
-3) 이중덕트 방식(Double Duct)
+3) Double-Duct System
 
 <img src="201_img/DD.png" style="width:80%;">
 
-중앙공조기에서 냉풍과 온풍을 별도 덕트로 공급하고, 실별로 혼합하여 송풍하는 방식입니다. 실별로 냉난방 부하가 동시에 발생하는 경우 유리하며, 교체 밸브가 필요 없습니다. 하지만 에너지 소비가 크며 덕트의 종류가 2가지이기 때문에 설비비가 고가입니다.
+The central AHU supplies cold air and warm air through separate ducts, and the two streams are mixed and delivered to each zone. It is advantageous where zones may require simultaneous heating and cooling. It does not require changeover valves. However, energy use is high, and the cost is higher because two separate duct systems are required.
 
-4) 각층 유닛 방식(Floor-by-Floor Unit)
+4) Floor-by-Floor Unit System
 
 <img src="201_img/floor.png" style="width:80%;">
 
-공조 계통을 세분화하여 각 층마다 공조기를 배치하는 방식입니다. 기계실을 크게 두지 않고 천장 내부 등 분산 배치로 구성되며, 이 때문에 층별 운영·관리 단위를 명확히 할 수 있습니다. 대신 천장 내부 공간·점검 접근성 등 건축 계획과의 조율이 필요합니다.
+The air-conditioning system is subdivided by floor, with an AHU placed on each floor. Instead of relying on a large centralized mechanical room, units are distributed (often within ceiling spaces), making floor-level operation and management boundaries clearer. In return, coordination with architectural planning is required—especially for ceiling/plenum space and maintenance access.
 
-5) 멀티존 유닛 방식(Multi-Zone Unit)
+5) Multi-Zone Unit System
 
 <img src="201_img/Multi.png" style="width:80%;">
 
-이중덕트의 변형으로, 중앙 냉난방 장치의 조절 밸브 등을 사용해 냉난방 비율을 조정한 뒤 구역별 덕트로 공급하는 방식입니다. 하나의 유닛으로 여러 지역(존)을 조절할 수 있으며, 배관·조절장치의 집중 배치가 가능합니다. (설비 집중화)
+A variation of the double-duct concept. The central heating/cooling unit adjusts the cooling/heating ratio using control valves and then supplies air to zone ducts. One unit can control multiple zones, and piping/control devices can be concentrated (centralized equipment arrangement).
 
-### 수공기 방식(Air-Water System)
+### Air–Water System
 
-냉난방에 필요한 열을 물(냉수·온수)과 공기(급기)가 분담하여 공급하는 공조 방식입니다. 덕트 공간의 절감이 가능하고 실별 제어가 유리해지며, 공기질의 관리가 용이해지나 설비가 이중으로 존재해 비용이 늘어난다는 단점도 있습니다. 또한 결로 관리가 필요하며 제어 복잡도가 증가합니다.
+An air–water system shares the heating/cooling duty between water (chilled/hot water) and supply air. It can reduce duct space and improve room-by-room control, and it can make IAQ management easier. However, it also has disadvantages: duplicate systems increase cost, condensation control is required, and control complexity increases.
 
-수공기 방식에는 유인유닛 방식, 덕트를 병용한 FCU 방식, 복사 냉난방 방식이 있습니다.
+Air–water systems include induction units, FCU systems with ducts, and radiant heating/cooling systems.
 
-1) 유인 유닛 방식(Induction Unit)
+1) Induction Unit System
 
 <img src="201_img/induction.png" style="width:80%;">
 
-유인 작용으로 실내공기를 끌어들여 혼합·순환시키는 방식입니다. 공조기에 의해 공급되는 공기를 분출하고, 그 주위의 공기를 유인해서 혼합, 분출하게 됩니다. 덕트 규모가 작고 전기가 불필요하지만 발생하는 소음이 큽니다.
+This system induces and mixes room air through an entrainment effect. Conditioned primary air is discharged from the AHU, and this jet induces surrounding room air to mix and recirculate before being supplied to the space. Ductwork can be smaller and local fan power may not be required, but noise can be relatively high.
 
-### 전수 방식(팬코일유닛, FCU) (All-Water)
+### All-Water System (FCU)
 
 <img src="201_img/FAU.png" style="width:80%;">
 
-전수 방식은 물을 이용한 공조 방식입니다. FCU 방식이 전수 방식으로, 실내에 FCU를 설치해 냉온수를 공급하여 실내에서 열교환(냉난방)을 수행합니다. 이 때 외기 처리는 별도 또는 제한적으로 수행합니다. 실별 부하 조절이 가능하다는 장점이 있으나 공기질의 관리가 어려워 오염실에는 부적합합니다. 내구성과 유지관리에서 문제가 생길 수 있으며, 전기배선이 필요합니다.
+An all-water system uses water as the primary heat-transport medium. A typical example is the fan coil unit (FCU) system: FCUs installed in rooms exchange heat using chilled/hot water, providing heating/cooling locally. Outdoor air treatment is handled separately or only in a limited way.
 
-### 냉매 방식(Direct Expansion)
+It allows room-by-room load control, but IAQ management is difficult, making it unsuitable for contaminated spaces. Durability and maintenance issues can arise, and electrical wiring is required.
 
-냉매 방식은 냉동사이클의 냉매를 실내측 열교환기(증발기)까지 직접 보내 공기(또는 물)를 냉각·제습하거나, 히트펌프 운전 시 난방까지 수행하는 공조 방식입니다. 부분운전이 가능하고 에너지를 절약할 수 있으나 외기냉방이 어렵고 타 기종에 비해 수명이 짧습니다.
+### Direct Expansion (DX) Refrigerant System
 
-대표적인 방식으로는 패키지 유닛 방식, 룸쿨러 방식 등이 있습니다.
+A DX system sends refrigerant from the refrigeration cycle directly to the indoor-side heat exchanger (evaporator) to cool and dehumidify air (or water), and in heat-pump mode can also provide heating. It supports part-load operation and can be energy-efficient, but economizer operation is difficult and service life may be shorter than other systems.
 
-- 냉동사이클(냉동기/히트펌프)
+Representative types include packaged units and room air conditioners.
 
-냉매는 장치 내부를 순환하면서 상태(기체/액체)를 변화시켜 열 이동을 가능하게 하는데, 이렇게 냉매가 상태를 바꾸며 열을 운반하는 순환 과정을 냉동사이클이라고 합니다.
+- Refrigeration Cycle (Chiller / Heat Pump)
 
-냉동사이클의 순서는 압축 → 응축 → 팽창 → 증발이며, 이 네 단계가 반복되며 열을 이동시킵니다.
+Refrigerant circulates within the system and changes state (gas/liquid), enabling heat transfer. This repeating circulation process is the refrigeration cycle.
+
+The cycle sequence is: compression → condensation → expansion → evaporation, repeating to move heat.
 
 <img src="201_img/RC.png" style="width:80%;">
 
-1) 압축(Compressor): 냉매가 실외로 열을 버릴 수 있도록(응축이 가능하도록) 압력과 온도를 높입니다. 실외기 내부에 설치된 압축기에서 이루어집니다. 전력 소비가 발생하는 핵심 구간이며, 시스템 효율과 소음·진동 특성과도 연관됩니다.
+1) Compression (Compressor): Raises refrigerant pressure and temperature so it can reject heat outdoors (enabling condensation). This occurs in the outdoor unit compressor. It is the main power-consuming component and is closely related to efficiency and to noise/vibration characteristics.
 
-상태 변화: 저압·저온 기체 → 고압·고온 기체
+    State change: low-pressure, low-temperature vapor → high-pressure, high-temperature vapor
 
-2) 응축(Condenser): 실내에서 빼낸 열(+압축 과정에서 더해진 열)을 실외로 방출합니다. 이 때 기체가 열을 방출하며 액체로 응축됩니다. 역시 실외기에 포함된 응축기에서 이루어집니다. 외기 온도가 높을수록 열을 버리기 어려워져 냉방 능력과 효율이 저하될 수 있습니다.
+2) Condensation (Condenser): Rejects the heat removed from indoors (plus the heat added during compression) to the outdoor air. The vapor releases heat and condenses into a liquid in the outdoor condenser. Higher outdoor temperatures make heat rejection harder, potentially reducing cooling capacity and efficiency.
 
-상태 변화: 고압·고온 기체 → 고압 액체(응축)
+    State change: high-pressure, high-temperature vapor → high-pressure liquid
 
-3) 팽창(Expansion Valve): 다음 단계(증발)에서 실내 열을 흡수할 수 있도록 냉매의 압력을 떨어뜨려 저온·저압 상태로 만듭니다. 이 과정이 이루어지는 팽창 밸브는 시스템에 따라 실외기 또는 실내기 측에 배치될 수 있으며, VRF/VRV는 분기·실내기별 제어 구조가 추가됩니다.
+3) Expansion (Expansion valve): Drops refrigerant pressure to create a low-pressure, low-temperature condition so it can absorb heat in the evaporator. Depending on the system, the expansion device may be located in the outdoor unit or near the indoor unit; VRF/VRV adds branching and indoor-unit-level control.
 
-상태 변화: 고압 액체 → 저압 액체/혼합(압력 강하로 온도도 낮아짐)
+    State change: high-pressure liquid → low-pressure liquid/mix (temperature also drops)
 
-4) 증발(Evaporator): 저온의 냉매가 실내 공기(또는 열교환 대상)에서 열을 흡수해 기체로 바뀌면서 실내를 냉각합니다. 실내기의 코일(증발기)에서 이루어집니다. 이 과정에서 코일 표면온도가 노점온도 이하로 내려가면 수증기가 응축되어 물이 생기며, 이것이 제습(잠열 처리)입니다. 따라서 DX 시스템은 냉방과 동시에 응축수 배수(드레인) 및 결로 관리가 필수적입니다.
+4) Evaporation (Evaporator): Low-temperature refrigerant absorbs heat from indoor air (or the heat-exchange target) and evaporates to a vapor, cooling the space. This occurs at the indoor coil (evaporator). If the coil surface temperature drops below the dew-point temperature, water vapor condenses into liquid water—this is dehumidification (latent removal). Therefore, DX systems require condensate drainage and condensation control.
 
-상태 변화: 저압·저온 액체/혼합 → 저압 기체(증발)
+    State change: low-pressure, low-temperature liquid/mix → low-pressure vapor
 
-냉매 방식(DX)은 이 사이클을 실외기(압축·응축 중심) + 실내기(증발 중심)로 나누어 구현합니다.
-
----
-
-## 공조 에너지 절약 방식
-
-1) 조닝(Zoning): 조닝이 상세할수록(구역을 잘게 나눌수록) 필요 구역에만 냉난방을 제공하기 쉬워 에너지 절약 효과가 개선될 수 있습니다. 다만, 구역이 늘어나면 제어 장치·배관·덕트 및 센서 등이 증가하여 설비비 및 복잡도가 상승합니다.
-
-2) VAV 시스템: VAV는 실의 부하 조건에 따라 공급 풍량을 조정하기 때문에 부분부하를 효율적으로 대응하는 에너지 절약형 공조 방식으로 꼽힙니다. 단, 최소 환기량(외기량)을 확보해야 합니다.
-
-3) 외기냉방(Free Cooling): 외기 조건(온도·습도)이 실내 목표 조건보다 유리할 때, 외기를 도입하여 실내로 송풍하면 냉동기를 운전하지 않고도 냉방이 가능한 구간이 생깁니다. 이렇게 외기 조건을 활용해서 에너지를 절약할 수 있습니다.
-
-4) 열회수(Heat Recovery): 배출 공기 또는 버려지는 열을 회수하여 재사용할 수 있도록 고안된 열회수장치를 적용하면, 외기 처리(가열·냉각·제습/가습)에 필요한 에너지를 절감할 수 있습니다.
+A DX system implements this cycle by splitting it into an outdoor unit (primarily compression/condensation) and an indoor unit (primarily evaporation).
 
 ---
 
-## AHU(공조기: Air Handling Unit)
+## HVAC Energy-Saving Strategies
 
-AHU는 공조설비에서 실내에 공급되는 공기를 만들어(처리) 보내는 장치로서, 전공기 방식은 물론 외기처리(환기)와 연계되는 대부분의 공조 시스템에서 핵심 설비로 취급됩니다. 실내 환경 품질은 상당 부분 AHU의 처리 능력과 운전 로직에 의해 좌우되며, 에너지 사용량의 주요한 발생 지점이기도 합니다. 대략적으로 AHU에서는 외기/리턴 공기를 섞고 → 먼지를 걸러내고 → 온도·습도를 맞춘 뒤 → 팬으로 보내는 과정을 걸칩니다.
+1) Zoning: Finer zoning can improve energy savings by conditioning only where needed. However, more zones increase controls, piping/ductwork, sensors, and overall complexity and cost.
+
+2) VAV systems: Because VAV adjusts supply airflow to match space loads, it is considered an energy-saving approach with strong part-load performance. Minimum ventilation (outdoor air) must still be maintained.
+
+3) Economizer / Free Cooling: When outdoor air conditions (temperature/humidity) are more favorable than indoor targets, introducing outdoor air can provide cooling without running chillers—saving energy.
+
+4) Heat Recovery: Applying heat-recovery devices designed to reclaim heat from exhaust air or waste heat can reduce the energy required for outdoor air treatment (heating/cooling/dehumidification/humidification).
+
+---
+
+## AHU (Air Handling Unit)
+
+An AHU is the equipment in an HVAC system that produces (treats) and delivers the supply air provided to indoor spaces. It is considered a core component not only in all-air systems, but also in most HVAC systems that are linked to outdoor-air treatment (ventilation). Indoor environmental quality is largely determined by an AHU’s treatment capacity and control logic, and it is also a major point of energy use. In simple terms, an AHU typically: mixes outdoor and return air → filters particulates → adjusts temperature and humidity → delivers air using a fan.
 
 <img src="201_img/AHU.png" style="width:80%;">
 
-AHU는 각 제품마다 구성은 다르나, 기본적으로는 다음과 같이 이해하면 됩니다.
+While AHU configurations vary by product, the basics can be understood as follows:
 
-- OA: 외기 댐퍼. 실내에 배기가 있거나 실내 공기가 탁할 때 조절하는 장치.
-- RA: 환기 댐퍼. 실내공기가 유입되는 통로이며 공기량을 조절하는 장치.
-- SA: 급기 댐퍼. 실내로 보내지는 급기연결 통로.
-- 혼합부(Mixing Section): 외기(OA)와 환기회수공기(RA)를 혼합하는 공간.
-- 필터(Filter): 외기 및 환기를 통해 유입되는 먼지·입자 제거(공기질).
-- 증발기(Evaporator, DX 또는 냉각 코일): 공기를 냉각하고, 필요 시 제습.
-- 가열기(Heater, 전기식 또는 스팀 분사식): 공기 가열.
-- 가습기(Humidifier, 필요 시): 겨울철 등 건조 시 가습.
-- 팬(Fan): 공기를 덕트로 보내는 이송 장치. (팬동력 = 에너지 사용)
-- 열회수장치(필요 시): 배기 공기의 열을 회수해 외기 처리 에너지 절감
-
----
-
-# 환기설비
-
-기밀이 높은 건물은 에너지 측면에서 유리하나, 환기 계획이 부족하면 실내 오염물질과 수분이 축적되어 공기질 저하 및 결로 위험이 커질 수 있습니다. 환기는 쾌적성과 건강을 위한 기본 조건이며, 동시에 냉난방부하와 에너지 사용량에도 영향을 주므로 좋은 공기와 합리적 에너지를 함께 달성하기 위한 필수 개념입니다.
-
-환기설비는 실내 공기를 외기와 교환하여 실내 공기질(IAQ)을 유지하고, 수증기·오염물질·냄새·유해가스 등을 적절히 배출하는 것을 목적으로 합니다. 특히 고기밀 건물에서는 자연적인 틈새 환기가 감소하므로, 환기설비의 역할이 다음과 같아집니다.
-
-- 건강·쾌적성 확보: CO₂, 휘발성유기화합물(VOC), 미세먼지, 냄새 등 축적 방지
-- 습기 관리: 실내 수증기 축적 억제로 결로·곰팡이 위험 저감
-- 오염 확산 방지: 오염원이 발생하는 공간과 청결이 요구되는 공간을 압력 차로 분리
-- 에너지 관점의 최적화: 외기 도입은 필수이지만, 외기 처리(가열·냉각·제습/가습) 에너지가 증가하므로 회수/제어가 필요
+- OA: Outdoor-air damper. Adjusts outdoor air intake—used when there is exhaust or when indoor air quality is poor.
+- RA: Return-air damper. The path through which return air enters; controls return-air volume.
+- SA: Supply-air damper. The connection path that delivers supply air to the building.
+- Mixing section: The chamber where outdoor air (OA) and return air (RA) are mixed.
+- Filter: Removes dust/particles brought in through outdoor and return air (IAQ function).
+- Evaporator (DX coil) or cooling coil: Cools the air and dehumidifies as needed.
+- Heater (electric or steam type): Heats the air.
+- Humidifier (as needed): Adds moisture when indoor air is dry (often in winter).
+- Fan: Moves air through ducts. (Fan power = energy use.)
+- Heat-recovery device (as needed): Recovers heat from exhaust air to reduce outdoor-air treatment energy.
 
 ---
 
-## 환기설비 관련 주요 장치
+# Ventilation Systems
 
-1) 전열교환기(Heat/Energy Recovery Ventilator)
+High-airtightness buildings are advantageous for energy, but if ventilation planning is insufficient, indoor pollutants and moisture can accumulate—degrading air quality and increasing condensation risk. Ventilation is a basic requirement for comfort and health, and it also affects heating/cooling loads and energy use. It is therefore an essential concept for achieving both good air quality and reasonable energy performance.
 
-전열교환기는 배기되는 공기와 외부로부터 도입되는 외기 사이에서 현열 및 잠열을 교환하여, 배출되는 공기의 에너지를 회수하는 장치입니다. 이를 통해 외기 도입에 필요한 냉난방·제습/가습 부담을 줄여 에너지 절약 효과를 얻습니다.
+Ventilation systems exchange indoor air with outdoor air to maintain indoor air quality (IAQ) and to exhaust moisture, pollutants, odors, and harmful gases appropriately. In particular, because natural infiltration decreases in highly airtight buildings, ventilation systems play an even more important role:
 
-2) 드래프트 챔버(발생원 국소 배기 장치)
-
-드래프트 챔버는 화학 실험 등에서 발생하는 열·수증기 및 유해가스가 실내로 확산되거나 실외로 무분별하게 유출되지 않도록 발생원을 둘러싸고 국소적으로 포집·배기하는 장치입니다.
-
-3) 에어커튼(Air Curtain)
-
-에어커튼은 출입구 등 개방부에서 공기 흐름의 장벽을 형성하여 실내·외 공기 혼합을 억제하는 장치입니다. 열손실을 저감하고, 냄새·먼지·곤충 등 유입을 막습니다.
+- Health and comfort: prevent accumulation of CO₂, VOCs, fine dust, odors, etc.
+- Moisture control: reduce condensation and mold risk by limiting indoor water-vapor buildup
+- Control of contamination spread: separate polluted spaces and clean spaces using pressure differences
+- Energy optimization: outdoor air is necessary, but conditioning it (heating/cooling/dehumidification/humidification) increases energy use—so recovery and control are needed
 
 ---
 
-## 환기방식의 분류
+## Key Ventilation Devices
 
-환기방식(1종~4종)은 일반적으로 급기/배기의 조합과 실내 압력 상태(양압/음압)에 따라 정리됩니다.
+1) Heat/Energy Recovery Ventilator (HRV/ERV)
 
-### 1종 환기(병용: 급기+배기)
+An HRV/ERV exchanges sensible and (in the case of ERV) latent heat between exhaust air and incoming outdoor air, recovering energy from the exhaust stream. This reduces the heating/cooling and dehumidification/humidification burden associated with outdoor air, improving energy efficiency.
 
-급기와 배기를 모두 기계적으로 수행하는 방식으로, 공기 교환을 안정적으로 제어할 수 있습니다. 수술실, 일반공조, 전기·기계실 등의 공간에 사용하는 중립적인 환기설비입니다.
+2) Draft chamber (local exhaust at the source)
 
-### 2종 환기(압입식)
+A draft chamber captures and exhausts heat, vapor, and harmful gases generated during activities such as chemical experiments, preventing them from spreading indoors or being released uncontrollably.
 
-기계급기, 자연배기로 실내를 양압(실내 압력 > 주변)으로 유지함으로써, 외부 오염원이 실내로 유입되는 것을 억제하는 방식입니다. 클린룸, 청결 실험실, 청결 수술실 등 오염원이 들어오면 안 되는 공간에 이용합니다.
+3) Air curtain
 
-* 양압: 공기가 바깥으로 나가려는 경향이 생겨 외부 오염이 실내로 들어오기 어렵습니다.
-
-### 3종 환기(흡출식)
-
-자연급기, 기계배기로 실내를 음압(실내 압력 < 주변)으로 유지함으로써, 실내 오염원이 외부로 확산되는 것을 억제하는 방식입니다. 냄새·가스 발생 공간, 화장실 등 오염실에서의 공기가 외부로 확산되면 안 되는 공간에 이용합니다.
-
-* 음압: 공기가 실내로 들어오려는 경향이 생겨, 오염이 밖으로 새기 어렵습니다.
-
-### 4종 환기(자연 환기)
-
-기계 팬을 사용하지 않고 온도차·압력차 등 자연력에 의해 환기하는 방식입니다. 설비 의존도가 낮으나, 외기 조건 및 바람 등 환경 변수에 따라 환기 성능이 크게 변동할 수 있습니다.
+An air curtain forms an airflow barrier at openings such as entrances to reduce mixing between indoor and outdoor air. It reduces heat loss and blocks entry of odors, dust, insects, etc.
 
 ---
 
-# 참조 자료
+## Classification of Ventilation Methods
+
+Ventilation types (Type 1 to Type 4) are commonly organized by the supply/exhaust combination and indoor pressure condition (positive/negative).
+
+### Type 1 Ventilation (balanced: mechanical supply + mechanical exhaust)
+
+Both supply and exhaust are provided mechanically, allowing stable control of air exchange. This is a neutral ventilation approach used in spaces such as operating rooms, general air-conditioned areas, and electrical/mechanical rooms.
+
+### Type 2 Ventilation (supply-only / positive-pressure)
+
+Mechanical supply with natural exhaust maintains positive pressure (indoor pressure > surrounding). This reduces the entry of outdoor contaminants and is used for spaces that must remain clean—such as cleanrooms, clean laboratories, and clean operating rooms.
+
+* Positive pressure: air tends to flow outward, making it harder for contaminants to enter.
+
+### Type 3 Ventilation (exhaust-only / negative-pressure)
+
+Natural supply with mechanical exhaust maintains negative pressure (indoor pressure < surrounding). This prevents indoor contaminants from spreading outward, and is used for “polluted” spaces where air must not leak out—such as toilets and odor/gas-generating rooms.
+
+* Negative pressure: air tends to flow inward, making it harder for contaminants to leak out.
+
+### Type 4 Ventilation (natural ventilation)
+
+Ventilation driven by natural forces such as temperature differences and pressure differences, without mechanical fans. It reduces dependence on equipment, but ventilation performance can vary greatly with outdoor conditions, wind, and other environmental variables.
+
+---
+
+# Reference
 
 - 김형돈, 2026 킴아카 건축계획(학), 킴아카출판사
 - 국토교통부, 건축물의 에너지절약설계기준
