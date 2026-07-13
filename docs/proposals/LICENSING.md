@@ -24,6 +24,8 @@ The repository is currently licensed as a whole under **CC BY-NC-SA 4.0**. Two i
 
 Mechanism (REUSE-compliant): a top-level `LICENSE` for code, a `LICENSES/` folder, **SPDX headers** in source files, and a **`REUSE.toml`** for assets that can't carry a header (note: `.reuse/dep5` is deprecated as of [REUSE 3.3](https://reuse.software/spec-3.3/)). Per-image rights live in `../asset-audit/image-manifest.csv`.
 
+A ready-to-activate **scaffold** (verbatim license texts + a proposed `REUSE.toml`) is in [`./licensing-scaffold/`](./licensing-scaffold/) — it is inert until the decision is made and rights are cleared.
+
 ## Blocking prerequisites (external review)
 
 - [ ] **Identify the actual copyright holders** (not merely "all contributors") — under employment/contractor agreements the company may hold the rights — then obtain consent to re-license.

@@ -73,7 +73,10 @@ def check_emphasis_and_structure():
                 continue
             if incode:
                 continue
-            test = re.sub(r"`[^`]*`", "", line)  # drop inline code spans
+            # replace inline code spans with a single word-char placeholder so their
+            # contents (which may contain **) are ignored, WITHOUT collapsing the
+            # surrounding whitespace/flanking context (e.g. `**a `x`**` must stay valid).
+            test = re.sub(r"`+[^`]*`+", "C", line)
             for m in re.finditer(r"\*\*(.+?)\*\*", test):
                 o, c = m.start(), m.end() - 2
                 po = test[o - 1] if o > 0 else ""

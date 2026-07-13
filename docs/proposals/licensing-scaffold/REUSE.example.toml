@@ -1,0 +1,54 @@
+# DRAFT — proposed REUSE.toml (REUSE spec 3.3). This is NOT active: it lives under
+# docs/proposals/, not the repository root, so its path globs do not match real files
+# and no REUSE tool treats it as configuration.
+#
+# Activate ONLY after (a) the Issue #7 licensing decision, (b) rights-holder consent,
+# and (c) per-file clearance of every third-party/partner image
+# (see ../../asset-audit/CLEARANCE.md):
+#   1. move this file to the repo root as `REUSE.toml`
+#   2. move `LICENSES/` to the repo root
+#   3. add annotations (or remove/replace) for the images, then run `reuse lint`
+#
+# Precedence is last-match-wins; entries go broad -> specific.
+version = 1
+
+# --- existing knowledge docs: KEEP the current license until formally re-licensed ---
+[[annotations]]
+path = ["AEC-Architecture/**"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "Mossland"
+SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
+
+# --- self-authored explanatory & governance docs (PROPOSED: CC BY 4.0) ---
+[[annotations]]
+path = ["docs/**", "README.md", "CONTRIBUTING.md"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "Mossland"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+# --- validator / CI / tooling code (PROPOSED: Apache-2.0) ---
+[[annotations]]
+path = ["validator/**", "scripts/**", "profiles/**/*.py"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "Mossland"
+SPDX-License-Identifier = "Apache-2.0"
+
+# --- self-authored synthetic fixtures & profiles (PROPOSED: CC0-1.0) ---
+[[annotations]]
+path = ["cases/**", "profiles/**/*.ids", "profiles/**/*.yaml", "profiles/**/*.json"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "Mossland"
+SPDX-License-Identifier = "CC0-1.0"
+
+# --- third-party / partner images: DO NOT blanket-license -------------------------
+# `Regulation/assets/images/*` carry an in-image credit to AETHRION; other files are
+# real photographs or a real project's drawings. Each must be cleared per-file in
+# docs/asset-audit/image-manifest.csv BEFORE an annotation is added here. Until then
+# they cannot be redistributed under a project license and are intentionally omitted.
+#
+# Example once AETHRION's licence is confirmed (edit to the real terms):
+# [[annotations]]
+# path = ["AEC-Architecture/Regulation/assets/images/**"]
+# precedence = "override"
+# SPDX-FileCopyrightText = "AETHRION"
+# SPDX-License-Identifier = "LicenseRef-AETHRION"   # + LICENSES/LicenseRef-AETHRION.txt
