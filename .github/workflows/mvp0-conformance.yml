@@ -1,0 +1,36 @@
+name: mvp0-conformance
+
+# Validates the AECF-HVAC-Handover-0.1 IFC/IDS conformance corpus with IfcOpenShell/
+# IfcTester: the pass model must satisfy every specification and each fail model must
+# fail exactly the specifications recorded in expected/results.json.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "profiles/**"
+      - "cases/**"
+      - "validator/**"
+      - ".github/workflows/mvp0-conformance.yml"
+  pull_request:
+    paths:
+      - "profiles/**"
+      - "cases/**"
+      - "validator/**"
+      - ".github/workflows/mvp0-conformance.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  conformance:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install pinned openBIM tooling
+        run: pip install -r validator/requirements.txt
+      - name: Run IFC/IDS conformance
+        run: python validator/run.py

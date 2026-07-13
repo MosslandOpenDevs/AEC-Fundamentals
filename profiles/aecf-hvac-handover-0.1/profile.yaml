@@ -1,0 +1,23 @@
+id: aecf-hvac-handover-0.1
+title: AEC-F HVAC Handover conformance profile (MVP-0)
+status: draft
+description: >
+  Minimal IFC -> operations handover conformance profile for a 2-zone small-office
+  AHU-VAV system. Per RFC-001 the MVP-0 scope is IFC 4.3 + IDS 1.0 ONLY; the
+  Brick/Haystack/BMS crosswalk and integration validation are out of scope here and
+  belong to open-sdb.
+schema: IFC4X3_ADD2
+ids: requirements.ids
+normative:
+  - IFC4X3_ADD2 (ISO 16739-1:2024)
+  - IDS v1.0.0
+checks:
+  - Spaces are named                # identifier linkage
+  - VAV has BMS_PointID (pattern VAV-NN)
+  - AHU DesignAirFlowRate datatype = IfcVolumetricFlowRateMeasure   # unit/datatype
+  - VAV is part of an IfcDistributionSystem                         # AHU->VAV->zone chain
+tooling:
+  ifcopenshell: 0.8.5
+  ifctester: 0.8.5
+review:
+  status: unreviewed    # TODO: needs an openBIM/HVAC expert sign-off before it is authoritative

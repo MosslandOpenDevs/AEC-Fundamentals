@@ -1,0 +1,4 @@
+ifcopenshell==0.8.5
+ifctester==0.8.5
+lxml==6.1.1
+xmlschema==4.3.2

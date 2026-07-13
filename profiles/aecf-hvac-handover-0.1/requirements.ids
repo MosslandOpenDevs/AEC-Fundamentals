@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ids xmlns="http://standards.buildingsmart.org/IDS" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://standards.buildingsmart.org/IDS http://standards.buildingsmart.org/IDS/1.0/ids.xsd">
+    <info>
+        <title>AECF-HVAC-Handover-0.1</title>
+        <version>0.1.0</version>
+        <description>Minimal IFC-&gt;operations handover conformance profile (2-zone AHU-VAV).</description>
+        <author>aecf@mossland.io</author>
+    </info>
+    <specifications>
+        <specification name="Spaces are named" ifcVersion="IFC4X3_ADD2">
+            <applicability minOccurs="0" maxOccurs="unbounded">
+                <entity>
+                    <name>
+                        <simpleValue>IFCSPACE</simpleValue>
+                    </name>
+                </entity>
+            </applicability>
+            <requirements>
+                <attribute cardinality="required">
+                    <name>
+                        <simpleValue>Name</simpleValue>
+                    </name>
+                </attribute>
+            </requirements>
+        </specification>
+        <specification name="VAV has BMS_PointID" ifcVersion="IFC4X3_ADD2">
+            <applicability minOccurs="0" maxOccurs="unbounded">
+                <entity>
+                    <name>
+                        <simpleValue>IFCAIRTERMINALBOX</simpleValue>
+                    </name>
+                </entity>
+            </applicability>
+            <requirements>
+                <property dataType="IFCLABEL" cardinality="required">
+                    <propertySet>
+                        <simpleValue>AECF_Handover</simpleValue>
+                    </propertySet>
+                    <baseName>
+                        <simpleValue>BMS_PointID</simpleValue>
+                    </baseName>
+                    <value>
+                        <xs:restriction base="xs:string">
+                            <xs:pattern value="VAV-[0-9]{2}" />
+                        </xs:restriction>
+                    </value>
+                </property>
+            </requirements>
+        </specification>
+        <specification name="AHU airflow has correct datatype" ifcVersion="IFC4X3_ADD2">
+            <applicability minOccurs="0" maxOccurs="unbounded">
+                <entity>
+                    <name>
+                        <simpleValue>IFCUNITARYEQUIPMENT</simpleValue>
+                    </name>
+                </entity>
+            </applicability>
+            <requirements>
+                <property dataType="IFCVOLUMETRICFLOWRATEMEASURE" cardinality="required">
+                    <propertySet>
+                        <simpleValue>AECF_Handover</simpleValue>
+                    </propertySet>
+                    <baseName>
+                        <simpleValue>DesignAirFlowRate</simpleValue>
+                    </baseName>
+                </property>
+            </requirements>
+        </specification>
+        <specification name="VAV is part of a distribution system" ifcVersion="IFC4X3_ADD2">
+            <applicability minOccurs="0" maxOccurs="unbounded">
+                <entity>
+                    <name>
+                        <simpleValue>IFCAIRTERMINALBOX</simpleValue>
+                    </name>
+                </entity>
+            </applicability>
+            <requirements>
+                <partOf relation="IFCRELASSIGNSTOGROUP" cardinality="required">
+                    <entity>
+                        <name>
+                            <simpleValue>IFCDISTRIBUTIONSYSTEM</simpleValue>
+                        </name>
+                    </entity>
+                </partOf>
+            </requirements>
+        </specification>
+    </specifications>
+</ids>

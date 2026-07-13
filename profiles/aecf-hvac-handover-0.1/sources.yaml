@@ -1,0 +1,20 @@
+# Provenance for the AECF-HVAC-Handover-0.1 fixtures
+generation:
+  method: synthetic
+  note: >
+    All IFC models are programmatically authored from scratch (no third-party model
+    was copied). GlobalIds are derived from md5(name) so generation is deterministic;
+    there is no camera/EXIF or proprietary data.
+  authored_by:
+    - validator/build_models.py          # the pass model + single-defect fail variants
+    - profiles/aecf-hvac-handover-0.1/build_ids.py   # the IDS
+  tool:
+    ifcopenshell: 0.8.5
+    ifctester: 0.8.5
+license: CC0-1.0
+license_note: >
+  Self-authored synthetic data; proposed CC0 pending the project-wide licensing
+  decision (docs/proposals/LICENSING.md).
+review:
+  openbim_expert: null
+  status: unreviewed

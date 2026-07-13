@@ -1,0 +1,39 @@
+{
+  "profile": "aecf-hvac-handover-0.1",
+  "cases": {
+    "pass/model.ifc": {
+      "expected": "pass",
+      "failed_specs": []
+    },
+    "fail/broken-system.ifc": {
+      "expected": "fail",
+      "failed_specs": [
+        "VAV is part of a distribution system"
+      ]
+    },
+    "fail/missing-bms-pointid.ifc": {
+      "expected": "fail",
+      "failed_specs": [
+        "VAV has BMS_PointID"
+      ]
+    },
+    "fail/missing-space-name.ifc": {
+      "expected": "fail",
+      "failed_specs": [
+        "Spaces are named"
+      ]
+    },
+    "fail/wrong-airflow-datatype.ifc": {
+      "expected": "fail",
+      "failed_specs": [
+        "AHU airflow has correct datatype"
+      ]
+    },
+    "fail/wrong-pointid-pattern.ifc": {
+      "expected": "fail",
+      "failed_specs": [
+        "VAV has BMS_PointID"
+      ]
+    }
+  }
+}
