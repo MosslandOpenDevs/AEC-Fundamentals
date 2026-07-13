@@ -32,7 +32,13 @@ The Indoor Air Quality Control Act manages pollutants in two categories:
 - **Maintenance standards** - legally mandatory. Violations may incur an administrative fine up to KRW 10 million.
 - **Recommended standards** - voluntary compliance. No direct fine for exceedance, but improvement measures may be requested in facilities used by vulnerable groups.
 
-> 📌 The figures below are based on the appended tables of the Enforcement Rule of the Indoor Air Quality Control Act. Statutes are amended over time — before relying on them, verify the current version and effective date at the National Law Information Center (law.go.kr).
+> ⚠️ **Confirmed errors (checked against primary sources, 2026-07):**
+> 1. **Total airborne bacteria** is a **single standard (800 CFU/m³) that applies only to vulnerable-group facilities** — the "general 800 / sensitive 500" split in the table below is wrong.
+> 2. The stricter vulnerable-group values apply **only to some items** (PM10, PM2.5, formaldehyde); carbon monoxide, for example, has no separate vulnerable-group value.
+> 3. The recommended-standards table is **missing mold (airborne fungi)**.
+> 4. Whether **ozone (O₃)** belongs in the recommended standards, and its figure, need re-checking.
+>
+> Correct against the current appended tables — **별표2 (maintenance, amended 2024-12-23) / 별표3 (recommended)** of the Enforcement Rule at [law.go.kr](https://www.law.go.kr). Until then the table below is **for reference only (unverified)**.
 
 **Maintenance Standards**
 
