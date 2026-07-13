@@ -69,7 +69,7 @@ Contracting refers to a contract method in which the contractor completes the wo
 - Recontracting: The prime contractor sublets all of the contracted work to another contractor independently of the owner.
 - Subcontractor: A specialized contractor that performs a portion of the work under a subcontract.
 
-Recontracting, re-subcontracting, and all-in-one subcontracting are prohibited under Korea’s Framework Act on the Construction Industry.
+Recontracting, re-subcontracting, and all-in-one subcontracting are **prohibited in principle** under Korea’s Framework Act on the Construction Industry, subject to statutory exceptions (e.g. the client’s prior written consent) — so real application requires checking the exact article and effective date.
 
 ## Classification by Execution Method
 

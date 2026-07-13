@@ -1,4 +1,4 @@
-> ⚠️ **Verification status: UNVERIFIED.** The figures and rules in this document are not yet verified/corrected against primary sources (some errors are already confirmed — see the note in §2). **Do not use for compliance decisions or model training (RAG).** See [Issue #7](https://github.com/MosslandOpenDevs/AEC-Fundamentals/issues/7).
+> ⚠️ **Verification status: UNVERIFIED.** The figures and rules in this document are not yet verified/corrected against primary sources (some divergences from the 별표 are already identified — see the note in §2). **Do not use for compliance decisions or model training (RAG).** See [Issue #7](https://github.com/MosslandOpenDevs/AEC-Fundamentals/issues/7).
 
 People today spend about 90% of their day indoors. However, due to insufficient ventilation and concentrated indoor pollution sources, **indoor air is often more polluted than outdoor air**.
 
@@ -32,13 +32,12 @@ The Indoor Air Quality Control Act manages pollutants in two categories:
 - **Maintenance standards** - legally mandatory. Violations may incur an administrative fine up to KRW 10 million.
 - **Recommended standards** - voluntary compliance. No direct fine for exceedance, but improvement measures may be requested in facilities used by vulnerable groups.
 
-> ⚠️ **Confirmed errors (checked against primary sources, 2026-07):**
-> 1. **Total airborne bacteria** is a **single standard (800 CFU/m³) that applies only to vulnerable-group facilities** — the "general 800 / sensitive 500" split in the table below is wrong.
-> 2. The stricter vulnerable-group values apply **only to some items** (PM10, PM2.5, formaldehyde); carbon monoxide, for example, has no separate vulnerable-group value.
-> 3. The recommended-standards table is **missing mold (airborne fungi)**.
-> 4. Whether **ozone (O₃)** belongs in the recommended standards, and its figure, need re-checking.
+> ⚠️ **The tables below appear to diverge from 별표2 / 별표3 of the Enforcement Rule (checked against secondary sources, 2026-07; values were NOT corrected).** Discrepancies to confirm:
+> 1. **Total airborne bacteria** — which facility group it applies to and its value (sources disagree: general vs vulnerable; 400 / 500 / 800). The table's "general 800 / sensitive 500" structure may not match the 별표.
+> 2. Which items the stricter vulnerable-group values apply to.
+> 3. The recommended-standards item set — it likely **includes mold (airborne fungi)** and **excludes ozone (O₃)**, i.e. the opposite of the table below.
 >
-> Correct against the current appended tables — **별표2 (maintenance, amended 2024-12-23) / 별표3 (recommended)** of the Enforcement Rule at [law.go.kr](https://www.law.go.kr). Until then the table below is **for reference only (unverified)**.
+> Correct against the current **별표2 / 별표3** at [law.go.kr](https://www.law.go.kr); until then the tables below are **for reference only (unverified)**.
 
 **Maintenance Standards**
 

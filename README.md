@@ -165,6 +165,8 @@ This archive is developed and maintained by **Mossland**.
 Copyright © 2026 **Mossland**.  
 This project is licensed under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
+> ⚠️ **This blanket license covers Mossland-authored text only.** It does **not** apply to third-party or unverified images (photos, real project drawings, partner/AETHRION assets — see [rights CLEARANCE](docs/asset-audit/CLEARANCE.md)), which retain their own rights and are **0/171 cleared**. A per-content-type license split is proposed but not adopted ([Issue #7](https://github.com/MosslandOpenDevs/AEC-Fundamentals/issues/7)).
+
 <p align="left">
   <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
     <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg" alt="CC BY-NC-SA 4.0" height="40">

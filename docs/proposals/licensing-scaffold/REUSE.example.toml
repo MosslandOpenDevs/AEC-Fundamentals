@@ -12,9 +12,11 @@
 # Precedence is last-match-wins; entries go broad -> specific.
 version = 1
 
-# --- existing knowledge docs: KEEP the current license until formally re-licensed ---
+# --- existing knowledge docs (TEXT ONLY): KEEP the current license until re-licensed ---
+# Scoped to *.md so it does NOT sweep the images in these folders — those are third-party
+# / unverified and must be cleared and annotated per-file (see the images note below).
 [[annotations]]
-path = ["AEC-Architecture/**"]
+path = ["AEC-Architecture/**/*.md", "AEC-Architecture/**/*.MD"]
 precedence = "aggregate"
 SPDX-FileCopyrightText = "Mossland"
 SPDX-License-Identifier = "CC-BY-NC-SA-4.0"
