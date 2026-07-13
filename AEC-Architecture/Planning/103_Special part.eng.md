@@ -3,6 +3,7 @@
 
 Program-specific planning is not simply about arranging a building’s form; it is the process of translating how a facility will be operated into spatial organization. Even with the same gross area, different uses require different functional programs and area distributions (e.g., departmental areas in hospitals, or the reading-to-stack ratio in libraries), circulation systems (separating users, services, and logistics), environmental conditions (daylight, ventilation, noise), and performance requirements (energy and building services). Therefore, in use-specific design, it is not enough to compare forms alone—one must compare classification criteria, advantages and disadvantages, and key planning points to arrive at a sound plan.
 This chapter focuses on commonly encountered building types and summarizes typical use-specific typologies (plans/sections/site planning/circulation/layout) and operational standards (area composition, systems, and service requirements).
+
 ---
 
 # Multi-Family Housing

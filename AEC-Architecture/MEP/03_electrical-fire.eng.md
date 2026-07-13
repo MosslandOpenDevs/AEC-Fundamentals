@@ -42,8 +42,8 @@ Typical power flow follows this sequence:
 
 ### 2.2 EPS / TPS Rooms
 
-* <strong>EPS (Electrical Power System) Room:</strong> central space for switchboards, transformers, UPS, and power equipment  
-* <strong>TPS (Telecommunication Power System) Room:</strong> central space for server racks and communication distribution  
+* <strong>EPS (Electrical Pipe Shaft) Room:</strong> a dedicated vertical shaft carrying electrical risers and per-floor distribution boards (transformers/UPS are housed separately in the main electrical/substation room)  
+* <strong>TPS (Telecommunication Pipe Shaft) Room:</strong> a dedicated vertical shaft carrying telecom/data risers and per-floor terminal boxes (MDF/IDF); server racks are housed separately in a server room  
 
 <strong>Space Planning Principles</strong>
 * Provide front/back maintenance clearance

@@ -106,8 +106,8 @@
 
 <h3 align="center">✔️ 층고 설계 시 기준</h3>
 <p align="center"><strong>-</strong> <strong>법적 기준</strong></p>
-<p align="center">● 주거·업무 공간 → 보통 <strong>유효층고 약 2.3~2.4m 이상</strong></p>
-<p align="center">● 구조체, 설비를 제외한 실제 사용 높이가 기준</p>
+<p align="center">● 거실의 반자높이(구조체·설비를 제외한 천장까지의 유효높이) → 법정 최소 <strong>2.1m 이상</strong> (「건축물의 피난·방화구조 등의 기준에 관한 규칙」 제16조)</p>
+<p align="center">● <strong>유효층고 약 2.3~2.4m 이상</strong>은 법정 최소가 아니라 쾌적성을 위한 실무 권장값</p>
 <p align="center"><strong>-</strong> <strong>실무에서 많이 쓰이는 층고</strong></p>
 <p align="center">● 주거 공간 → 체감상 편안한 층고는 <strong>2.4~2.5m 내외</strong></p>
 <p align="center">● 로비·공용부 → <strong>3.0m 이상</strong>에서 개방감 형성</p>
@@ -172,7 +172,7 @@
     </tr>
     <tr>
         <td><strong>층고 (주거)</strong></td>
-        <td>유효층고 약 <strong>2.3~2.4m 이상</strong></td>
+        <td>거실 반자높이 <strong>2.1m 이상</strong></td>
         <td><strong>2.4~2.5m 내외</strong></td>
         <td>답답하지 않으면서 안정감 유지</td>
     </tr>

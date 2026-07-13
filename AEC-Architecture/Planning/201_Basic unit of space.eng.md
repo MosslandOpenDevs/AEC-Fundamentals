@@ -106,8 +106,8 @@
 
 <h3 align="center">✔️ Standards for clear height</h3>
 <p align="center"><strong>-</strong> <strong>Legal standards</strong></p>
-<p align="center">● Residential/office spaces → typically <strong>clear height about 2.3–2.4 m or more</strong></p>
-<p align="center">● Based on usable height excluding structure and services</p>
+<p align="center">● Ceiling height of a habitable room (clear height to ceiling, excluding structure and services) → legal minimum <strong>2.1 m or more</strong> (Rules on Evacuation·Fire-protection Standards for Buildings, Art. 16)</p>
+<p align="center">● <strong>Clear height of about 2.3–2.4 m or more</strong> is not the legal minimum but a comfort-oriented practical recommendation</p>
 <p align="center"><strong>-</strong> <strong>Heights commonly used in practice</strong></p>
 <p align="center">● Residential → comfortable clear height is <strong>around 2.4–2.5 m</strong></p>
 <p align="center">● Lobby/shared areas → openness starts at <strong>3.0 m or more</strong></p>
@@ -171,7 +171,7 @@
     </tr>
     <tr>
         <td><strong>Clear height (residential)</strong></td>
-        <td>Clear height about <strong>2.3–2.4 m or more</strong></td>
+        <td>Room ceiling height <strong>2.1 m or more</strong></td>
         <td><strong>Around 2.4–2.5 m</strong></td>
         <td>Comfort without feeling low</td>
     </tr>

@@ -42,8 +42,8 @@
 
 ### 2.2 EPS / TPS 실의 역할
 
-* <strong>EPS(Electrical Power System) 실</strong>: 전력 장비(배전반, 변압기, UPS 등)가 집중되는 핵심 공간  
-* <strong>TPS(Telecommunication Power System) 실</strong>: 통신 장비(서버랙, 통신 분배기 등) 집중 공간  
+* <strong>EPS(전기 배관 샤프트, Electrical Pipe Shaft) 실</strong>: 전력 간선과 각 층 분전반이 수직으로 지나가는 배선 전용 수직 샤프트 (변압기·UPS 등 대형 전력 장비는 전기실/변전실에 별도 설치)  
+* <strong>TPS(통신 배관 샤프트, Telecommunication Pipe Shaft) 실</strong>: 통신·데이터 간선과 층별 통신 단자함(MDF/IDF)이 지나가는 배선 전용 수직 샤프트 (서버랙은 전산실/서버실에 별도 설치)  
 
 <strong>공간 계획 원칙</strong>
 * 장비 유지관리 동선 확보 (전면/후면 작업공간)

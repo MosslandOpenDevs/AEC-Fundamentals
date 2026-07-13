@@ -46,6 +46,7 @@ This allows much more precise construction than working on bare soil.
 
 ## 1-2. Layout Marking
 <img src="./202_img/203_1.png" width="66%">
+
 Once the lean concrete hardens,  
 the building's exact layout is marked on its surface.
 
@@ -61,6 +62,7 @@ This is the starting point and the most important step of structural framework c
 
 ## 1-3. Rebar Placement
 <img src="./202_img/203_2.png" width="66%">
+
 Rebar is arranged along the layout lines.
 
 It is typically placed in a grid pattern,  
@@ -87,6 +89,7 @@ In other words, spacers are a critical accessory that helps preserve the rebar's
 
 ## 1-4. Foundation Formwork Fabrication
 <img src="./202_img/203_3.png" width="50%">
+
 The mold into which concrete will be poured is fabricated.  
 This is called **formwork**.
 
@@ -144,6 +147,7 @@ The vertical alignment must be accurate to prevent the building from tilting.
 
 ## 2-2. Erecting Rebar
 <img src="./202_img/203_4.png" width="66%">
+
 This time, rebar is placed vertically.
 
 This is because columns and walls are vertical structures.  
@@ -172,6 +176,7 @@ Checking vertical alignment is also very important.
 
 ## 2-4. Openings (Windows, Doors)
 <img src="./202_img/203_5.png" width="50%">
+
 Spaces must be reserved in advance  
 where windows or doors will be installed.
 

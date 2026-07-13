@@ -26,6 +26,8 @@
 
 <br>
 
+> 📌 아래 대비는 디지털 트윈 데이터 모델링을 위한 **단순화된 설계 heuristic**(경험적 모델)이며 보편 법칙이 아닙니다. "Immutable/Fixed(불변)" 등은 상대적 경향을 뜻하며, 실제로는 비내력벽 변경·리모델링·구조 보강 등 예외가 있으므로 절대적 불변으로 해석하지 마세요.
+
 <div align="center">
 
 | <strong>1. 벽식 구조 (Wall Structure)</strong> | <strong>2. 라멘 구조 (Rahmen Structure)</strong> |

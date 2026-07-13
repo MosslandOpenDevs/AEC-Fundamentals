@@ -151,7 +151,7 @@ Drawings use various codes related to windows and doors to indicate material and
 | Stainless steel           |       SS      |     SSW    |    SSD   |      FSSD      |     SSS     |         –         |     SSG    |    SSF    |
 | Wood                      |       W       |     WW     |    WD    |        –       |      –      |         –         |     WG     |     WF    |
 
-Other Common Drawing Conventions그 외 도면에서 자주 보이는 표기 관례
+## Other Common Drawing Conventions
 
 NTS (Not To Scale)
 

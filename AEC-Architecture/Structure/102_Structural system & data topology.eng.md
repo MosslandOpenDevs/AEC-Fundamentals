@@ -26,6 +26,8 @@ The structural system is the highest-level <strong>Physical Constraint</strong> 
 
 <br>
 
+> 📌 The comparison below is a **simplifying design heuristic** for digital-twin data modeling, not a universal law. Labels such as "Immutable / Fixed" express relative tendencies — in practice, non-load-bearing walls can be changed and structures are retrofitted — so do not treat them as absolute invariants.
+
 <div align="center">
 
 | <strong>1. Wall Structure</strong> | <strong>2. Rahmen Structure</strong> |

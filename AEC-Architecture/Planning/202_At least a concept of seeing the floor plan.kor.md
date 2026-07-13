@@ -112,4 +112,4 @@
 <p align="center"><strong>●</strong> 구조에는 영향이 없음</p>
 <p align="center"><strong>●</strong> 비교적 자유롭게 변경 가능</p>
 
-<p align="center">👉 평면이 바뀌지 않는 이유는 설계가 고집스러워서가 아니라,<strong>구조적으로 바꿀 수 없기 때문인 경우가 많습니다.
+<p align="center">👉 평면이 바뀌지 않는 이유는 설계가 고집스러워서가 아니라, <strong>구조적으로 바꿀 수 없기 때문인 경우가 많습니다.</strong></p>

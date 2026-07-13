@@ -66,7 +66,7 @@ Below are four Modulor dimensions used by Le Corbusier as reference values:
 - A: Base dimension 113 cm (navel height)
 - B: Twice A, 226 cm (height with arm raised)
 - C: 183 cm (overall height)
-= D: 86 cm (height when leaning on the hand)
+- D: 86 cm (height when leaning on the hand)
 
 ## Modular Construction
 
