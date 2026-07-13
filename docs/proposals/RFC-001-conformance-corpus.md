@@ -9,7 +9,7 @@
 
 - 콘텐츠 문서 58개(한 29 + 영 29) 중 외부 출처 URL이 있는 문서 10개, 참고문헌 섹션이 있는 문서 14개.
 - 저장소 용량의 ~99.9%가 이미지(171개, 458MB)이며 상당수가 표시 크기 대비 과대하고 권리 근거가 불명확 (별첨 `../asset-audit/IMAGE-AUDIT.md`).
-- CI · 이슈 · PR · 태그 · 거버넌스 없음.
+- CI · 이슈 · PR · 태그 · 거버넌스 없음 *(2026-07-12 remediation 이전 기준. 이후 Issue #7 개설 및 최소 CI가 추가됨.)*.
 
 ## 2. Problem / 문제
 
@@ -25,30 +25,38 @@
 
 ### 저장소 경계 (제안)
 
+> **경계 주의:** 원안 MVP는 `open-sdb`가 이미 선언한 BIM→운영 handoff·identifier provenance·integration validation과 겹칩니다. 아래처럼 명확히 분리합니다.
+
 | 저장소 | 고유 역할 |
 | :--- | :--- |
-| `AEC-Fundamentals` | AEC 용어·단위·속성·관계·식별자의 **의미적 정확성** 검증 |
-| `open-sdb` | 검증된 BIM/BEM/BMS 데이터를 연결·운영하는 아키텍처·PoC |
-| `open-sde` | 에이전트가 설비를 조작할 때의 **권한·안전·책임** conformance |
+| `AEC-Fundamentals` | AEC **의미 요구사항**, IDS profile, **IFC pass/fail fixture**, 출처가 있는 domain rule |
+| `open-sdb` | `IFC ↔ Brick/Haystack/BMS/BEM` crosswalk, adapter, **identifier provenance**, integration pipeline |
+| `open-sde` | mandate, PDP/PEP, runtime assurance, actuation audit |
+| `FACADE` | 실제 요구사항·비식별 fixture 제공과 downstream 검증 |
 
-## 4. MVP — `AECF-HVAC-Handover-0.1`
+## 4. MVP — `AECF-HVAC-Handover-0.1` (범위 축소)
 
-2-zone 소형 오피스의 AHU–VAV 계통을 대상으로:
+> **원안은 IFC·IDS·Brick·Haystack·gbXML·COBie를 한꺼번에 다뤄 `open-sdb`와 중복·과대했습니다.** 첫 MVP는 **IFC + IDS 검증만** 남기고, Brick/Haystack/BMS 인계와 crosswalk는 `open-sdb`로 넘깁니다.
+
+2-zone 소형 오피스의 AHU–VAV 계통을 대상으로 (**MVP-0 범위**):
 
 ```text
-profiles/aecf-hvac-handover-0.1/{profile.yaml, requirements.ids, crosswalk.csv, sources.yaml}
+profiles/aecf-hvac-handover-0.1/{profile.yaml, requirements.ids, sources.yaml}
 cases/small-office-vav/
-├── design/model.ifc           # 설계 (IFC 4.3)
-├── operations/brick.ttl       # 운영 의미 모델 (Brick)
-├── operations/haystack.trio   # 운영 태깅 (Haystack)
-├── energy/model.gbxml         # 에너지 (gbXML)
-├── pass/  fail/  expected/results.json
-validator/   tests/   docs/primer-legacy/
+├── design/model.ifc              # 합성 2-zone AHU–VAV, IFC4X3_ADD2
+├── pass/model.ifc                # 정상 (IDS 통과)
+├── fail/{missing-prop,bad-unit,dup-id,broken-rel,...}.ifc   # 단일 결함 4~6개
+└── expected/results.json         # deterministic rule ID + 기대결과
+validator/   tests/   .github/workflows/   docs/primer-legacy/
 ```
 
-최소 검증 항목: 식별자 연결(IfcSpace·AHU·VAV·sensor…), `IFC GlobalId ↔ Brick URI ↔ BMS point ID ↔ COBie name` crosswalk, 필수 property 누락, 잘못된 단위, 중복/소실 ID, AHU→VAV→zone 관계 단절, 센서-설비 미연결, 잘못된 bSDD 분류.
+- 최소 검증 항목(MVP-0): 필수 property 누락, 잘못된 단위, 중복/소실 `GlobalId`, `AHU→VAV→zone` 관계 단절, 센서-설비 미연결 — 전부 **IDS 1.0 + IFC 스키마 검증**으로 판정.
+- 도구: **IfcOpenShell / IfcTester** 버전 고정, clean clone에서 실행되는 GitHub Actions, 생성경위·라이선스 manifest, openBIM·HVAC 전문가 검토 기록.
+- **이후 확장**(별도 case): `IFC GlobalId ↔ Brick URI ↔ BMS point ID ↔ COBie name` crosswalk, gbXML/에너지 — 단, 인계·통합 검증은 `open-sdb` 소관.
 
 ## 5. Standards baseline (2026)
+
+> **MVP-0에서 normative(필수)로 두는 것은 `IFC4X3_ADD2 / ISO 16739-1:2024`와 `IDS v1.0.0`뿐입니다.** 나머지(COBie·Brick·Haystack·gbXML·BCF 등)는 informative/후속이며, 실제 인계 검증은 `open-sdb` 소관입니다.
 
 | 계층 | 기준 |
 | :--- | :--- |

@@ -16,15 +16,18 @@ The repository is currently licensed as a whole under **CC BY-NC-SA 4.0**. Two i
 | :--- | :--- | :--- |
 | Validator / CI / tooling code | **Apache-2.0** or **MIT** | OSI-approved; enables reuse incl. commercial |
 | Original explanatory docs | **CC BY 4.0** | attribution, no NC restriction |
-| Crosswalk / factual data | **CC0** or **ODC-BY** | facts aren't copyrightable; ease reuse |
-| Third-party images / standard excerpts | **keep original license + attribution per file** | never re-license others' work |
+| Own crosswalk / self-authored data | **CC0** or **ODC-BY** *(after legal review)* | individual facts are generally not copyrightable, **but** their selection/arrangement can be (and some jurisdictions grant a *sui generis* **database right**); ODC-BY covers the DB layer, **not** the rights to individual records inside it |
+| Existing docs | **keep current CC BY-NC-SA until re-licensed** | re-license only after rights-holders are identified (see below) |
+| Third-party images / standard excerpts | **include only with proof of redistribution rights; otherwise remove or link-only** | attribution alone does **not** grant redistribution; keep the original license per file |
 
-Mechanism: a top-level `LICENSE` for code + a `LICENSES/` note explaining the per-content-type split, and per-file/near-file attribution for third-party assets (see `../asset-audit/image-manifest.csv`).
+**Standards principle:** do **not** copy ISO/standard text, tables, or definitions into the corpus/RAG. Keep only the **standard number + clause reference** plus **independently authored** requirements.
+
+Mechanism (REUSE-compliant): a top-level `LICENSE` for code, a `LICENSES/` folder, **SPDX headers** in source files, and a **`REUSE.toml`** for assets that can't carry a header (note: `.reuse/dep5` is deprecated as of [REUSE 3.3](https://reuse.software/spec-3.3/)). Per-image rights live in `../asset-audit/image-manifest.csv`.
 
 ## Blocking prerequisites (external review)
 
-- [ ] Inventory contributors and obtain consent to re-license existing contributions.
-- [ ] Verify, per image, whether it may be redistributed at all (many may need removal/replacement).
-- [ ] Legal confirmation that the chosen split matches the project's goals (esp. if `open-sdb`/`open-sde` will consume this data).
+- [ ] **Identify the actual copyright holders** (not merely "all contributors") — under employment/contractor agreements the company may hold the rights — then obtain consent to re-license.
+- [ ] Verify, per image, whether it may be redistributed at all (many may need removal/replacement/link-only).
+- [ ] Legal confirmation of the split incl. database-right exposure, esp. if `open-sdb`/`open-sde` will consume this data.
 
 *Source: structured from the external review provided 2026-07-13. Decision belongs to Mossland.*

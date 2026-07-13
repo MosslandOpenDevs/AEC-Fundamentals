@@ -1,4 +1,6 @@
-﻿People today spend about 90% of their day indoors. However, due to insufficient ventilation and concentrated indoor pollution sources, **indoor air is often more polluted than outdoor air**.
+﻿> ⚠️ **Verification status: UNVERIFIED.** The figures and rules in this document are not yet checked against primary sources. **Do not use for compliance decisions or model training (RAG).** See [Issue #7](https://github.com/MosslandOpenDevs/AEC-Fundamentals/issues/7).
+
+People today spend about 90% of their day indoors. However, due to insufficient ventilation and concentrated indoor pollution sources, **indoor air is often more polluted than outdoor air**.
 
 - **Sick House Syndrome** - Right after new construction or remodeling, formaldehyde and VOCs are emitted from wallpaper, flooring, adhesives, etc., causing irritation of the eyes/nose/throat and headaches. Before occupancy, **bake-out** (raise indoor temperature to 35-40 degC to release harmful substances, then ventilate; repeat 3-5 times) is effective.
 - **Sick Building Syndrome** - In aging buildings, polluted ducts, poor ventilation, mold growth, and similar issues can cause headaches, fatigue, and reduced concentration. A common feature is that symptoms improve after leaving the building. Regular HVAC cleaning and ventilation are key.

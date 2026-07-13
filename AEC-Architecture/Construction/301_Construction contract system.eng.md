@@ -1,6 +1,8 @@
 
 # What Is Building Construction?
 
+> ⚠️ **Verification status: UNVERIFIED.** The subcontracting rules described here (e.g. blanket-prohibition wording) omit statutory exceptions and are not yet checked against primary sources. **Do not use for compliance decisions or model training (RAG).** See [Issue #7](https://github.com/MosslandOpenDevs/AEC-Fundamentals/issues/7).
+
 Building construction refers to all activities involved in turning a building into reality—within an appropriate cost (construction cost) and an appropriate timeframe (construction duration)—while satisfying the three core requirements a building must meet: function, structure, and aesthetics. Understanding the fundamentals of construction helps even non-specialists better grasp common issues that arise during a project—such as cost increases (change/additional work), schedule delays (time extensions), quality/safety issues, and confusion over scope of responsibility—and make more rational decisions.
 
 In particular, knowing the basics of construction is helpful in the following ways:
@@ -30,7 +32,7 @@ The supervisor’s role is to verify that construction is being executed correct
 
 ## Site Manager (Field Manager, etc.)
 
-ite managers are employed by either the owner or the contractor (construction company) to handle construction-related tasks. They manage on-site operations in practice, including schedule (time), cost, quality, safety, and materials. On site, management capability has a major impact on final quality and adherence to the planned schedule.
+Site managers are employed by either the owner or the contractor (construction company) to handle construction-related tasks. They manage on-site operations in practice, including schedule (time), cost, quality, safety, and materials. On site, management capability has a major impact on final quality and adherence to the planned schedule.
 
 ---
 

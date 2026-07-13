@@ -4,7 +4,8 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Domains-6-1f6feb" alt="6 Domains">
-  <img src="https://img.shields.io/badge/Documents-29-2ea043" alt="29 Documents">
+  <img src="https://img.shields.io/badge/Topics-29-2ea043" alt="29 Topics">
+  <img src="https://img.shields.io/badge/Docs-58%20(KO%2BEN)-2ea043" alt="58 documents, Korean + English">
   <img src="https://img.shields.io/badge/Languages-KO%20%2B%20EN-8957e5" alt="Korean + English">
   <img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey" alt="CC BY-NC-SA 4.0">
 </p>
@@ -17,8 +18,8 @@
 
 `AEC-Fundamentals` is a **centralized AEC domain archive** that systematizes core knowledge across the architecture, engineering, and construction lifecycles. By consolidating fragmented insights—from regulatory constraints and structural mechanics to field-proven construction processes—this repository serves as a technical resource hub for building high-fidelity digital twins.
 
-> 모든 문서는 **한국어(`.kor.md`)와 영어(`.eng.md`)** 로 병기하여 제공합니다.
-> Every document is provided in both **Korean (`.kor.md`) and English (`.eng.md`)**.
+> 모든 **지식 문서**(29개 주제 · 58개 파일)는 한국어(`.kor.md`)와 영어(`.eng.md`)로 병기됩니다. `docs/`의 거버넌스·감사 문서는 예외입니다.
+> Every **knowledge document** (29 topics · 58 files) is provided in both Korean (`.kor.md`) and English (`.eng.md`). Governance/audit docs under `docs/` are the exception.
 
 ---
 
@@ -130,6 +131,15 @@
 | 열부하와 실내 공기 <br> <sub>Thermal Loads &amp; Indoor Air</sub> | [KO](AEC-Architecture/MEP/201_Thermal%20loads%20and%20indoor%20air.kor.md) · [EN](AEC-Architecture/MEP/201_Thermal%20loads%20and%20indoor%20air.eng.md) |
 
 </details>
+
+---
+
+## 🧰 Project & Governance Docs
+
+* **Asset audit** — [IMAGE-AUDIT.md](docs/asset-audit/IMAGE-AUDIT.md) · [image-manifest.csv](docs/asset-audit/image-manifest.csv)
+* **Proposals (DRAFT)** — [RFC-001: openBIM conformance corpus](docs/proposals/RFC-001-conformance-corpus.md) · [Licensing recommendation](docs/proposals/LICENSING.md) · discussion in [Issue #7](https://github.com/MosslandOpenDevs/AEC-Fundamentals/issues/7)
+
+> ⚠️ **신뢰성 안내 / Reliability note:** 일부 문서(`MEP/103`, `Structure/102`, `Construction/301`)는 법정 수치·규칙이 아직 1차 출처로 검증되지 않았습니다. 규정 준수나 모델 학습 근거로 사용하기 전 각 문서 상단의 상태 배너를 확인하세요. — Some documents are not yet source-verified; check the status banner at the top of each before relying on them for compliance or model training.
 
 ---
 

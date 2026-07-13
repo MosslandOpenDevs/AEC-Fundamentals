@@ -1,0 +1,24 @@
+name: docs-checks
+
+# Verifies Markdown will render on GitHub as intended (bold flanking, <img> HTML-block
+# traps, SETEXT headings), that every topic has a KO/EN pair, that relative links and
+# image references resolve, and that text files use LF. Pure stdlib — no dependencies.
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Run documentation checks
+        run: python scripts/check_docs.py
