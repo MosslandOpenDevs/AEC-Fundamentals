@@ -1,4 +1,4 @@
-# 🏗️ Structural System & Data Topology
+# 🏗️ Structural Loads & Load Path
 
 > **Document Info**
 > * **분류 (Category):** 건축 / 구조 시스템 (Architecture / Structural System)

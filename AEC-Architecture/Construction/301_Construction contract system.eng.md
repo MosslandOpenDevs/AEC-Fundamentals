@@ -87,7 +87,7 @@ Multiple-package contracting may also be subdivided as follows:
 
 3) Joint contract (Consortium)
 
-단독으로 맡기에는 규모가 크거나 혹은 특수 공사일 때 여러 회사가 임시로 결합하여 공동으로 책임을 지고 공사를 수행하는 방식입니다. 공사 이행의 확실성이 보장되고 위험이 분산되며, 자본력과 신용도가 증대합니다. 또한 도급 경쟁이 완화되고 기술향상과 경험의 확충이 기대된다는 장점이 있습니다. 반면 공동도급은 단일회사의 도급보다 경비가 증가하며, 이해충돌 및 책임회피의 우려도 있습니다. 또한 여러 회사가 결합한 만큼 경영방식 차이에서 오히려 능률 저하를 부르기도 하며, 사무 및 현장관리에 혼란이 우려되기도 합니다.
+When a project is too large or too specialized for a single company to undertake alone, several companies temporarily combine to share responsibility and carry out the work jointly. This ensures greater certainty of completion, spreads risk, and increases the combined capital strength and creditworthiness. It also eases bidding competition and is expected to promote technical improvement and the accumulation of experience. On the other hand, a joint contract incurs higher costs than a single-company contract and carries the risk of conflicts of interest and avoidance of responsibility. In addition, because several companies are combined, differences in management style can actually reduce efficiency, and confusion may arise in administrative and on-site management.
 
 ## Classification by Price Determination Method
 

@@ -5,7 +5,7 @@ Architectural drawings are technical documents used to communicate design intent
 
 ---
 
-# 도면의 종류
+# Types of Drawings
 
 ## Site Plan
 
@@ -125,7 +125,7 @@ A centerline. Indicates the center of a wall, column, equipment, etc. Because di
 
 DIM (Dimension)
 
-치수 표기 자체를 의미하거나 치수 관련 주기를 가리킬 때 사용합니다.
+Used to denote the dimension notation itself, or to refer to dimension-related notes.
 
 Ø / DIA (Diameter)
 
@@ -139,7 +139,7 @@ TYP (Typical)
 
 Indicates a repeated condition. Drawings are simplified by showing the condition once and marking it as TYP. However, any exceptions must be noted separately.
 
-## 창호부호
+## Window & Door Codes
 
 Drawings use various codes related to windows and doors to indicate material and type (window/door/fire door/shutter, etc.) in a compact form. Understanding this system makes it much easier to distinguish openings quickly on plans and elevations, and to coordinate with schedules (window/door schedules), finish schedules, and cost estimates. In this document, the symbols used for window/door coding are organized based on KSF 1502.
 
@@ -163,7 +163,7 @@ Indicates a revision/change. Often appears with revision clouds or revision mark
 
 ---
 
-## 참고 자료
+## Reference
 
 - 한국건축사협회, 건축도면 공동표준지침 1.1
 - 한국건축사협회, 건축도면 공동표준지침 부속서 8 건축 도면약어목록 1.1

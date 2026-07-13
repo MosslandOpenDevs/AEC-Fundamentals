@@ -1,4 +1,4 @@
-# 🏗️ Structural System & Data Topology
+# 🏗️ Structural Loads & Load Path
 
 > **Document Info**
 > * **Category:** Architecture / Structural System

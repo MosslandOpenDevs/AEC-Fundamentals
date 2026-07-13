@@ -294,7 +294,7 @@ Because factories involve frequent machine operation, windows are typically plan
 
 ---
 
-# 참고 자료
+# Reference
 
 - 김형돈, 2026 킴아카 건축계획(학), 킴아카출판사
 - 군산대학교 건설교육사업단, 문창호, 건축계획(1)

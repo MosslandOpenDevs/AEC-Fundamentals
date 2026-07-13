@@ -51,7 +51,7 @@ Energy performance is largely determined by planning-stage decisions—such as s
 
 # Modulor / Modular
 
-## 모듈이란?
+## What Is a Module?
 
 A module refers to a general standard unit that serves as a reference in building design, structural planning, and construction, based on human life and movement. Introducing modules organizes the dimensional system, improves drawing consistency, and links directly to material standards and construction methods—helping secure both stability and efficiency in planning.
 
@@ -136,7 +136,7 @@ The table below summarizes elevator layout types:
 
 
 
-# 참고 자료
+# Reference
 
 - 김형돈, 2026 킴아카 건축계획(학), 킴아카출판사
 - 코리아빌드, 모듈러 건축의 모든 것, https://koreabuild.co.kr/kintex/2021/03/05/modularconstruction/
