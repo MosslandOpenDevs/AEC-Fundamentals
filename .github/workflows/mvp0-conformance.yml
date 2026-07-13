@@ -1,6 +1,6 @@
 name: mvp0-conformance
 
-# Validates the AECF-HVAC-Handover-0.1 IFC/IDS conformance corpus with IfcOpenShell/
+# Validates the AECF-HVAC-Semantics-0.1 IFC/IDS conformance corpus with IfcOpenShell/
 # IfcTester: the pass model must satisfy every specification and each fail model must
 # fail exactly the specifications recorded in expected/results.json.
 

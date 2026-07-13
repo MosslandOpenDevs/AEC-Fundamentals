@@ -1,0 +1,34 @@
+id: aecf-hvac-semantics-0.1
+title: AEC-F HVAC IFC-semantics conformance profile (MVP-0)
+status: draft
+description: >
+  Minimal IFC-SEMANTICS conformance profile for a 2-zone small-office AHU-VAV system.
+  Per RFC-001 / ADR-001 the scope is AEC meaning/attributes/relationships INSIDE IFC
+  (IFC 4.3 + IDS 1.0 only). BMS_PointID is a SYNTHETIC project-requirement example, not
+  a real BMS mapping; the actual IFC<->Brick/Haystack/BMS crosswalk and integration
+  validation belong to open-sdb.
+schema: IFC4X3_ADD2
+ids: requirements.ids
+boundary: ../../docs/proposals/ADR-001-repo-boundaries.md
+normative:
+  - IFC4X3_ADD2 (ISO 16739-1:2024)
+  - IDS v1.0.0
+checks:
+  - Spaces are named                # identifier linkage
+  - VAV has BMS_PointID (pattern VAV-NN; synthetic example)
+  - AHU DesignAirFlowRate datatype = IfcVolumetricFlowRateMeasure   # unit/datatype
+  - VAV is part of an IfcDistributionSystem                         # membership only (not AHU->VAV->zone topology)
+hardening:
+  - "minOccurs=1 on every spec (empty model fails; no vacuous pass)"
+  - "run.py enforces IFC4X3_ADD2 schema validity on every model"
+  - "byte-deterministic generation (fixed GUIDs/header, sorted SETs)"
+known_limitations:
+  - entity typing assumed (any IfcAirTerminalBox=VAV, any IfcUnitaryEquipment=AHU)
+  - no real AHU->VAV->zone topology check
+  - not caught: duplicate BMS_PointID, negative/out-of-range airflow, unit magnitude, entity counts
+  - self-consistency risk (same IfcTester family authors + validates)
+tooling:
+  ifcopenshell: 0.8.5
+  ifctester: 0.8.5
+review:
+  status: unreviewed    # needs an openBIM/HVAC expert sign-off before it is authoritative

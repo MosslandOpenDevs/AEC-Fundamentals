@@ -1,5 +1,5 @@
 {
-  "profile": "aecf-hvac-handover-0.1",
+  "profile": "aecf-hvac-semantics-0.1",
   "cases": {
     "pass/model.ifc": {
       "expected": "pass",

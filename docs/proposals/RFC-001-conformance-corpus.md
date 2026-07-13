@@ -34,14 +34,14 @@
 | `open-sde` | mandate, PDP/PEP, runtime assurance, actuation audit |
 | `FACADE` | 실제 요구사항·비식별 fixture 제공과 downstream 검증 |
 
-## 4. MVP — `AECF-HVAC-Handover-0.1` (범위 축소)
+## 4. MVP — `AECF-HVAC-Semantics-0.1` (범위 축소)
 
 > **원안은 IFC·IDS·Brick·Haystack·gbXML·COBie를 한꺼번에 다뤄 `open-sdb`와 중복·과대했습니다.** 첫 MVP는 **IFC + IDS 검증만** 남기고, Brick/Haystack/BMS 인계와 crosswalk는 `open-sdb`로 넘깁니다.
 
 2-zone 소형 오피스의 AHU–VAV 계통을 대상으로 (**MVP-0 범위**):
 
 ```text
-profiles/aecf-hvac-handover-0.1/{profile.yaml, requirements.ids, sources.yaml}
+profiles/aecf-hvac-semantics-0.1/{profile.yaml, requirements.ids, sources.yaml}
 cases/small-office-vav/
 ├── design/model.ifc              # 합성 2-zone AHU–VAV, IFC4X3_ADD2
 ├── pass/model.ifc                # 정상 (IDS 통과)
@@ -95,7 +95,7 @@ source_ids: [kr-iaq-act-rule-appendix-2]
 | :--- | :--- | :--- |
 | 1–2주 | 신규 문서 중단, 오류·출처·권리 감사 | 58문서·171이미지에 상태 부여 |
 | 3–4주 | README·파일명·CI·라이선스 구조 정비 | link/media/lang-pair 검사 CI 통과 |
-| 5–8주 | `AECF-HVAC-Handover-0.1` 구현 | IFC/IDS/Brick pass/fail 자동검증 |
+| 5–8주 | `AECF-HVAC-Semantics-0.1` 구현 | IFC/IDS/Brick pass/fail 자동검증 |
 | **60일 Gate** | 유지 판정 | fixture 실패 시 검수 문서만 `open-sdb`로 이전 후 archive |
 
 ## 9. Needs external review / 외부 감수 필요 (이 RFC의 전제)

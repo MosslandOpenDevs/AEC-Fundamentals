@@ -1,4 +1,4 @@
-"""Build the AECF-HVAC-Handover-0.1 pass model + single-defect fail variants (deterministic)."""
+"""Build the AECF-HVAC-Semantics-0.1 pass model + single-defect fail variants (deterministic)."""
 import hashlib, os, sys, ifcopenshell, ifcopenshell.api, ifcopenshell.guid
 
 SCHEMA = "IFC4X3_ADD2"
@@ -14,7 +14,7 @@ def run(model, hook, **kw):
 
 def build_base():
     m = ifcopenshell.file(schema=SCHEMA)
-    project = run(m, "root.create_entity", ifc_class="IfcProject", name="AECF-HVAC-Handover-0.1")
+    project = run(m, "root.create_entity", ifc_class="IfcProject", name="AECF-HVAC-Semantics-0.1")
     project.GlobalId = guid("project")
     run(m, "unit.assign_unit", length={"is_metric": True, "raw": "METERS"})
     ctx = run(m, "context.add_context", context_type="Model")
@@ -52,7 +52,9 @@ def build_base():
 
     for i, vav in enumerate(vavs, 1):
         ps = run(m, "pset.add_pset", product=vav, name="AECF_Handover")
-        run(m, "pset.edit_pset", pset=ps, properties={"BMS_PointID": f"VAV-{i:02d}"})
+        # second property so removing BMS_PointID leaves a valid (non-empty) IfcPropertySet
+        run(m, "pset.edit_pset", pset=ps,
+            properties={"BMS_PointID": f"VAV-{i:02d}", "ZoneName": f"Zone-{i}"})
     ahu_ps = run(m, "pset.add_pset", product=ahu, name="AECF_Handover")
     run(m, "pset.edit_pset", pset=ahu_ps,
         properties={"DesignAirFlowRate": m.create_entity("IfcVolumetricFlowRateMeasure", 2.5)})
@@ -111,17 +113,53 @@ FAILS = {
     "broken-system": ("VAV is part of a distribution system", mut_broken_system),
 }
 
+
+def finalize(m):
+    """Make output byte-deterministic: fixed GUIDs (incl. api-created relationships) and
+    a fixed STEP header (no wall-clock timestamp)."""
+    from collections import Counter
+    seen = Counter()
+    for e in m.by_type("IfcRoot"):
+        key = f"{e.is_a()}:{e.Name or ''}"
+        seen[key] += 1
+        e.GlobalId = ifcopenshell.guid.compress(
+            hashlib.md5(f"{key}:{seen[key]}".encode()).hexdigest())
+    # IFC SETs are unordered but serialize in insertion order; sort membership by the
+    # (now deterministic) GlobalId so the written bytes are stable.
+    for rel in m.by_type("IfcRelationship"):
+        for attr in ("RelatedElements", "RelatedObjects"):
+            try:
+                val = getattr(rel, attr)
+            except Exception:
+                continue
+            if val and len(val) > 1:
+                setattr(rel, attr, tuple(sorted(val, key=lambda o: o.GlobalId or "")))
+    for ua in m.by_type("IfcUnitAssignment"):   # Units is also an unordered SET
+        if ua.Units and len(ua.Units) > 1:
+            ua.Units = tuple(sorted(ua.Units, key=lambda u: u.id()))
+    h = m.header
+    h.file_name.name = "aecf-hvac-semantics-0.1"
+    h.file_name.time_stamp = "2026-01-01T00:00:00"
+    h.file_name.author = ["aecf"]
+    h.file_name.organization = ["mossland"]
+    return m
+
+
+def write(m, path):
+    finalize(m).write(path)
+
+
 if __name__ == "__main__":
     root = sys.argv[1] if len(sys.argv) > 1 else "cases/small-office-vav"
     os.makedirs(f"{root}/pass", exist_ok=True)
     os.makedirs(f"{root}/fail", exist_ok=True)
     os.makedirs(f"{root}/design", exist_ok=True)
     base = build_base()
-    base.write(f"{root}/pass/model.ifc")
-    base.write(f"{root}/design/model.ifc")
+    write(base, f"{root}/pass/model.ifc")
+    write(build_base(), f"{root}/design/model.ifc")
     print("wrote pass/model.ifc")
     for key, (spec, fn) in FAILS.items():
         m = build_base()
         fn(m)
-        m.write(f"{root}/fail/{key}.ifc")
+        write(m, f"{root}/fail/{key}.ifc")
         print(f"wrote fail/{key}.ifc  (should fail: {spec})")

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Conformance runner for AECF-HVAC-Handover-0.1.
+"""Conformance runner for AECF-HVAC-Semantics-0.1.
 
 Validates every case model under cases/small-office-vav/{pass,fail}/ against the
 profile IDS with ifctester, then checks the result matches expected/results.json:
@@ -17,9 +17,26 @@ import ifcopenshell
 from ifctester import ids
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-IDS_PATH = os.path.join(ROOT, "profiles", "aecf-hvac-handover-0.1", "requirements.ids")
+IDS_PATH = os.path.join(ROOT, "profiles", "aecf-hvac-semantics-0.1", "requirements.ids")
 CASE_DIR = os.path.join(ROOT, "cases", "small-office-vav")
 EXPECTED = os.path.join(CASE_DIR, "expected", "results.json")
+
+
+EXPECTED_SCHEMA = "IFC4X3_ADD2"
+
+
+def schema_errors(model_path):
+    """Every case model (pass AND fail) must be a schema-valid IFC4X3_ADD2 file; the fail
+    models violate the IDS, not the IFC schema."""
+    import ifcopenshell.validate
+    model = ifcopenshell.open(model_path)
+    errs = []
+    if model.schema_identifier != EXPECTED_SCHEMA:
+        errs.append(f"schema {model.schema_identifier} != {EXPECTED_SCHEMA}")
+    logger = ifcopenshell.validate.json_logger()
+    ifcopenshell.validate.validate(model, logger)
+    errs += [str(s)[:100] for s in logger.statements]
+    return errs
 
 
 def failed_specs(model_path):
@@ -43,11 +60,16 @@ def run(write=False):
     expected = {} if write else json.load(open(EXPECTED)).get("cases", {})
     results, ok = {}, True
     for rel, kind in cases.items():
-        fs = failed_specs(os.path.join(CASE_DIR, rel))
+        path = os.path.join(CASE_DIR, rel)
+        se = schema_errors(path)          # every model must be valid IFC4X3_ADD2
+        fs = failed_specs(path)
         verdict = "pass" if not fs else "fail"
         results[rel] = {"expected": kind, "failed_specs": fs}
+        if se:
+            ok = False
+            print(f"  ❌ [schema] {rel:34s} {se}")
         # structural invariant
-        structural = (kind == "pass" and verdict == "pass") or (kind == "fail" and verdict == "fail")
+        structural = (not se) and ((kind == "pass" and verdict == "pass") or (kind == "fail" and verdict == "fail"))
         # match against recorded expectation (verdict + which specs)
         exp = expected.get(rel)
         matches = write or (exp is not None and exp.get("failed_specs", []) == fs and exp.get("expected") == kind)
@@ -58,7 +80,7 @@ def run(write=False):
 
     if write:
         os.makedirs(os.path.dirname(EXPECTED), exist_ok=True)
-        json.dump({"profile": "aecf-hvac-handover-0.1", "cases": results},
+        json.dump({"profile": "aecf-hvac-semantics-0.1", "cases": results},
                   open(EXPECTED, "w"), indent=2, ensure_ascii=False)
         open(EXPECTED, "a").write("\n")
         print(f"\nwrote {os.path.relpath(EXPECTED, ROOT)} ({len(results)} cases)")

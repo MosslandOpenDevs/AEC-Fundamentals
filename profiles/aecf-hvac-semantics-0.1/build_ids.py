@@ -1,23 +1,28 @@
-"""Author the AECF-HVAC-Handover-0.1 IDS (IDS 1.0)."""
+"""Author the AECF-HVAC-Semantics-0.1 IDS (IDS 1.0)."""
 from ifctester import ids
 
 
 def build():
     doc = ids.Ids(
-        title="AECF-HVAC-Handover-0.1",
-        description="Minimal IFC->operations handover conformance profile (2-zone AHU-VAV).",
+        title="AECF-HVAC-Semantics-0.1",
+        description=(
+            "Minimal IFC SEMANTICS conformance profile for a 2-zone AHU-VAV model. "
+            "Scope: AEC meaning/attributes/relationships INSIDE IFC only (RFC-001). "
+            "Note: BMS_PointID here is a SYNTHETIC project-requirement example, NOT a real "
+            "BMS mapping; actual IFC<->BMS/Brick crosswalk & provenance belong to open-sdb."
+        ),
         author="aecf@mossland.io",
         version="0.1.0",
     )
 
     # 1. every space must be named (identifier linkage)
-    s1 = ids.Specification(name="Spaces are named", ifcVersion="IFC4X3_ADD2")
+    s1 = ids.Specification(name="Spaces are named", ifcVersion="IFC4X3_ADD2", minOccurs=1, maxOccurs="unbounded")
     s1.applicability.append(ids.Entity(name="IFCSPACE"))
     s1.requirements.append(ids.Attribute(name="Name"))
     doc.specifications.append(s1)
 
     # 2. every VAV carries a BMS point id matching VAV-NN
-    s2 = ids.Specification(name="VAV has BMS_PointID", ifcVersion="IFC4X3_ADD2")
+    s2 = ids.Specification(name="VAV has BMS_PointID", ifcVersion="IFC4X3_ADD2", minOccurs=1, maxOccurs="unbounded")
     s2.applicability.append(ids.Entity(name="IFCAIRTERMINALBOX"))
     s2.requirements.append(ids.Property(
         propertySet="AECF_Handover", baseName="BMS_PointID",
@@ -27,7 +32,7 @@ def build():
     doc.specifications.append(s2)
 
     # 3. AHU design airflow must be a volumetric flow rate (correct unit/datatype)
-    s3 = ids.Specification(name="AHU airflow has correct datatype", ifcVersion="IFC4X3_ADD2")
+    s3 = ids.Specification(name="AHU airflow has correct datatype", ifcVersion="IFC4X3_ADD2", minOccurs=1, maxOccurs="unbounded")
     s3.applicability.append(ids.Entity(name="IFCUNITARYEQUIPMENT"))
     s3.requirements.append(ids.Property(
         propertySet="AECF_Handover", baseName="DesignAirFlowRate",
@@ -36,7 +41,7 @@ def build():
     doc.specifications.append(s3)
 
     # 4. every VAV must belong to a distribution system (AHU->VAV->zone chain)
-    s4 = ids.Specification(name="VAV is part of a distribution system", ifcVersion="IFC4X3_ADD2")
+    s4 = ids.Specification(name="VAV is part of a distribution system", ifcVersion="IFC4X3_ADD2", minOccurs=1, maxOccurs="unbounded")
     s4.applicability.append(ids.Entity(name="IFCAIRTERMINALBOX"))
     s4.requirements.append(ids.PartOf(name="IFCDISTRIBUTIONSYSTEM", relation="IFCRELASSIGNSTOGROUP"))
     doc.specifications.append(s4)

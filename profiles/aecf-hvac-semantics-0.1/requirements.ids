@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ids xmlns="http://standards.buildingsmart.org/IDS" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://standards.buildingsmart.org/IDS http://standards.buildingsmart.org/IDS/1.0/ids.xsd">
     <info>
-        <title>AECF-HVAC-Handover-0.1</title>
+        <title>AECF-HVAC-Semantics-0.1</title>
         <version>0.1.0</version>
-        <description>Minimal IFC-&gt;operations handover conformance profile (2-zone AHU-VAV).</description>
+        <description>Minimal IFC SEMANTICS conformance profile for a 2-zone AHU-VAV model. Scope: AEC meaning/attributes/relationships INSIDE IFC only (RFC-001). Note: BMS_PointID here is a SYNTHETIC project-requirement example, NOT a real BMS mapping; actual IFC&lt;-&gt;BMS/Brick crosswalk &amp; provenance belong to open-sdb.</description>
         <author>aecf@mossland.io</author>
     </info>
     <specifications>
         <specification name="Spaces are named" ifcVersion="IFC4X3_ADD2">
-            <applicability minOccurs="0" maxOccurs="unbounded">
+            <applicability minOccurs="1" maxOccurs="unbounded">
                 <entity>
                     <name>
                         <simpleValue>IFCSPACE</simpleValue>
@@ -24,7 +24,7 @@
             </requirements>
         </specification>
         <specification name="VAV has BMS_PointID" ifcVersion="IFC4X3_ADD2">
-            <applicability minOccurs="0" maxOccurs="unbounded">
+            <applicability minOccurs="1" maxOccurs="unbounded">
                 <entity>
                     <name>
                         <simpleValue>IFCAIRTERMINALBOX</simpleValue>
@@ -48,7 +48,7 @@
             </requirements>
         </specification>
         <specification name="AHU airflow has correct datatype" ifcVersion="IFC4X3_ADD2">
-            <applicability minOccurs="0" maxOccurs="unbounded">
+            <applicability minOccurs="1" maxOccurs="unbounded">
                 <entity>
                     <name>
                         <simpleValue>IFCUNITARYEQUIPMENT</simpleValue>
@@ -67,7 +67,7 @@
             </requirements>
         </specification>
         <specification name="VAV is part of a distribution system" ifcVersion="IFC4X3_ADD2">
-            <applicability minOccurs="0" maxOccurs="unbounded">
+            <applicability minOccurs="1" maxOccurs="unbounded">
                 <entity>
                     <name>
                         <simpleValue>IFCAIRTERMINALBOX</simpleValue>
