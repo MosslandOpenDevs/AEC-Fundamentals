@@ -136,7 +136,7 @@
 
 ## 🧰 Project & Governance Docs
 
-* **Asset audit** — [IMAGE-AUDIT.md](docs/asset-audit/IMAGE-AUDIT.md) · [image-manifest.csv](docs/asset-audit/image-manifest.csv)
+* **Asset audit** — [IMAGE-AUDIT.md](docs/asset-audit/IMAGE-AUDIT.md) · [rights CLEARANCE triage](docs/asset-audit/CLEARANCE.md) · [image-manifest.csv](docs/asset-audit/image-manifest.csv)
 * **Proposals (DRAFT)** — [RFC-001: openBIM conformance corpus](docs/proposals/RFC-001-conformance-corpus.md) · [Licensing recommendation](docs/proposals/LICENSING.md) · discussion in [Issue #7](https://github.com/MosslandOpenDevs/AEC-Fundamentals/issues/7)
 
 > ⚠️ **신뢰성 안내 / Reliability note:** 일부 문서(`MEP/103`, `Structure/102`, `Construction/301`)는 법정 수치·규칙이 아직 1차 출처로 검증되지 않았습니다. 규정 준수나 모델 학습 근거로 사용하기 전 각 문서 상단의 상태 배너를 확인하세요. — Some documents are not yet source-verified; check the status banner at the top of each before relying on them for compliance or model training.
