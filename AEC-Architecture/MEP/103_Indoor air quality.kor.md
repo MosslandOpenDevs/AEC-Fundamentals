@@ -1,4 +1,4 @@
-> ⚠️ **검증 상태: 미검증(unverified).** 이 문서의 법정 수치·규칙은 아직 1차 출처로 검증되지 않았습니다. **규정 준수 판단이나 모델 학습(RAG) 근거로 사용하지 마세요.** 관련 논의: [Issue #7](https://github.com/MosslandOpenDevs/AEC-Fundamentals/issues/7).
+> ⚠️ **검증 상태: 미검증(unverified).** 이 문서의 법정 수치·규칙은 아직 1차 출처로 검증·교정되지 않았습니다(일부 오류는 이미 확인됨 — 2절의 안내 참고). **규정 준수 판단이나 모델 학습(RAG) 근거로 사용하지 마세요.** 관련 논의: [Issue #7](https://github.com/MosslandOpenDevs/AEC-Fundamentals/issues/7).
 
 현대인은 하루의 약 90%를 실내에서 보냅니다. 그런데 실내 공기는 환기 부족과 오염원 집중으로 **외부 공기보다 오히려 더 오염되어 있는 경우**가 많습니다.
 

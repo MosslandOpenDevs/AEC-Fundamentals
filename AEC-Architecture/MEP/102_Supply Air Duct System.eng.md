@@ -1,4 +1,4 @@
-﻿## 1. What Is a Duct System? - A Building's Air Lifeline
+## 1. What Is a Duct System? - A Building's Air Lifeline
 
 **A duct** is a pathway that moves air.
 It is a core part of HVAC (heating, ventilation, and air conditioning) systems. Ducts are usually hidden above ceilings or inside walls, but they play a critical role in controlling airflow throughout a building.

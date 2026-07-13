@@ -142,8 +142,11 @@ def check_crlf():
         for f in glob.glob(pat, recursive=True):
             if f.startswith(".git/"):
                 continue
-            if b"\r\n" in open(f, "rb").read():
+            raw = open(f, "rb").read()
+            if b"\r\n" in raw:
                 err(f"{f}: contains CRLF line endings (use LF)")
+            if raw.startswith(b"\xef\xbb\xbf"):
+                err(f"{f}: starts with a UTF-8 BOM (use plain UTF-8)")
 
 
 def main():

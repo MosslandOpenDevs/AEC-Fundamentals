@@ -1,4 +1,4 @@
-﻿> ⚠️ **Verification status: UNVERIFIED.** The figures and rules in this document are not yet checked against primary sources. **Do not use for compliance decisions or model training (RAG).** See [Issue #7](https://github.com/MosslandOpenDevs/AEC-Fundamentals/issues/7).
+> ⚠️ **Verification status: UNVERIFIED.** The figures and rules in this document are not yet verified/corrected against primary sources (some errors are already confirmed — see the note in §2). **Do not use for compliance decisions or model training (RAG).** See [Issue #7](https://github.com/MosslandOpenDevs/AEC-Fundamentals/issues/7).
 
 People today spend about 90% of their day indoors. However, due to insufficient ventilation and concentrated indoor pollution sources, **indoor air is often more polluted than outdoor air**.
 
