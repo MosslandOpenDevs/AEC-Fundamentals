@@ -1,13 +1,17 @@
 # AEC Domain Archive: Engineering Foundations for Digital Twins
 
+<!-- opendevs-badges:start -->
+[![CI](https://github.com/MosslandOpenDevs/AEC-Fundamentals/actions/workflows/docs-checks.yml/badge.svg)](https://github.com/MosslandOpenDevs/AEC-Fundamentals/actions/workflows/docs-checks.yml)
+[![License (text): CC-BY-NC-SA-4.0](https://img.shields.io/badge/License%20%28text%29-CC--BY--NC--SA--4.0-64748b?style=flat)](README.md#-license)
+<!-- opendevs-badges:end -->
+
 **A Centralized Repository of Core AEC Documentation and Field Insights for Digital Synchronization.**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Domains-6-1f6feb" alt="6 Domains">
-  <img src="https://img.shields.io/badge/Topics-29-2ea043" alt="29 Topics">
-  <img src="https://img.shields.io/badge/Docs-58%20(KO%2BEN)-2ea043" alt="58 documents, Korean + English">
-  <img src="https://img.shields.io/badge/Languages-KO%20%2B%20EN-8957e5" alt="Korean + English">
-  <img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey" alt="CC BY-NC-SA 4.0">
+  <img src="https://img.shields.io/badge/Domains-6-1f6feb?style=flat" alt="6 Domains">
+  <img src="https://img.shields.io/badge/Topics-29-2ea043?style=flat" alt="29 Topics">
+  <img src="https://img.shields.io/badge/Docs-58%20(KO%2BEN)-2ea043?style=flat" alt="58 documents, Korean + English">
+  <img src="https://img.shields.io/badge/Languages-KO%20%2B%20EN-8957e5?style=flat" alt="Korean + English">
 </p>
 
 ---
